@@ -8,7 +8,7 @@ tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 
-Here’s a quick BigQuery hashtag#SQL exercise. I often work with cumulative aggregations, but it’s not every day that I need to reverse them—converting cumulative values back into monthly figures.
+Here’s a quick BigQuery SQL exercise. I often work with cumulative aggregations, but it’s not every day that I need to reverse them—converting cumulative values back into monthly figures.
 
 Let's look at an example.
 
