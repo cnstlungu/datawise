@@ -8,7 +8,7 @@ tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
-Here’s another practical BigQuery hashtag#SQL exercise 💡
+Here’s another practical BigQuery SQL exercise 💡
 
 Say you have an input SCD2-style table with \[valid\_from, valid\_to) and key-value attributes. Now you want to determine which attributes were valid at the same time for a given grain (e.g. id).
 
