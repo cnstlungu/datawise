@@ -24,6 +24,6 @@ To do this, we:
 
 We can now see that, for example, for the period between \[2023-01-05, 2023-01-08), for id = 2, B was true and A was false.
 
-![table](https://media.licdn.com/dms/image/v2/D4D22AQGW5mRP5g8Uvg/feedshare-shrink_1280/B4DZdgINWTGgAs-/0/1749664455388?e=1752710400&v=beta&t=sIR0e4UwOqtNRHaT5Sa3uAO6Js_0CzMQr3zV-qcFQtc align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*al6Q7c7B2GwZ3sZC align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
