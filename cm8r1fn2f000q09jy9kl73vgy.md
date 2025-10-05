@@ -28,6 +28,6 @@ Things to watch out for:
 ➡️ Gaps in the data: How do they impact the calculation? Are we okay with that?  
 ➡️ Grain considerations: Do we need to do this per department? Per country? If so, adjust the PARTITION BY accordingly.
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/v2/D4D22AQFjo3yb4boqUg/feedshare-shrink_2048_1536/B4DZXTir_BGkAs-/0/1743010841142?e=1746057600&v=beta&t=o9AF06EsAFRCZsBuHfCdikNxtKhmz2CIeRx9coOUOcI align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*Wuw8he37UZSOsKiT align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
