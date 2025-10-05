@@ -14,6 +14,6 @@ While the performance gain when using these *unenforced* PK/FK constraints in ge
 
 For a refresher on what these constraints are, see [my previous post](https://datawise.dev/bigquery-primary-key-foreign-key-constraints).
 
-![graphical user interface, text, application, email](https://media.licdn.com/dms/image/v2/D4D22AQEGDMIhA0ZLaw/feedshare-shrink_2048_1536/B4DZc3mBWsGUAo-/0/1748984403859?e=1752105600&v=beta&t=ebAouJ4MrFc-B7MbqJl2SSQZKz4sobMSd7IJOhkxVSg align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*6jgUdm3tK8Kmdvam align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
