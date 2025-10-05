@@ -14,7 +14,7 @@ Problem statement: compacting a SCD-2 table, essentially finding intervals that 
 
 This particular input data guarantees these intervals cannot overlap (at the same grain), but there can be gaps. We're also talking about \[left-inclusive, right-exclusive) intervals.
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQFu9mSxT-JCRw/feedshare-shrink_2048_1536/B4DZdB.ZfrHkAo-/0/1749158566742?e=1752105600&v=beta&t=w4foYg_f0RMCk14QMOY53HSpsMnLROpvZIo86jq9lhk align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*xL2thW2sDi8R1WPf align="left")
 
 Here's a breakdown of how it all works:
 
