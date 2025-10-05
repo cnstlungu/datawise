@@ -14,7 +14,7 @@ I'm talking about the NULL-safe operators IS DISTINCT FROM and IS NOT DISTINCT F
 
 Works on BigQuery too, so I guess less need of adding IFNULLs / COALESCE for safety.
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQGswzchqre5TA/feedshare-shrink_800/B4DZagqqF5G0Ak-/0/1746452259793?e=1749686400&v=beta&t=sqBRDF1U7MNswza6QzDg1FbTHw_75RcyJkeIqWFPdUU align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*Wb4zGkbHhG9oEoVC align="left")
 
 PS This choice of keyword "FROM", together with the one in EXTRACT(HOUR FROM DATETIME '2021-01-01'), feels pretty weird.
 
