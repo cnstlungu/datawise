@@ -22,7 +22,7 @@ Well, WITH expressions have the potential to help in the same way — but for no
 When working with complex formulas, you can’t reference (within the same SELECT) a column you just defined. The usual workaround is to push it into another CTE — which works, but feels verbose. I still opted to do it since it's important that the code stayed readable and maintainable.  
 Now WITH expressions give us a cleaner option and help avoid those 7-operand expressions. I, for one, plan on trying them out ASAP.
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQEYGcsgW1-GOg/feedshare-shrink_1280/B4DZmREMcKJAAs-/0/1759075420579?e=1762387200&v=beta&t=Mwpk6vRASHgoM9J4QW87bwYlbf-JVBq7UqKCAzVfeIY align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*_xQceeRWtGCI3qkO align="left")
 
 Has anyone here used them already? Any thoughts? Docs [here](https://cloud.google.com/bigquery/docs/reference/standard-sql/operators#with_expression).
 
