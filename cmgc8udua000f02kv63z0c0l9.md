@@ -1,5 +1,7 @@
 ---
 title: "Table grain quick validation with SQL"
+seoTitle: "Validate Table Data Quickly with SQL"
+seoDescription: "Quickly validate table grain, identify duplicates, and check assumptions using SQL techniques with TO_JSON_STRING and FARM_FINGERPRINT"
 datePublished: Sat Oct 04 2025 12:22:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmgc8udua000f02kv63z0c0l9
 slug: table-grain-quick-validation-with-sql
