@@ -21,6 +21,6 @@ Where I would not use it?
 
 👉 Don’t use it when the hierarchy matters. Flattening removes structural context, so you lose information about where an element came from.
 
-![No alternative text description for this image](https://media.licdn.com/dms/image/v2/D4D22AQHaKMBOnN69pA/feedshare-shrink_1280/B4DZr4kANvHwAc-/0/1765106779219?e=1766620800&v=beta&t=xbMgNk-lxwyroUHu-8B7jk223iJJt9iP6NhiiKdJbrI align="left")
+![](https://miro.medium.com/v2/resize:fit:1236/0*1UoE8j3SpwNK3K-V align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
