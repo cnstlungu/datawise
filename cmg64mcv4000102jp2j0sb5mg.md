@@ -1,5 +1,7 @@
 ---
 title: "WITH expressions in BigQuery"
+seoTitle: "BigQuery WITH Expressions Explained"
+seoDescription: "Learn how WITH expressions in BigQuery can simplify complex SQL queries and reduce boilerplate code by defining scoped variables within expressions"
 datePublished: Tue Sep 30 2025 05:38:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmg64mcv4000102jp2j0sb5mg
 slug: with-expressions-in-bigquery
