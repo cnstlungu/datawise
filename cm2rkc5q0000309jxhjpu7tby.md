@@ -1,5 +1,7 @@
 ---
 title: "Not all NULLS are the same"
+seoTitle: "Understanding Different Types of NULLs"
+seoDescription: "Understanding how different NULLs behave in BigQuery SQL and their impact on data types"
 datePublished: Sun Oct 27 2024 12:25:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm2rkc5q0000309jxhjpu7tby
 slug: not-all-nulls-are-the-same
