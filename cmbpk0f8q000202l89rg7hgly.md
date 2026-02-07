@@ -1,5 +1,7 @@
 ---
 title: "Compacting date intervals in BigQuery"
+seoTitle: "Optimize Date Intervals in BigQuery"
+seoDescription: "Learn how to compact date intervals in BigQuery using a step-by-step SQL approach, perfect for merging adjacent data intervals seamlessly"
 datePublished: Mon Jun 09 2025 20:38:02 GMT+0000 (Coordinated Universal Time)
 cuid: cmbpk0f8q000202l89rg7hgly
 slug: compacting-date-intervals-in-bigquery
