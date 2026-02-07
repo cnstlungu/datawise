@@ -1,5 +1,7 @@
 ---
 title: "Why you should care about VS Code Remote Development"
+seoTitle: "Benefits of VS Code Remote Development"
+seoDescription: "Discover the benefits of VS Code Remote Development and enhance your workflow with efficient resource management using SSH and remote servers"
 datePublished: Tue Nov 12 2024 22:32:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm3f12hyk00010al91fhhcojg
 slug: why-you-should-care-about-vs-code-remote-development
