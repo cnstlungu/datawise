@@ -1,5 +1,7 @@
 ---
 title: "Sometimes, you have to use subqueries!"
+seoTitle: "Embrace the Power of Subqueries!"
+seoDescription: "Learn how to handle SQL subqueries to filter errors and construct arrays, even with NULL values in your database"
 datePublished: Fri Nov 01 2024 15:40:11 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ywhzrd000a09kxhhzxayso
 slug: sometimes-you-have-to-use-subqueries
