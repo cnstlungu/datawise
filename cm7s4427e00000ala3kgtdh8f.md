@@ -1,5 +1,7 @@
 ---
 title: "A quick overview of BigQuery functions"
+seoTitle: "BigQuery Functions: A Quick Overview"
+seoDescription: "Explore BigQuery functions: built-in, custom, and remote. Learn about their types, uses, and how they enhance SQL capabilities"
 datePublished: Sun Mar 02 2025 20:57:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm7s4427e00000ala3kgtdh8f
 slug: a-quick-overview-of-bigquery-functions
