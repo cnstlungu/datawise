@@ -1,5 +1,7 @@
 ---
 title: "Why how the data is collected matters"
+seoTitle: "Importance of Data Collection Methods"
+seoDescription: "Explore the importance of data collection methods and their impact on analysis in retail, featuring loyalty programs and consumer patterns"
 datePublished: Tue Aug 06 2024 21:32:01 GMT+0000 (Coordinated Universal Time)
 cuid: clzixrc50000409mehecn99eh
 slug: why-how-the-data-is-collected-matters
