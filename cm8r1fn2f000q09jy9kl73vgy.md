@@ -1,5 +1,7 @@
 ---
 title: "Transforming cumulative sums into monthly values"
+seoTitle: "Monthly Values from Cumulative Sums"
+seoDescription: "Reverse cumulative sums to monthly values using BigQuery, focusing on fiscal year, lag function, and grain considerations"
 datePublished: Thu Mar 27 2025 07:34:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r1fn2f000q09jy9kl73vgy
 slug: transforming-cumulative-sums-into-monthly-values
