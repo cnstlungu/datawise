@@ -1,5 +1,7 @@
 ---
 title: "Cross-dataset foreign key relationships in BigQuery"
+seoTitle: "Link Foreign Keys Across Datasets in BigQuery"
+seoDescription: "Learn to create cross-dataset foreign key relationships in BigQuery and explore metadata enhancements for SQL tables with ease"
 datePublished: Mon Jun 09 2025 21:12:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmbpl9ch9000102i870lugcnt
 slug: cross-dataset-foreign-key-relationships-in-bigquery
