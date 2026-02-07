@@ -1,5 +1,7 @@
 ---
 title: "Extended data type support for BigQuery search indexes"
+seoTitle: "Expanded BigQuery Search Index Data Support"
+seoDescription: "BigQuery's search index for INT64 and TIMESTAMP improves performance with large datasets, enhancing real-world applications"
 datePublished: Wed Nov 13 2024 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6w9gntv000f08l8ahybe642
 slug: extended-data-type-support-for-bigquery-search-indexes
@@ -20,6 +22,6 @@ I’ve played a bit with it but still haven’t managed to get the index to be u
 
 Does anyone use this feature in the real world?
 
-![](https://media.licdn.com/dms/image/v2/D4D22AQEd29NAy2-H9g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1731708447347?e=1741824000&v=beta&t=0fYLoRDu0fQY7Ep4evFwZAVY64YQ_rrkC1VM5FzlKIM align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*XCoHc26zCQqGQBxI align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [https://www.notjustsql.com](https://www.notjustsql.com/)*.*
