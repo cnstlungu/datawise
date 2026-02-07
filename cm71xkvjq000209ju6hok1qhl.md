@@ -1,5 +1,7 @@
 ---
 title: "Choosing the Right Ranking Function: Why Ties in SQL Matter"
+seoTitle: "Optimize SQL: The Importance of Ranking Ties"
+seoDescription: "Discover the importance of choosing the right ranking function in SQL and how handling ties can impact your data analysis"
 datePublished: Wed Feb 12 2025 13:12:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm71xkvjq000209ju6hok1qhl
 slug: choosing-the-right-ranking-function-why-ties-in-sql-matter
