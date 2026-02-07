@@ -1,5 +1,7 @@
 ---
 title: "Change history in BigQuery"
+seoTitle: "Track Changes in BigQuery"
+seoDescription: "Discover how BigQuery's Change History features track data changes, including updates and deletes, using APPENDS and CHANGES TVFs"
 datePublished: Thu Mar 06 2025 15:44:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm7xip82g000009jz2esefw0n
 slug: change-history-in-bigquery
