@@ -1,5 +1,7 @@
 ---
 title: "Computing a hash aggregation in BigQuery"
+seoTitle: "BigQuery Hash Aggregation Explained"
+seoDescription: "Learn to simulate Snowflake's HASH_AGG in BigQuery to check for data changes using existing functions"
 datePublished: Mon Oct 21 2024 12:33:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm2izzqy1000009mfebxvedm3
 slug: computing-a-hash-aggregation-in-bigquery
