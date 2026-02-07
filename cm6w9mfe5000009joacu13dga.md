@@ -1,5 +1,7 @@
 ---
 title: "Using EXISTS with LOGICAL_OR in BigQuery"
+seoTitle: "BigQuery: Working with EXISTS and LOGICAL_OR"
+seoDescription: "Learn to use EXISTS with LOGICAL_OR in BigQuery for efficient flag checks across orders in SQL"
 datePublished: Sat Feb 08 2025 14:03:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm6w9mfe5000009joacu13dga
 slug: using-exists-with-logicalor-in-bigquery
@@ -12,7 +14,7 @@ Long time, no see! Here's a quick SQL exercise that illustrates some important m
 
 So, we're given a list of updates per each order, and at each point in time we have some flags. Our goal here is to check for each order if there was any point in time when any of the flags had the value of 1.
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/v2/D4D22AQFLKOPuxxeExw/feedshare-shrink_2048_1536/B4DZSX0MaQGkAs-/0/1737713830311?e=1741824000&v=beta&t=aP_qRy7nVxkefdYzUhXdn-E5plMuUBrnFMne-2AMTA0 align="left")
+![](https://miro.medium.com/v2/resize:fit:700/0*Aj_QXiXCyPVxOAEw align="left")
 
 We solve this by:
 
