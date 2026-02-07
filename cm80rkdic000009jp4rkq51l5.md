@@ -1,5 +1,7 @@
 ---
 title: "A quick walkthrough BigQuery Remote Functions"
+seoTitle: "BigQuery Remote Functions: Quick Guide"
+seoDescription: "Explore how BigQuery Remote Functions enable data processing using external resources with step-by-step guidance"
 datePublished: Sat Mar 08 2025 22:16:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm80rkdic000009jp4rkq51l5
 slug: a-quick-walkthrough-bigquery-remote-functions
