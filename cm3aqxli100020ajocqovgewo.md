@@ -1,5 +1,7 @@
 ---
 title: "For quality work, understand your data grain first"
+seoTitle: "Grasp Your Data Grain for Quality Work"
+seoDescription: "Understand data grain to ensure accurate data analysis and avoid incorrect queries, joins, and duplicates in data processing"
 datePublished: Sat Nov 09 2024 22:37:36 GMT+0000 (Coordinated Universal Time)
 cuid: cm3aqxli100020ajocqovgewo
 slug: for-quality-work-understand-your-data-grain-first
