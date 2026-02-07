@@ -1,5 +1,7 @@
 ---
 title: "Why you should think twice before UNNESTing arrays or date intervals"
+seoTitle: "Caution Advised: UNNESTing Arrays and Intervals"
+seoDescription: "Avoid unnecessary unnesting of arrays and date intervals in BigQuery to improve efficiency and manage data cardinality effectively"
 datePublished: Mon Jun 09 2025 21:17:43 GMT+0000 (Coordinated Universal Time)
 cuid: cmbplfgs8000002l5abq9730e
 slug: why-you-should-think-twice-before-unnesting-arrays-or-date-intervals
