@@ -1,5 +1,7 @@
 ---
 title: "Using RANGE_BUCKET in BigQuery"
+seoTitle: "BigQuery: Mastering RANGE_BUCKET Usage"
+seoDescription: "Learn how to use the RANGE_BUCKET function in BigQuery for effective data distribution and grouping in this concise guide"
 datePublished: Mon Sep 23 2024 21:03:32 GMT+0000 (Coordinated Universal Time)
 cuid: cm1fhvlgp001a0amigdly7dbt
 slug: using-rangebucket-in-bigquery
