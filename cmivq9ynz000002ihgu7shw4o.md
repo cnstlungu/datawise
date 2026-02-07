@@ -1,5 +1,7 @@
 ---
 title: "Flattening JSON arrays in BigQuery"
+seoTitle: "Simplify JSON Arrays in BigQuery"
+seoDescription: "Learn how to use BigQuery's JSON_FLATTEN to handle complex JSON arrays efficiently without losing data context when hierarchy isn't important"
 datePublished: Sun Dec 07 2025 12:57:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmivq9ynz000002ihgu7shw4o
 slug: flattening-json-arrays-in-bigquery
