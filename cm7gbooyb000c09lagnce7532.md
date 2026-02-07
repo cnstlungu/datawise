@@ -1,5 +1,7 @@
 ---
 title: "Revisiting GROUP BY ROLLUP with a more realistic example"
+seoTitle: "GROUP BY ROLLUP: Practical Example Revisited"
+seoDescription: "Learn how to effectively use GROUP BY ROLLUP to manage hierarchical data summaries in SQL, with practical examples and real-world insights"
 datePublished: Sat Feb 22 2025 14:56:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm7gbooyb000c09lagnce7532
 slug: revisiting-group-by-rollup-with-a-more-realistic-example
