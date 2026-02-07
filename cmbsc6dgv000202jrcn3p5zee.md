@@ -1,5 +1,7 @@
 ---
 title: "Aggregating Multiple SCD-2 Attribute Timelines in BigQuery"
+seoTitle: "BigQuery: Aggregating SCD-2 Attribute Timelines"
+seoDescription: "Learn how to aggregate SCD-2 attribute timelines in BigQuery using SQL techniques to preserve temporal context efficiently"
 datePublished: Wed Jun 11 2025 19:22:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmbsc6dgv000202jrcn3p5zee
 slug: aggregating-multiple-scd-2-attribute-timelines-in-bigquery
