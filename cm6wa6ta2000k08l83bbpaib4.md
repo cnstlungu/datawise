@@ -1,5 +1,7 @@
 ---
 title: "A closer look at STRING_AGG in BigQuery"
+seoTitle: "Exploring STRING_AGG Function in BigQuery"
+seoDescription: "Discover how to use BigQuery's STRING_AGG function to concat grouped values with custom separators and ordering"
 datePublished: Sat Feb 08 2025 14:18:55 GMT+0000 (Coordinated Universal Time)
 cuid: cm6wa6ta2000k08l83bbpaib4
 slug: a-closer-look-at-stringagg-in-bigquery
