@@ -1,5 +1,7 @@
 ---
 title: "A quick look at the json module in Python"
+seoTitle: "JSON Module in Python: Quick Overview"
+seoDescription: "Learn how to handle JSON in Python using the json module for encoding, decoding, and pretty-formatting"
 datePublished: Wed Aug 07 2024 09:14:14 GMT+0000 (Coordinated Universal Time)
 cuid: clzjmue67000h0al898ki9qu1
 slug: a-quick-look-at-the-json-module-in-python
