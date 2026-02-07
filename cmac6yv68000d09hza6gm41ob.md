@@ -1,5 +1,7 @@
 ---
 title: "Null-safe comparison: IS DISTINCT/NOT DISTINCT FROM"
+seoTitle: "Understanding NULL-safe comparisons"
+seoDescription: "Discover NULL-safe SQL operators IS DISTINCT FROM and IS NOT DISTINCT FROM for safer comparisons without IFNULLs or COALESCE in BigQuery"
 datePublished: Tue May 06 2025 07:32:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmac6yv68000d09hza6gm41ob
 slug: null-safe-comparison-is-distinctnot-distinct-from
