@@ -6,7 +6,6 @@ datePublished: Tue Oct 04 2022 22:52:23 GMT+0000 (Coordinated Universal Time)
 cuid: clfmn9zn5000p0amlcs0yd6jz
 slug: loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679563240416/b007c020-2a49-4717-bf04-2d25ee490b89.png
-tags: analytics, sql, bigquery, workflows
 
 ---
 
@@ -126,12 +125,3 @@ We now have a partitioned table
 As we have seen in this exercise, loading data from Google Cloud Storage into BigQuery using Cloud Workflows is quite straightforward and allows us to leverage the BQ API to build repeatable and low-overhead data pipelines in Google Cloud. Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using GCP Cloud Functions in Data Engineering](https://datawise.dev/using-gcp-cloud-functions-in-data-engineering)
-- [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
-- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
-- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
