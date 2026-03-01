@@ -6,7 +6,6 @@ datePublished: Sun Mar 31 2024 15:41:50 GMT+0000 (Coordinated Universal Time)
 cuid: clufovy9d000108l2bzv3gn9t
 slug: accessing-array-elements-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/q1x3cuziBsc/upload/e378680b9668652350058d71c7c48227.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -23,12 +22,3 @@ If you'd like to see what position each elements resides at in the array, check 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711899643049/e2566935-c617-4ba9-898d-e18472e7624a.png align="center")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
-- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
-- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
-- [Enumerating ARRAY elements in BigQuery using WITH OFFSET](https://datawise.dev/enumerating-array-elements-in-bigquery-using-with-offset)
