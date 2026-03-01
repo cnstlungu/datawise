@@ -6,7 +6,6 @@ datePublished: Tue Aug 29 2023 14:03:01 GMT+0000 (Coordinated Universal Time)
 cuid: cllwdoq4t000009l0f0b3bzgh
 slug: row-level-access-security-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5tmItJfHkIc/upload/5fe4e2b9cff1538de866187268de5c9a.jpeg
-tags: analytics, security, google-cloud, bigquery
 
 ---
 
@@ -43,11 +42,3 @@ Thanks for reading!
 🚀 Delving into BigQuery, Google Cloud and Analytics? Stay connected with me for valuable insights, handy tips, and strategies to effortlessly traverse the vast universe of cloud computing and data analytics!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using subqueries with Row Level Security in BigQuery](https://datawise.dev/using-subqueries-with-row-level-security-in-bigquery)
-- [Why basic roles in BigQuery are a bad idea](https://datawise.dev/why-basic-roles-in-bigquery-are-a-bad-idea)
-- [Cross-dataset foreign key relationships in BigQuery](https://datawise.dev/cross-dataset-foreign-key-relationships-in-bigquery)
