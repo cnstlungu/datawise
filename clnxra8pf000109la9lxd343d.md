@@ -6,7 +6,6 @@ datePublished: Thu Oct 19 2023 22:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnxra8pf000109la9lxd343d
 slug: pay-attention-to-this-when-unnesting-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dnGgAIRNnsE/upload/9049fa6dd2688042be29866312924f1d.jpeg
-tags: google-cloud, sql, bigquery
 
 ---
 
@@ -70,12 +69,3 @@ In this case, the first approach would miss out on the people without a bank acc
 Have fun writing good SQL!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
-- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
-- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
-- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
