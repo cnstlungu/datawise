@@ -6,7 +6,6 @@ datePublished: Mon Dec 11 2023 23:48:53 GMT+0000 (Coordinated Universal Time)
 cuid: clq1keqoz000008jx1mikd9h4
 slug: using-anyvalue-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uKlneQRwaxY/upload/b35059adc4cce2810f840107f05c5221.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
