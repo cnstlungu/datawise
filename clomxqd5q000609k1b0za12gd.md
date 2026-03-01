@@ -6,7 +6,6 @@ datePublished: Mon Nov 06 2023 13:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: clomxqd5q000609k1b0za12gd
 slug: using-correlated-subqueries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0GKQfCE-_SU/upload/f8e44c8857b0346493f266f230156ae8.jpeg
-tags: analytics, databases, sql, bigquery
 
 ---
 
