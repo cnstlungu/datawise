@@ -6,7 +6,6 @@ datePublished: Sun Jun 16 2024 20:57:20 GMT+0000 (Coordinated Universal Time)
 cuid: clxi12af9000009ktezez2st6
 slug: self-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/betmVWGYcLY/upload/206a37909373c7878881a470d9948bb6.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -27,12 +26,3 @@ By the way, this particular case can also be solved with a [recursive common-tab
 ![](https://miro.medium.com/v2/resize:fit:1400/0*dcNBdqa93vnwjwPV align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
-- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
-- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
-- [NATURAL JOIN in SQL](https://datawise.dev/natural-join-in-sql)
