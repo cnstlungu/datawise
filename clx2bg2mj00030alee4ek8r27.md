@@ -6,7 +6,6 @@ datePublished: Wed Jun 05 2024 21:03:41 GMT+0000 (Coordinated Universal Time)
 cuid: clx2bg2mj00030alee4ek8r27
 slug: how-limit-helps-you-save-time-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aBgxd8IZ0jo/upload/abf3552ea24fd794f22f44395519e66c.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -29,12 +28,3 @@ On a big enough table, one could notice the query execution time difference betw
 P.S. This is not to say that LIMIT is completely irrelevant to performance in BigQuery. Check out [this post](https://datawise.dev/de-duplicating-with-rownumber-vs-arrayagg) for a case where LIMIT does make a difference!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
-- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
-- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
-- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
