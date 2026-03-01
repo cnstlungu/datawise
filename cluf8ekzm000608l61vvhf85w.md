@@ -6,7 +6,6 @@ datePublished: Sun Mar 31 2024 08:00:26 GMT+0000 (Coordinated Universal Time)
 cuid: cluf8ekzm000608l61vvhf85w
 slug: enumerating-array-elements-in-bigquery-using-with-offset
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RF5HrKt8pfk/upload/aa242dd53579b38ce5fa60e37f6155e7.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -19,12 +18,3 @@ In order to retrieve the order in which an element was in an array before UNNEST
 ![](https://miro.medium.com/v2/resize:fit:1400/0*C-hkWWzhOcpTLyZk align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
-- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
-- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
-- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
