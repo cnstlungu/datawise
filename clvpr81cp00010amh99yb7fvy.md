@@ -6,7 +6,6 @@ datePublished: Thu May 02 2024 21:24:37 GMT+0000 (Coordinated Universal Time)
 cuid: clvpr81cp00010amh99yb7fvy
 slug: sessionuser-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/yekGLpc3vro/upload/a75c076600c161f7c36012c8c30cbe48.jpeg
-tags: databases, google-cloud, sql, bigquery, analytics
 
 ---
 
