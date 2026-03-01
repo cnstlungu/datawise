@@ -6,7 +6,6 @@ datePublished: Thu Apr 11 2024 21:15:36 GMT+0000 (Coordinated Universal Time)
 cuid: cluvqnkbp000208lc0smg3it8
 slug: splitting-a-string-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GK7v9dePZhY/upload/9c74350ac01fcded3ceea3f8a9197577.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
