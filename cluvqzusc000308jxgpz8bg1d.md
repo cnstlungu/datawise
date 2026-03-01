@@ -6,7 +6,6 @@ datePublished: Thu Apr 11 2024 21:25:10 GMT+0000 (Coordinated Universal Time)
 cuid: cluvqzusc000308jxgpz8bg1d
 slug: comparing-tables-with-full-outer-join
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8Zt0xOOK4nI/upload/02aea9c2fc3e540836a6d51435c04ff7.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -25,12 +24,3 @@ You could also leverage a hashing function + TO\_JSON\_ARRAY ([check my previous
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712870631627/63ae4e6c-09e4-4f51-b7bc-080098fdb352.jpeg align="center")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
-- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
-- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
-- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
