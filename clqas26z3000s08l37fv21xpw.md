@@ -6,7 +6,6 @@ datePublished: Mon Dec 18 2023 10:33:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqas26z3000s08l37fv21xpw
 slug: using-countif-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gdL-UZfnD3I/upload/21ecd3400789d32440f8cdc15de6b2b1.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
