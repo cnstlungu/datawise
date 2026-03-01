@@ -6,7 +6,6 @@ datePublished: Fri Apr 19 2024 13:56:31 GMT+0000 (Coordinated Universal Time)
 cuid: clv6qhpjp000208mlgvmj9305
 slug: understanding-structs-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/upload/08c90aa58436d36e0f3ac228c5f2faec.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -35,12 +34,3 @@ ARRAY of STRUCTS = you have a list of "things" that you know multiple things abo
 Would also be good to store all them addresses a person ever had. `TYPE = RECORD, MODE = REPEATED`
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
-- [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
-- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
-- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
