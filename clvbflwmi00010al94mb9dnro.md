@@ -6,7 +6,6 @@ datePublished: Mon Apr 22 2024 20:50:42 GMT+0000 (Coordinated Universal Time)
 cuid: clvbflwmi00010al94mb9dnro
 slug: using-instr-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/C5SUkYZT7nU/upload/103877c73c12fe5378d344734fdd01a7.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
