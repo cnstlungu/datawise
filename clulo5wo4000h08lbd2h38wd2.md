@@ -6,7 +6,6 @@ datePublished: Thu Apr 04 2024 20:08:12 GMT+0000 (Coordinated Universal Time)
 cuid: clulo5wo4000h08lbd2h38wd2
 slug: extract-all-pattern-occurrences-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GZMjMukr5zU/upload/285d275f0056de8ab7823cb2232a8b66.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
