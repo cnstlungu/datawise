@@ -6,7 +6,6 @@ datePublished: Tue Dec 05 2023 22:56:05 GMT+0000 (Coordinated Universal Time)
 cuid: clpsxvq8m000008l6bexeajyw
 slug: select-as-struct-and-select-as-value
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/upload/61de6b9184e6bab7863259acadabd212.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -32,12 +31,3 @@ See below for an illustration of the differences between the two.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701816911706/6e9c6c39-5180-4635-acf7-a01f8cd84984.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Understanding STRUCTS in BigQuery](https://datawise.dev/understanding-structs-in-bigquery)
-- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
-- [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
-- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
