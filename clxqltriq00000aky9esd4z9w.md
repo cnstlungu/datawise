@@ -6,7 +6,6 @@ datePublished: Sat Jun 22 2024 21:00:44 GMT+0000 (Coordinated Universal Time)
 cuid: clxqltriq00000aky9esd4z9w
 slug: lax-json-conversion-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cGH4jzeam0E/upload/587a432ae4b3e2e33ebbacf1635996bd.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -23,12 +22,3 @@ As usual, watch out because these conversion functions might work differently as
 ![](https://miro.medium.com/v2/resize:fit:700/0*Kqn0tqN5Q74Pfazw align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [The JSON datatype in BigQuery](https://datawise.dev/the-json-datatype-in-bigquery)
-- [JSON datatype vs JSON-like STRING in BigQuery](https://datawise.dev/json-datatype-vs-json-like-string-in-bigquery)
-- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
-- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
