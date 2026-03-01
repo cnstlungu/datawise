@@ -6,7 +6,6 @@ datePublished: Sat Jun 08 2024 17:54:47 GMT+0000 (Coordinated Universal Time)
 cuid: clx6f0p8o00060aifbkul4elu
 slug: float-vs-numeric-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/yD5rv8_WzxA/upload/5604bbe3bb297e135649d0bcfd71b1a4.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
