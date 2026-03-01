@@ -7,7 +7,6 @@ cuid: clv1g3bul000j08l7axa6b486
 slug: why-does-your-data-warehouse-need-to-look-more-like-a-pharmacy-than-a-retail-store
 canonical: https://www.notjustsql.com/p/why-does-your-data-warehouse-need
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/747NDboAWNY/upload/59fed014a139e8073c43347fda8827a5.jpeg
-tags: analytics, data-engineering, business-intelligence
 
 ---
 
@@ -16,8 +15,6 @@ I was following a discussion about the “Self-Service paradox”. Then I've see
 And then memories just poured in.
 
 When I just started working in Analytics a decade ago, I was pretty hyped up with this idea of data democratization. As an analyst with too much time on my hands, I thought: with the right infra in place, everyone interested can access all data in the org (minus sensitives of course) and uncover some “insights” that will help improve how things work. Data is fair game for everyone.
-
-## The reality of data democratization
 
 Time flies. I’ve picked up SQL and with a couple of years of experience, I was working as a Business Intelligence Developer, working across multiple business areas and industries. The reality struck me.
 
