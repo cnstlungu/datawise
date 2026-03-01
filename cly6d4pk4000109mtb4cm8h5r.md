@@ -6,7 +6,6 @@ datePublished: Wed Jul 03 2024 21:41:37 GMT+0000 (Coordinated Universal Time)
 cuid: cly6d4pk4000109mtb4cm8h5r
 slug: my-day-as-a-data-engineer-8-years-ago
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7Uk-DPd0fZY/upload/81a34bb226c98ad993346e4781f16b23.jpeg
-tags: sql-server, analytics, data-engineering
 
 ---
 
