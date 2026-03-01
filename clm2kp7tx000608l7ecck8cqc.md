@@ -6,7 +6,6 @@ datePublished: Sat Sep 02 2023 22:05:58 GMT+0000 (Coordinated Universal Time)
 cuid: clm2kp7tx000608l7ecck8cqc
 slug: scheduled-queries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FoKO4DpXamQ/upload/7d2a2f789ad8906f89fed80dfbbeeb3b.jpeg
-tags: analytics, google-cloud, sql, bigquery
 
 ---
 
@@ -118,12 +117,3 @@ Thanks for reading!
 🚀 Delving into BigQuery, Google Cloud and Analytics? Stay connected with me for valuable insights, handy tips, and strategies to effortlessly traverse the vast universe of cloud computing and data analytics!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using GCP Cloud Functions in Data Engineering](https://datawise.dev/using-gcp-cloud-functions-in-data-engineering)
-- [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
-- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
-- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
