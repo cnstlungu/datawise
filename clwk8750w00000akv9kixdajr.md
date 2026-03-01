@@ -6,7 +6,6 @@ datePublished: Fri May 24 2024 05:12:54 GMT+0000 (Coordinated Universal Time)
 cuid: clwk8750w00000akv9kixdajr
 slug: what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_QoAuZGAoPY/upload/7a27e7bad2c1068d2a7313d383160ba3.jpeg
-tags: analytics, google-cloud, bigquery, data-engineering
 
 ---
 
@@ -26,12 +25,3 @@ I've used it before to load data from Google Cloud Storage into BigQuery tables 
 See [my previous post](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows) for a short walk through showcasing how BQ and Workflows play together.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using GCP Cloud Functions in Data Engineering](https://datawise.dev/using-gcp-cloud-functions-in-data-engineering)
-- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
-- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
-- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
