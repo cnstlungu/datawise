@@ -6,7 +6,6 @@ datePublished: Fri Aug 18 2023 22:15:46 GMT+0000 (Coordinated Universal Time)
 cuid: cllh5g1dc000u09mi9annb0jk
 slug: using-rollup-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Wpnoqo2plFA/upload/8ba42636e1c671d4a2e77ec7ee1c19fd.jpeg
-tags: analytics, sql, bigquery
 
 ---
 
