@@ -6,13 +6,12 @@ datePublished: Fri Oct 20 2023 12:32:28 GMT+0000 (Coordinated Universal Time)
 cuid: clnylckm2000209mi5p3x3hvb
 slug: using-bigquery-hashing-functions
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iar-afB0QQw/upload/2cbf5a7577f4e8db57693c09de78fbc4.jpeg
-tags: databases, google-cloud, sql, bigquery
 
 ---
 
 Today I want to highlight hash functions and showcase how I use them in BigQuery.
 
-## What's a hashing function?
+🔍 What's a Hashing Function?
 
 It's an algorithm that takes an input and returns a fixed-size output. But there are a few very interesting particularities to that.
 
@@ -25,8 +24,6 @@ A hashing function is:
 \- low chance of collision =&gt; it is *very* improbable to have two different inputs produce the same output.
 
 Now, hashing functions have multiple use cases in security, cryptography and computer science in general, but I want to showcase how I'm using it in my day-to-day as a Data Engineer.
-
-## Use cases in data engineering
 
 As one can deduct from the proprieties above, the hashing function can very efficiently compare (as in assessing if they are different or the same) vast amounts of information.  
 BigQuery offers a range of hash functions such as MD5, SHA1 and FARM\_FINGERPRINT. So, Where is this useful?
