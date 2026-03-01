@@ -1,5 +1,7 @@
 ---
 title: "Generating date intervals in BigQuery"
+seoTitle: "Generate Date Sequences in BigQuery with GENERATE_DATE_ARRAY"
+seoDescription: "Learn how to use GENERATE_DATE_ARRAY and GENERATE_TIMESTAMP_ARRAY in BigQuery to create date or timestamp sequences at any interval."
 datePublished: Tue Jan 16 2024 11:01:59 GMT+0000 (Coordinated Universal Time)
 cuid: clrg8v677000b09jrd2doaq22
 slug: generating-date-intervals-in-bigquery

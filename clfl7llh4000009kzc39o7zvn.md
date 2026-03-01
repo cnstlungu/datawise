@@ -1,7 +1,7 @@
 ---
 title: "9 tips on writing cleaner SQL"
 seoTitle: "9 tips on writing better SQL"
-seoDescription: "This article provides nine tips for writing cleaner SQL queries. The tips include formatting queries, using meaningful aliases, avoiding SELECT *, using com"
+seoDescription: "This article provides nine tips for writing cleaner SQL queries. The tips include formatting queries, using meaningful aliases, avoiding SELECT *, using..."
 datePublished: Sun Sep 25 2022 21:43:23 GMT+0000 (Coordinated Universal Time)
 cuid: clfl7llh4000009kzc39o7zvn
 slug: 9-tips-on-writing-cleaner-sql
@@ -122,3 +122,12 @@ This is certainly a non-exhaustive list of SQL best practices, and there are cas
 Happy SQLing!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)

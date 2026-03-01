@@ -1,5 +1,7 @@
 ---
 title: "Hands-on with DuckDB"
+seoTitle: "DuckDB Hands-On: In-Process OLAP for Data Engineers"
+seoDescription: "A practical introduction to DuckDB as a lightweight OLAP database for local analytics, prototyping, and data warehouse proofs of concept — including..."
 datePublished: Mon Sep 25 2023 20:58:27 GMT+0000 (Coordinated Universal Time)
 cuid: clmzdezgc000809leg2dj34cp
 slug: hands-on-with-duckdb

@@ -1,10 +1,12 @@
 ---
 title: "Using GAPS_FILL in BigQuery"
+seoTitle: "BigQuery GAPS_FILL: Fill Missing Rows in Time Series"
+seoDescription: "BigQuery's GAPS_FILL table-valued function fills missing intervals in DATE, DATETIME, or TIMESTAMP series without needing a date dimension or..."
 datePublished: Tue May 07 2024 13:29:13 GMT+0000 (Coordinated Universal Time)
 cuid: clvwffxci000c09kz910d2sub
 slug: using-gapsfill-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MYKAZlzW6Nw/upload/d86e093d745a4e50f32e93beef26f9f5.jpeg
-tags: google-cloud, sql, bigquery, data-engineering, data-analytics
+tags: google-cloud, sql, bigquery, data-engineering, analytics
 
 ---
 

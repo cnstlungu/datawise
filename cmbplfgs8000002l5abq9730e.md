@@ -29,6 +29,8 @@ The issues with this approach are quite obvious. Say we have a two-year interval
 
 We can of course go ahead and compact this data back using an algorithm like the one I presented [in one of my previous posts](https://datawise.dev/compacting-date-intervals-in-bigquery), but regardless of whether we do that or not, the whole processing would be incredibly expensive and inefficient.
 
+## A better approach: work with intervals
+
 So, is there a solution here? Sometimes there might be.
 
 Say for the two-year interval \[2021-01-01, 2023-01-01\], we’d need to mark the subperiod \[2021-04-15, 2021-05-15\] as the period when the product is on sale.
@@ -48,3 +50,12 @@ Such a difference in cardinality has deep performance implications, allowing us 
 While this might be an unusual corner case, my initial opinion stands — if you can get away without UNNESTing your array or unpacking a date interval, you’ll manage to keep cardinality in check and save a lot of processing power.
 
 If there’s no way around it for your particular case, at the very least, materialize the result (I know, it’s going to be a lot of storage) and tailor the partitioning and clustering according to the querying (especially joining with other big+ tables) downstream.
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Generating a compact temporal table in BigQuery](https://datawise.dev/generating-a-compact-temporal-table-in-bigquery)
+- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
+- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
+- [Short, almost non-technical guide to SQL query tuning as a Data Engineer](https://datawise.dev/short-almost-non-technical-guide-to-sql-query-tuning-as-a-data-engineer)

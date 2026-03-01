@@ -1,5 +1,7 @@
 ---
 title: "Using ARRAY_AGG in BigQuery"
+seoTitle: "ARRAY_AGG in BigQuery: Aggregate Rows into Arrays"
+seoDescription: "Learn how to use ARRAY_AGG in BigQuery to collapse multiple rows into a single array, including combining it with STRUCT, ORDER BY, DISTINCT, and LIMIT."
 datePublished: Tue Nov 07 2023 22:46:08 GMT+0000 (Coordinated Universal Time)
 cuid: cloox73ny000308jn85ee6x4c
 slug: using-array-agg-in-bigquery
@@ -49,3 +51,12 @@ Note that ARRAY\_AGG can be combined with:
 Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
+- [Enumerating ARRAY elements in BigQuery using WITH OFFSET](https://datawise.dev/enumerating-array-elements-in-bigquery-using-with-offset)

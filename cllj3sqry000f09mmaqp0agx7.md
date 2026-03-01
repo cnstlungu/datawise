@@ -1,5 +1,7 @@
 ---
 title: "Optimizing SQL queries in BigQuery"
+seoTitle: "BigQuery SQL Query Optimization: 11-Point Checklist"
+seoDescription: "An actionable BigQuery query tuning checklist covering early filtering, partition pruning, deduplication, integer keys, CTE reuse, and nested data — with..."
 datePublished: Sun Aug 20 2023 07:05:12 GMT+0000 (Coordinated Universal Time)
 cuid: cllj3sqry000f09mmaqp0agx7
 slug: optimizing-sql-queries-in-bigquery
@@ -57,3 +59,12 @@ Make sure to check out [BigQuery Documentation on the best practices](https://cl
 Happy querying! 💼🚀
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
+- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
+- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
+- [Optimizing storage costs in BigQuery](https://datawise.dev/optimizing-storage-costs-in-bigquery)

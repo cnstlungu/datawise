@@ -1,10 +1,12 @@
 ---
 title: "Partial functions in Python"
+seoTitle: "Python functools.partial: Pre-fill Function Arguments"
+seoDescription: "Learn how to use functools.partial in Python to create specialized versions of existing functions by pre-filling one or more arguments."
 datePublished: Sun Dec 17 2023 09:55:45 GMT+0000 (Coordinated Universal Time)
 cuid: clq9bafqz000008l3c29n9u4d
 slug: partial-functions-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ka7PCoxVQnc/upload/c2fcae47c9d409cf1011402d757be7b5.jpeg
-tags: programming-blogs, python, python3, functional-programming, python-libraries, python-beginner
+tags: programming-blogs, python, functional-programming, python-libraries, python-beginner
 
 ---
 

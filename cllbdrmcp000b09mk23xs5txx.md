@@ -1,5 +1,7 @@
 ---
 title: "📢 Why Having a Pet Project Can Supercharge Your Programming Learning Journey! 🚀🖥️"
+seoTitle: "Why Pet Projects Accelerate Your Programming Career"
+seoDescription: "Pet projects teach git, Docker, testing, and frameworks faster than tutorials alone. Learn how building a real side project can bridge the gap between..."
 datePublished: Mon Aug 14 2023 21:22:06 GMT+0000 (Coordinated Universal Time)
 cuid: cllbdrmcp000b09mk23xs5txx
 slug: why-having-a-pet-project-can-supercharge-your-programming-learning-journey
@@ -11,7 +13,7 @@ tags: programming-blogs, python, learning
 
 Ever wondered how to deepen your understanding of programming and bridge the gap between theoretical knowledge and real-world application? Consider starting a pet project!
 
-**Story time**
+## Story time
 
 Several years ago I was working in a Business Intelligence specialist role, transitioning from previously working with Excel only as a freshly minted graduate with a Finance Bachelor degree. First, it was building dashboards in Domo, a cloud BI tool with some simple SQL-based transformations. Then came a long trial-and-error and learning-by-doing (at work) journey to learn SQL.
 
@@ -45,6 +47,8 @@ While the project is nothing special in itself, akin to thousands of other hobby
     
 
 Now, I might have barely scratched the surface of the above, and some of them might have been taught in a Computer Science Undergraduate program, but for someone with no formal programming acumen, even knowing what these things are and when should we use them was an absolute win. I felt that it gave me a basic understanding of very important things in every developer's toolbox.
+
+## Six reasons to start a pet project
 
 🔑 Here are six reasons why you should start a pet project:
 

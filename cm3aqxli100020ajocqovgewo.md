@@ -7,7 +7,7 @@ cuid: cm3aqxli100020ajocqovgewo
 slug: for-quality-work-understand-your-data-grain-first
 canonical: https://www.notjustsql.com/p/for-quality-work-understand-your
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739312164807/e8f1571d-85cc-4d83-8b2a-e9422b28690f.png
-tags: analytics, database, sql, data-engineering
+tags: analytics, databases, sql, data-engineering
 
 ---
 
@@ -42,3 +42,12 @@ Now, if you’ve ever tried to figure out the grain of an external data source w
 ➡️ PROFIT.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [https://www.notjustsql.com](https://www.notjustsql.com/) *.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)

@@ -1,5 +1,7 @@
 ---
 title: "ORDER BY expressions in SQL"
+seoTitle: "SQL ORDER BY Expressions: Sort by CASE WHEN and More"
+seoDescription: "In SQL, ORDER BY accepts expressions, not just column names, letting you apply CASE WHEN logic to control sort priority."
 datePublished: Mon Apr 01 2024 13:56:56 GMT+0000 (Coordinated Universal Time)
 cuid: cluh0kwv9000a08ky5fwc0y7n
 slug: order-by-expressions-in-sql
@@ -17,3 +19,12 @@ This is achieved by using a CASE WHEN that will rank direct sales above other ty
 ![](https://miro.medium.com/v2/resize:fit:1164/0*V_Zc7tbY1A7spDyB align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)

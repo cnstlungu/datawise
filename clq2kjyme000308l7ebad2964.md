@@ -1,5 +1,7 @@
 ---
 title: "Using ARRAY_CONCAT_AGG() in BigQuery"
+seoTitle: "ARRAY_CONCAT_AGG in BigQuery: Merging Arrays by Group"
+seoDescription: "Learn how to use ARRAY_CONCAT_AGG in BigQuery to concatenate multiple arrays within a group into a single array."
 datePublished: Tue Dec 12 2023 16:40:42 GMT+0000 (Coordinated Universal Time)
 cuid: clq2kjyme000308l7ebad2964
 slug: using-arrayconcatagg-in-bigquery

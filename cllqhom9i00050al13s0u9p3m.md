@@ -1,5 +1,7 @@
 ---
 title: "A few thoughts about recent Python integration into Excel"
+seoTitle: "Python in Excel: What It Means for Data Analysts"
+seoDescription: "A practical take on Microsoft's Python integration in Excel, covering the analytical possibilities it unlocks and the governance risks teams should..."
 datePublished: Fri Aug 25 2023 11:08:17 GMT+0000 (Coordinated Universal Time)
 cuid: cllqhom9i00050al13s0u9p3m
 slug: a-few-thoughts-about-recent-python-integration-into-excel

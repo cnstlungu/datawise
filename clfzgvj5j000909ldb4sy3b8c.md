@@ -1,5 +1,7 @@
 ---
 title: "Using BigQuery Time Travel"
+seoTitle: "BigQuery Time Travel: Query Past Table States"
+seoDescription: "Learn how to use BigQuery Time Travel with FOR SYSTEM_TIME AS OF to query historical table states up to 7 days back."
 datePublished: Sun Apr 02 2023 13:57:22 GMT+0000 (Coordinated Universal Time)
 cuid: clfzgvj5j000909ldb4sy3b8c
 slug: using-bigquery-time-travel

@@ -1,5 +1,7 @@
 ---
 title: "Cleaning up STRINGS in BigQuery"
+seoTitle: "BigQuery String Cleaning: TRIM, REPLACE, UPPER, SUBSTR"
+seoDescription: "Clean messy string data in BigQuery using TRIM, REPLACE, UPPER, LOWER, SUBSTR, and NORMALIZE before analysis. The goal is a common denominator so matching..."
 datePublished: Wed Apr 24 2024 21:27:43 GMT+0000 (Coordinated Universal Time)
 cuid: clvebt7ae00020amef47t9blm
 slug: cleaning-up-strings-in-bigquery

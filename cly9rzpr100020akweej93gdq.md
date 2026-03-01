@@ -1,5 +1,7 @@
 ---
 title: "Query parameters in BigQuery"
+seoTitle: "BigQuery Query Parameters: Parameterize Your SQL Safely"
+seoDescription: "Query parameters in BigQuery let you pass values into SQL safely without string concatenation, preventing injection and enabling query plan caching."
 datePublished: Sat Jul 06 2024 07:00:56 GMT+0000 (Coordinated Universal Time)
 cuid: cly9rzpr100020akweej93gdq
 slug: query-parameters-in-bigquery

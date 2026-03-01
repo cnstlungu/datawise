@@ -12,7 +12,7 @@ tags: data, data-analysis, sql, bigquery, gcp
 
 In this practical BigQuery exercise, we’re going to look at what are recursive CTEs and how can they be useful in our tool set.
 
-#### What is a CTE?
+## What is a CTE?
 
 First of all, what is a CTE? Well, it stands for **Common Table Expression** and is essentially a named query that can be referenced multiple times in the same query.
 
@@ -33,7 +33,7 @@ FROM people
 
 CTEs are used widely for improving query readability as well as making debugging easier.
 
-#### Enter the recursive variety
+## Enter the recursive variety
 
 Adding the **RECURSIVE** keyword after **WITH** enables us to reference a CTE from within itself, essentially creating a recursion, hence the name.
 
@@ -74,7 +74,7 @@ The same can be done to say generate a list of 100 consecutive days. In practice
 
 Now where a recursive CTE would be really useful is where we have hierarchical data.
 
-#### Recursive CTEs and hierarchical data
+## Recursive CTEs and hierarchical data
 
 Consider the following data. We have a list of employees and the ID of the manager they report to. Our task is to retrieve each person’s manager's first and last name.
 
@@ -132,13 +132,13 @@ We start with the anchor record (top-level employee, our CEO) and then traverse 
 
 ![](https://cdn-images-1.medium.com/max/640/1*AW8lwU22MqJhoSXzarRA8A.png align="left")
 
-#### Performance considerations
+## Performance considerations
 
 It should be noted that according to [BigQuery documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax#with_clause), as opposed to non-recursive CTEs, the recursive CTEs are materialized (so executed only once).
 
 > GoogleSQL only materializes the results of recursive CTEs, but does not materialize the results of non-recursive CTEs inside the `WITH` clause. If a non-recursive CTE is referenced in multiple places in a query, then the CTE is executed once for each reference. The `WITH` clause with non-recursive CTEs is useful primarily for readability.
 
-#### Conclusion
+## Conclusion
 
 In today’s exercise, we’ve looked at recursive Common Table Expressions, or CTEs as yet another valuable tool on our belt when working with data in BigQuery.
 

@@ -1,5 +1,7 @@
 ---
 title: "Combining ANY_VALUE with HAVING in BigQuery"
+seoTitle: "BigQuery ANY_VALUE with HAVING to Filter Single-Item Orders"
+seoDescription: "Combine ANY_VALUE with HAVING in BigQuery to filter aggregated groups based on the single value in a group. A practical pattern for finding orders with..."
 datePublished: Wed May 29 2024 21:47:37 GMT+0000 (Coordinated Universal Time)
 cuid: clwscxmhv000109lj96xn2kps
 slug: combining-anyvalue-with-having-in-bigquery

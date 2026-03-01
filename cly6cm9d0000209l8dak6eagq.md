@@ -1,5 +1,7 @@
 ---
 title: "DECLARE and SET variables in BigQuery"
+seoTitle: "BigQuery DECLARE and SET: Using Variables in SQL Scripts"
+seoDescription: "Use DECLARE and SET in BigQuery procedural SQL to define reusable variables for incremental load watermarks, parameterized queries, and testing."
 datePublished: Wed Jul 03 2024 21:27:16 GMT+0000 (Coordinated Universal Time)
 cuid: cly6cm9d0000209l8dak6eagq
 slug: declare-and-set-variables-in-bigquery

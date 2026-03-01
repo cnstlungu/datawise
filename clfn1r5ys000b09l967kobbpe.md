@@ -1,7 +1,7 @@
 ---
 title: "Filling in missing data in BigQuery"
 seoTitle: "Practical Guide to Filling in Missing Data in BigQuery"
-seoDescription: "Learn how to fill in missing data in BigQuery using practical methods such as LAG, UNPIVOT, and PIVOT, including code examples and step-by-step explanations"
+seoDescription: "Learn how to fill in missing data in BigQuery using practical methods such as LAG, UNPIVOT, and PIVOT, including code examples and step-by-step..."
 datePublished: Mon Feb 27 2023 11:56:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfn1r5ys000b09l967kobbpe
 slug: practical-bigquery-filling-in-missing-data

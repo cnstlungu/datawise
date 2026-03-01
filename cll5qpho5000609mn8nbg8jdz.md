@@ -6,7 +6,7 @@ datePublished: Thu Aug 10 2023 22:37:45 GMT+0000 (Coordinated Universal Time)
 cuid: cll5qpho5000609mn8nbg8jdz
 slug: preparing-for-the-aws-certified-data-analytics-specialty-das-c01-certification
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FHnnjk1Yj7Y/upload/1bd628c473d3a382f18184f8c781bb2e.jpeg
-tags: cloud, aws, certification, data-analytics
+tags: cloud, aws, certification, analytics
 
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "FLOAT vs NUMERIC in BigQuery"
+seoTitle: "BigQuery FLOAT64 vs NUMERIC: When Precision Matters"
+seoDescription: "FLOAT64 is fast and compact but approximate; NUMERIC is exact but uses twice the storage in BigQuery. Choose the right numeric type based on whether your..."
 datePublished: Sat Jun 08 2024 17:54:47 GMT+0000 (Coordinated Universal Time)
 cuid: clx6f0p8o00060aifbkul4elu
 slug: float-vs-numeric-in-bigquery

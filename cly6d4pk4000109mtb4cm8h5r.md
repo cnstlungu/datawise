@@ -1,5 +1,7 @@
 ---
 title: "My day as a Data Engineer 8 years ago"
+seoTitle: "A Day in the Life of a Data Engineer 8 Years Ago"
+seoDescription: "A candid look at what data engineering looked like in 2016 — manual pipelines, Hadoop clusters, and the contrast with today's cloud-native, serverless..."
 datePublished: Wed Jul 03 2024 21:41:37 GMT+0000 (Coordinated Universal Time)
 cuid: cly6d4pk4000109mtb4cm8h5r
 slug: my-day-as-a-data-engineer-8-years-ago

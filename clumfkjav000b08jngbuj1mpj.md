@@ -1,5 +1,7 @@
 ---
 title: "A portable Data Analytics stack using Docker, Mage, dbt-core, DuckDB and Superset"
+seoTitle: "Portable Analytics Stack: Mage, dbt-core, DuckDB, Superset"
+seoDescription: "A containerized end-to-end data analytics stack using Mage, dbt-core, DuckDB, and Superset, all wired together with Docker Compose."
 datePublished: Fri Apr 05 2024 08:55:24 GMT+0000 (Coordinated Universal Time)
 cuid: clumfkjav000b08jngbuj1mpj
 slug: a-portable-data-analytics-stack-using-docker-mage-dbt-core-duckdb-and-superset

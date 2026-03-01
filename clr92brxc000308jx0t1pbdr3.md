@@ -1,5 +1,7 @@
 ---
 title: "Computing a cumulative sum in BigQuery"
+seoTitle: "Cumulative SUM in BigQuery Using Window Functions"
+seoDescription: "Learn how to compute a running cumulative sum in BigQuery using SUM with ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW in a window function."
 datePublished: Thu Jan 11 2024 10:24:33 GMT+0000 (Coordinated Universal Time)
 cuid: clr92brxc000308jx0t1pbdr3
 slug: computing-a-cumulative-sum-in-bigquery
@@ -27,3 +29,12 @@ See below for an illustration of how it all works. Happy querying!
 Bonus point: You can also use a [named window declaration](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows) for cleaner code.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
+- [Rolling period calculation in BigQuery](https://datawise.dev/rolling-period-calculation-in-bigquery)

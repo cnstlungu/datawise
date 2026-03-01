@@ -1,5 +1,7 @@
 ---
 title: "Using STRUCTS for Audit Fields in BigQuery"
+seoTitle: "BigQuery STRUCT Columns for Data Pipeline Audit Fields"
+seoDescription: "Shows how to use nested STRUCT columns in BigQuery to store audit metadata without cluttering your schema. Practical pattern for tracking source event IDs..."
 datePublished: Sat Nov 25 2023 23:20:56 GMT+0000 (Coordinated Universal Time)
 cuid: clpeod6gl000009kyb2bs8rvj
 slug: using-structs-for-audit-fields-in-bigquery
@@ -11,6 +13,8 @@ tags: analytics, databases, sql, bigquery
 I use STRUCTS in **#BigQuery** quite a bit. One interesting use case for them is for audit purposes a separate column containing metadata about how the data in that row was sourced.
 
 Sure enough, you don't need a STRUCT for that, but you don't want to crowd your *already massive* schema with 10 auxiliary columns which would confuse the users.
+
+## The scenario
 
 Here's a scenario: say you join data from two different systems, one that provides daily events and one that provides weekly updates. When joining the two together it would be of course useful to know how the resulting data was obtained i.e. what weekly or daily event was used as a base for that attribute.
 
@@ -52,6 +56,8 @@ weekstart	id	value	    event_timestamp	                event_id
 2023-12-17	2	weekly-2-A	2023-12-24 23:55:22.000000 UTC	190aa292-9cf1-4dda-9cb4-c713ca003b3b
 2023-12-24	2	weekly-2-B	2023-12-30 22:35:11.000000 UTC	bc45e078-0bb6-4b8e-8082-488b941b8b01
 ```
+
+## Building the audit STRUCT column
 
 When joining the two sources together, we can generate the STRUCT audit columns. We'll nest another level of STRUCTs below to keep it clean.
 
@@ -112,3 +118,12 @@ Now, should we investigate why a particular result was obtained, we can just gra
 Thanks for reading and hope this was useful!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Understanding STRUCTS in BigQuery](https://datawise.dev/understanding-structs-in-bigquery)
+- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
+- [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
+- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)

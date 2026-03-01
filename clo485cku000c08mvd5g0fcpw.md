@@ -1,5 +1,7 @@
 ---
 title: "Importing Google Sheets into BigQuery"
+seoTitle: "Connect Google Sheets to BigQuery as an External Table"
+seoDescription: "Step-by-step guide to importing a Google Sheets spreadsheet into BigQuery as an external table via Google Drive, including schema setup and viewing the..."
 datePublished: Tue Oct 24 2023 11:09:33 GMT+0000 (Coordinated Universal Time)
 cuid: clo485cku000c08mvd5g0fcpw
 slug: importing-google-sheets-into-bigquery

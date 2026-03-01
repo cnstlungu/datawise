@@ -1,5 +1,7 @@
 ---
 title: "The relationship between ARRAY_AGG and UNNEST"
+seoTitle: "BigQuery ARRAY_AGG vs UNNEST: Opposite Operations Explained"
+seoDescription: "ARRAY_AGG packs rows into an ARRAY and UNNEST unpacks an ARRAY back into rows — they are inverse operations in BigQuery."
 datePublished: Sat Jun 08 2024 18:26:00 GMT+0000 (Coordinated Universal Time)
 cuid: clx6g4uh900000ajm1u87d5dg
 slug: the-relationship-between-arrayagg-and-unnest

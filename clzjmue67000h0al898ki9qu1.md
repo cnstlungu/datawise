@@ -6,7 +6,7 @@ datePublished: Wed Aug 07 2024 09:14:14 GMT+0000 (Coordinated Universal Time)
 cuid: clzjmue67000h0al898ki9qu1
 slug: a-quick-look-at-the-json-module-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fvMeP4ml4bU/upload/0eb0978fef1e70dc2db9b6cded76dbce.jpeg
-tags: python, json, dataengineering
+tags: python, json, data-engineering
 
 ---
 
@@ -29,3 +29,12 @@ You can save that prettified json into another file, as follows:
 ![](https://miro.medium.com/v2/resize:fit:1400/0*CmsJRPuTkbV13MNz align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Retrying in Python using tenacity](https://datawise.dev/retrying-in-python-using-tenacity)
+- [Using virtual environments in Python](https://datawise.dev/using-virtual-environments-in-python)
+- [Installing Python packages with pip](https://datawise.dev/installing-python-packages-with-pip)
+- [Using tempfile module in Python](https://datawise.dev/using-tempfile-module-in-python)

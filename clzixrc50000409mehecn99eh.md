@@ -8,7 +8,7 @@ slug: why-how-the-data-is-collected-matters
 canonical: https://www.notjustsql.com/p/how-i-view-real-life-data-collection
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739312099097/141e476e-51f7-484a-8058-8a4053fb414c.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723033021936/d5d41e0c-bd83-4f86-b7c9-e716b2169636.jpeg
-tags: analytics, dataengineering
+tags: analytics, data-engineering
 
 ---
 

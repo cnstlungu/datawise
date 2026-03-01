@@ -1,10 +1,12 @@
 ---
 title: "Ingestion-time partitioning in BigQuery"
+seoTitle: "Ingestion-Time Partitioning in BigQuery: How It Works"
+seoDescription: "Ingestion-time partitioning in BigQuery automatically assigns rows to date-based partitions as they arrive. Learn how to use _PARTITIONTIME and..."
 datePublished: Thu Jul 04 2024 07:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: cly6x3hme000209jlcr2gd6oy
 slug: ingestion-time-partitioning-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/hFBsF-CX5eQ/upload/de0d0e31be8bfbabd57a1aa0e5b66c99.jpeg
-tags: databases, google-cloud, sql, bigquery, dataengineering
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 

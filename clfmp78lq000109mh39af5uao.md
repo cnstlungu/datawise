@@ -1,5 +1,7 @@
 ---
 title: "Generating a compact temporal table in BigQuery"
+seoTitle: "Build a Compact Temporal Table in BigQuery with SQL"
+seoDescription: "Learn how to deduplicate and compact redundant SCD-2 rows in BigQuery using FARM_FINGERPRINT, LEAD, and QUALIFY to produce a clean valid_from/valid_to..."
 datePublished: Mon Mar 20 2023 13:45:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfmp78lq000109mh39af5uao
 slug: generating-a-compact-temporal-table-in-bigquery
@@ -165,3 +167,12 @@ Thanks for reading and stay tuned for more Data Engineering content.
 %[https://gist.github.com/cnstlungu/732b9d64367b6eec012727d1d08151e5] 
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
+- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
+- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
+- [Transforming cumulative sums into monthly values](https://datawise.dev/transforming-cumulative-sums-into-monthly-values)

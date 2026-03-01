@@ -1,5 +1,7 @@
 ---
 title: "Where does QUALIFY fit in the order of execution in BigQuery?"
+seoTitle: "QUALIFY Clause: SQL Execution Order in BigQuery"
+seoDescription: "See exactly where QUALIFY fits in BigQuery's SQL execution order with a practical window function example. Use QUALIFY after WHERE and window computation..."
 datePublished: Tue May 07 2024 13:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: clvwfnnes000k09jthan62zys
 slug: where-does-qualify-fit-in-the-order-of-execution-in-bigquery

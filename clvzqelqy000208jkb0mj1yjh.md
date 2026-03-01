@@ -1,5 +1,7 @@
 ---
 title: "Order of precedence in SQL: WHERE vs HAVING"
+seoTitle: "SQL WHERE vs HAVING: Order of Execution Explained"
+seoDescription: "Understand the difference between WHERE and HAVING in SQL and why execution order matters when reusing column aliases."
 datePublished: Thu May 09 2024 20:59:25 GMT+0000 (Coordinated Universal Time)
 cuid: clvzqelqy000208jkb0mj1yjh
 slug: order-of-precedence-in-sql-where-vs-having
@@ -27,3 +29,12 @@ Depending what we need, we pick which approach we take, filtering out records be
 ![](https://miro.medium.com/v2/resize:fit:1400/0*xjZr5hk5cnL6Dw-T align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)

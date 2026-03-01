@@ -1,5 +1,7 @@
 ---
 title: "Replicating datasets across regions in BigQuery"
+seoTitle: "Replicate BigQuery Datasets Across GCP Regions"
+seoDescription: "BigQuery now supports native cross-region dataset replication, removing the need for manual Transfer Service jobs."
 datePublished: Fri Jun 21 2024 06:00:47 GMT+0000 (Coordinated Universal Time)
 cuid: clxoa8kw6000209jy266offj9
 slug: replicating-datasets-across-regions-in-bigquery

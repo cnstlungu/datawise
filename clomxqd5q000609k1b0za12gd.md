@@ -1,5 +1,7 @@
 ---
 title: "Using Correlated Subqueries in BigQuery"
+seoTitle: "Correlated Subqueries in BigQuery: Use Cases and Pitfalls"
+seoDescription: "Explains how correlated subqueries work in BigQuery, with scalar and filter examples compared against window function alternatives."
 datePublished: Mon Nov 06 2023 13:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: clomxqd5q000609k1b0za12gd
 slug: using-correlated-subqueries-in-bigquery

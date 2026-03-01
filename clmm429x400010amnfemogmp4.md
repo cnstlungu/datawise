@@ -1,5 +1,7 @@
 ---
 title: "MERGE ON FALSE in BigQuery"
+seoTitle: "BigQuery MERGE ON FALSE: Atomic Delete and Insert"
+seoDescription: "Learn how the ON FALSE clause in a BigQuery MERGE statement performs an atomic delete-then-insert (REPLACE) operation, and how pairing it with key..."
 datePublished: Sat Sep 16 2023 14:15:37 GMT+0000 (Coordinated Universal Time)
 cuid: clmm429x400010amnfemogmp4
 slug: merge-on-false-in-bigquery

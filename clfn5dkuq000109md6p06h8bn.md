@@ -16,7 +16,7 @@ In this post, we’ll build on the foundation laid by that work and do further d
 
 Again, please refer to the GitHub repository containing the full [Jupyter notebook for this series](https://github.com/cnstlungu/incubator/tree/master/Python/Exploring%20Twitter%20Data%20using%20Python) if you wish to follow along.
 
-#### Processing the data
+## Processing the data
 
 First, let’s have a look at where we left off in the previous part. Namely, let’s have a closer look at our text.
 
@@ -95,7 +95,7 @@ The columns we’ve obtained through original tweet text transformation and its 
 
 We’ll now briefly look at analyzing the sentiment of these tweets.
 
-#### Sentiment Analysis
+## Sentiment Analysis
 
 Given the great number of the tweets one wouldn’t be able to read through them all to understand the general feeling of the public. Therefore, we’d require a more automated way to tell whether a given tweet is positively or negatively talking about the topic we’re interested in. A simple analyzer could look as follows:
 
@@ -132,7 +132,7 @@ Now, we will try to visualize the split between attributed sentiments. As we can
 
 Unfortunately, some of the more negative opinions (&lt;-2) could not be reproduced here given the strong language used. We’re going to look more at sentiment in the next part of our series.
 
-#### A closer look at our features
+## A closer look at our features
 
 So by now, we know some of the transformations we can apply to our text and how to get a feel for the sentiment of the texts. But we could still mine more data from any of the 320+ attributes we have apart from the tweet text itself.
 
@@ -144,7 +144,7 @@ df['user_audience_category'] = pd.cut(df['user.followers_count'],[0,300,10000,99
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679563461173/07d04a73-bda1-4ce9-b13d-64f2a0254834.png align="left")
 
-#### Conclusion
+## Conclusion
 
 This part of the series presented ways in which we can transform the text retrieved from Twitter, perform basic sentiment analysis as well as build new simple features from the data we already have.
 

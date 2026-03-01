@@ -1,5 +1,7 @@
 ---
 title: "Lessons from Chernobyl and how it relates to software engineering"
+seoTitle: "Chernobyl Lessons for Software Engineers: Culture and Risk"
+seoDescription: "The Chernobyl disaster resulted from misaligned incentives, silenced concerns, and flawed processes — patterns that also appear in software teams."
 datePublished: Mon Apr 22 2024 20:53:48 GMT+0000 (Coordinated Universal Time)
 cuid: clvbfpwcz000309ju4y4w3p8g
 slug: lessons-from-chernobyl-and-how-it-relates-to-software-engineering

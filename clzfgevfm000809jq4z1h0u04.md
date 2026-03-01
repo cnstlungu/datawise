@@ -6,7 +6,7 @@ datePublished: Sun Aug 04 2024 11:03:08 GMT+0000 (Coordinated Universal Time)
 cuid: clzfgevfm000809jq4z1h0u04
 slug: sortedlist-vs-listsorted-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NHIZG5Ul8bA/upload/2218cd8804935dd145d24d2e16264868.jpeg
-tags: python, python3, data-engineering
+tags: python, data-engineering
 
 ---
 

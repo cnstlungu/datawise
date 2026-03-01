@@ -1,5 +1,7 @@
 ---
 title: "DELETE + INSERT vs MERGE in BigQuery"
+seoTitle: "BigQuery DELETE + INSERT vs MERGE: Which Costs Less?"
+seoDescription: "Comparing DELETE+INSERT and MERGE strategies for updating BigQuery partitioned tables. Free partition deletion makes DELETE+INSERT a cost-effective..."
 datePublished: Mon Mar 18 2024 21:58:44 GMT+0000 (Coordinated Universal Time)
 cuid: cltxhmkzp000208l587nigamf
 slug: delete-insert-vs-merge-in-bigquery

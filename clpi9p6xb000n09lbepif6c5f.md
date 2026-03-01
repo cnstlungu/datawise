@@ -1,10 +1,12 @@
 ---
 title: "Dunder / magic functions in Python"
+seoTitle: "Python Dunder Methods: A Practical Guide with Examples"
+seoDescription: "Explains Python dunder (magic) methods like __init__, __repr__, __eq__, and __lt__ with a hands-on class example."
 datePublished: Tue Nov 28 2023 11:41:27 GMT+0000 (Coordinated Universal Time)
 cuid: clpi9p6xb000n09lbepif6c5f
 slug: dunder-magic-functions-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/abkEAOjnY0s/upload/307549d8f23fbb6ff16bf57c8c88a29c.jpeg
-tags: programming-blogs, python, python3, programming-tips
+tags: programming-blogs, python, programming-tips
 
 ---
 

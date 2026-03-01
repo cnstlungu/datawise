@@ -1,5 +1,7 @@
 ---
 title: "Comprehensions in Python"
+seoTitle: "Python Comprehensions: List, Dict, Set, and Generator"
+seoDescription: "A concise guide to list, dictionary, set, and generator comprehensions in Python with practical examples. Learn when comprehensions improve code..."
 datePublished: Wed Dec 06 2023 22:18:07 GMT+0000 (Coordinated Universal Time)
 cuid: clpubyrlh000008jn7u8cdbhd
 slug: comprehensions-in-python

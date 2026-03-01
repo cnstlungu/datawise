@@ -1,5 +1,7 @@
 ---
 title: "Analyzing Reddit data using Scala, Spark and Spark-SQL"
+seoTitle: "Analyzing Reddit Data with Scala, Spark and Spark SQL"
+seoDescription: "Learn how to read and query Reddit JSONL data using Scala, Spark, and Spark SQL with typed DataFrames. Run SQL joins and aggregations against millions of..."
 datePublished: Sat Sep 10 2022 21:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: clfmmuiyh000h0amlcts7cy82
 slug: analyzing-reddit-data-using-scala-spark-and-spark-sql-6246c75463c6

@@ -6,7 +6,7 @@ datePublished: Mon Jun 09 2025 20:38:02 GMT+0000 (Coordinated Universal Time)
 cuid: cmbpk0f8q000202l89rg7hgly
 slug: compacting-date-intervals-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3cTpEK08lwg/upload/a0447ed619c674a9ef0250a0242bdc10.jpeg
-tags: databases, google-cloud, sql, bigquery, gcp, dataengineering
+tags: databases, google-cloud, sql, bigquery, gcp, data-engineering
 
 ---
 
@@ -33,3 +33,12 @@ Here's a breakdown of how it all works:
 We can now see that in our example that several intervals were merged into bigger ones.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
+- [Generating a compact temporal table in BigQuery](https://datawise.dev/generating-a-compact-temporal-table-in-bigquery)
+- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
+- [Transforming cumulative sums into monthly values](https://datawise.dev/transforming-cumulative-sums-into-monthly-values)

@@ -6,7 +6,7 @@ datePublished: Sat Oct 04 2025 12:22:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmgc8udua000f02kv63z0c0l9
 slug: table-grain-quick-validation-with-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pcW5bR7gSJ4/upload/1348e2cccae0b01aab2ddf59f016dd1a.jpeg
-tags: analytics, sql, google-cloud-platform, bigquery, data-engineering
+tags: analytics, sql, google-cloud, bigquery, data-engineering
 
 ---
 
@@ -23,3 +23,12 @@ This was a quick exercise but use this with care. Depending on your SQL implemen
 ![](https://miro.medium.com/v2/resize:fit:700/0*r6BJhPYZrb7ivJg5 align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)

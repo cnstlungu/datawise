@@ -1,5 +1,7 @@
 ---
 title: "Using COUNTIF() in BigQuery"
+seoTitle: "COUNTIF in BigQuery: Count Rows Matching a Condition"
+seoDescription: "Learn how to use COUNTIF in BigQuery to count rows matching a specific condition, as a cleaner alternative to COUNT combined with CASE WHEN."
 datePublished: Mon Dec 18 2023 10:33:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqas26z3000s08l37fv21xpw
 slug: using-countif-in-bigquery

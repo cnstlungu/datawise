@@ -6,7 +6,7 @@ datePublished: Sun Dec 07 2025 12:57:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmivq9ynz000002ihgu7shw4o
 slug: flattening-json-arrays-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/19tQv51x4-A/upload/cb5db8fd2460224984ae2de7ca2f1bf8.jpeg
-tags: analytics, sql, google-cloud-platform, bigquery
+tags: analytics, sql, google-cloud, bigquery
 
 ---
 
@@ -26,3 +26,12 @@ Where I would not use it?
 ![](https://miro.medium.com/v2/resize:fit:1236/0*1UoE8j3SpwNK3K-V align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [The JSON datatype in BigQuery](https://datawise.dev/the-json-datatype-in-bigquery)
+- [JSON datatype vs JSON-like STRING in BigQuery](https://datawise.dev/json-datatype-vs-json-like-string-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
+- [LAX JSON conversion functions in BigQuery](https://datawise.dev/lax-json-conversion-functions-in-bigquery)

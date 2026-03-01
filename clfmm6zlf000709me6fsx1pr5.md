@@ -1,5 +1,7 @@
 ---
 title: "9 issues I’ve encountered when setting up a Hadoop/Spark cluster for the first time"
+seoTitle: "9 Hadoop/Spark Cluster Setup Errors and How to Fix Them"
+seoDescription: "A hands-on guide to 9 common Hadoop and Spark cluster setup errors, from JAVA_HOME not set to spark.yarn.jars. Each issue includes the exact fix that..."
 datePublished: Sun Apr 26 2020 11:33:50 GMT+0000 (Coordinated Universal Time)
 cuid: clfmm6zlf000709me6fsx1pr5
 slug: 9-issues-ive-encountered-when-setting-up-a-hadoop-spark-cluster-for-the-first-time

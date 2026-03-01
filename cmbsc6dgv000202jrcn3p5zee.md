@@ -29,3 +29,12 @@ We can now see that, for example, for the period between \[2023-01-05, 2023-01-0
 ![](https://miro.medium.com/v2/resize:fit:700/0*al6Q7c7B2GwZ3sZC align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
+- [Generating a compact temporal table in BigQuery](https://datawise.dev/generating-a-compact-temporal-table-in-bigquery)
+- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
+- [Transforming cumulative sums into monthly values](https://datawise.dev/transforming-cumulative-sums-into-monthly-values)

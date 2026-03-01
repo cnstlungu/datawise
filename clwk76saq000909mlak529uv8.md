@@ -1,5 +1,7 @@
 ---
 title: "Why you should use parentheses with AND & OR in SQL"
+seoTitle: "SQL AND vs OR Precedence: Why You Need Parentheses"
+seoDescription: "AND has higher operator precedence than OR in SQL, meaning mixed conditions without parentheses can produce unexpected results."
 datePublished: Fri May 24 2024 04:44:38 GMT+0000 (Coordinated Universal Time)
 cuid: clwk76saq000909mlak529uv8
 slug: why-you-should-use-parentheses-with-and-or-in-sql
@@ -29,3 +31,12 @@ It should also be noted that for comparison operators parentheses are required i
 ![](https://miro.medium.com/v2/resize:fit:1400/0*XdwEb4cE_w8kHhcb align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)

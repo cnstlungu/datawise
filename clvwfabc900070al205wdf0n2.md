@@ -1,10 +1,12 @@
 ---
 title: "Time Series functions in BigQuery"
+seoTitle: "BigQuery DATE_BUCKET, DATETIME_BUCKET, TIMESTAMP_BUCKET"
+seoDescription: "BigQuery's time series bucket functions — DATE_BUCKET, DATETIME_BUCKET, and TIMESTAMP_BUCKET — group temporal values into fixed-size intervals."
 datePublished: Tue May 07 2024 13:24:51 GMT+0000 (Coordinated Universal Time)
 cuid: clvwfabc900070al205wdf0n2
 slug: time-series-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LPRrEJU2GbQ/upload/ee8b797625f583e51b1c81bb571ec5ad.jpeg
-tags: google-cloud, sql, bigquery, data-engineering, data-analytics
+tags: google-cloud, sql, bigquery, data-engineering, analytics
 
 ---
 

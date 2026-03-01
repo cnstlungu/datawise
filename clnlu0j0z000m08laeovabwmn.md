@@ -1,5 +1,7 @@
 ---
 title: "Using Dynamic SQL in BigQuery"
+seoTitle: "Dynamic SQL in BigQuery: EXECUTE IMMEDIATE with Examples"
+seoDescription: "Learn to build and run dynamic SQL queries in BigQuery using EXECUTE IMMEDIATE, with a practical example that dynamically generates an UNPIVOT query from..."
 datePublished: Wed Oct 11 2023 14:14:02 GMT+0000 (Coordinated Universal Time)
 cuid: clnlu0j0z000m08laeovabwmn
 slug: using-dynamic-sql-in-bigquery

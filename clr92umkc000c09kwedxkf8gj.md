@@ -1,5 +1,7 @@
 ---
 title: "Using RANGE in Window Functions in BigQuery"
+seoTitle: "ROWS vs RANGE in BigQuery Window Functions Explained"
+seoDescription: "Explains the difference between ROWS and RANGE window frame clauses in BigQuery, using a peer-group average example to show where RANGE handles ties and..."
 datePublished: Thu Jan 11 2024 10:39:12 GMT+0000 (Coordinated Universal Time)
 cuid: clr92umkc000c09kwedxkf8gj
 slug: using-range-in-window-functions-in-bigquery
@@ -31,3 +33,12 @@ RANGE comes with a limitation though - you can only order by a single numerical 
 Hope this was interesting!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
+- [Rolling period calculation in BigQuery](https://datawise.dev/rolling-period-calculation-in-bigquery)

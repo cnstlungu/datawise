@@ -1,5 +1,7 @@
 ---
 title: "Tidying up WINDOW functions in BigQuery with named windows"
+seoTitle: "Named Windows in BigQuery: Clean Up Window Functions"
+seoDescription: "Learn how to use named window declarations in BigQuery to avoid repeating PARTITION BY and ORDER BY clauses across multiple window functions."
 datePublished: Wed Nov 08 2023 22:01:34 GMT+0000 (Coordinated Universal Time)
 cuid: cloqb1mp2000108l3dvr5e5t6
 slug: tidying-up-window-functions-in-bigquery-with-named-windows
@@ -17,6 +19,8 @@ Say you have a function like:
 You can extract the `(PARTITION ... ORDER...)` part to a named window and then reuse this partitioning window for other calculations, thus having to write less code.
 
 Let's look at a practical example of how it's done.
+
+## A practical example
 
 Here's our input data:
 
@@ -46,6 +50,8 @@ Now, there's a series of metrics we'd need to compute for comparison with each e
     
 * an ordering of employees in each country based on hire date
     
+
+## Defining named windows
 
 Instead of writing multiple time something like `OVER (PARTITION BY store_id)` , we can give this partitioning window a name - in this case store\_window and define it in the WINDOW specification, as shown below.
 
@@ -90,3 +96,12 @@ As you've seen from the above, the named WINDOW approach is pretty handy and cle
 Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
+- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
+- [Rolling period calculation in BigQuery](https://datawise.dev/rolling-period-calculation-in-bigquery)

@@ -1,5 +1,7 @@
 ---
 title: "System variables in BigQuery"
+seoTitle: "BigQuery System Variables: @@project_id and More"
+seoDescription: "BigQuery system variables like @@project_id and @@time_zone expose runtime context in SQL scripts and procedures."
 datePublished: Fri Jul 05 2024 07:00:37 GMT+0000 (Coordinated Universal Time)
 cuid: cly8cjfsi000909mk3jnudary
 slug: system-variables-in-bigquery

@@ -1,5 +1,7 @@
 ---
 title: "The order in which you ROUND matters in SQL"
+seoTitle: "SQL Rounding Errors: ROUND Before or After Aggregate"
+seoDescription: "Rounding before vs after aggregation in SQL produces different results — learn when each approach is correct. Covers ROUND, FLOOR, and CEILING with..."
 datePublished: Thu May 09 2024 21:03:06 GMT+0000 (Coordinated Universal Time)
 cuid: clvzqjbwf000209jx62bvcq6i
 slug: the-order-in-which-you-round-matters-in-sql

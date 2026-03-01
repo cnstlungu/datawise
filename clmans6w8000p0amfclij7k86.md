@@ -1,5 +1,7 @@
 ---
 title: "Using MAX_BY / MIN_BY in BigQuery"
+seoTitle: "BigQuery MAX_BY and MIN_BY: Fetch Values by Max/Min"
+seoDescription: "Discover MAX_BY and MIN_BY in BigQuery SQL, compact shortcuts for ANY_VALUE with HAVING MAX/MIN, and see exactly how to retrieve a column value based on..."
 datePublished: Fri Sep 08 2023 13:54:25 GMT+0000 (Coordinated Universal Time)
 cuid: clmans6w8000p0amfclij7k86
 slug: using-maxby-minby-in-bigquery

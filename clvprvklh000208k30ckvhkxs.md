@@ -1,5 +1,7 @@
 ---
 title: "A simple data validation scenario using FULL OUTER JOIN & ORDER BY"
+seoTitle: "Data Validation in BigQuery: FULL OUTER JOIN + ORDER BY ABS"
+seoDescription: "Use FULL OUTER JOIN combined with ORDER BY ABS to surface the largest discrepancies between two source systems in BigQuery."
 datePublished: Thu May 02 2024 21:42:55 GMT+0000 (Coordinated Universal Time)
 cuid: clvprvklh000208k30ckvhkxs
 slug: a-simple-data-validation-scenario-using-full-outer-join-order-by
@@ -27,3 +29,12 @@ This way, we can start our investigation from the biggest differences, regardles
 ![](https://miro.medium.com/v2/resize:fit:1400/0*n_ruvjFtLYWmzSwj align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)

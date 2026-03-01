@@ -23,3 +23,12 @@ A word of caution: correlated subqueries execute once per row, which can impact 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740323268891/8607984d-3445-4040-bfab-d5b29cd62f6a.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)

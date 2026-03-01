@@ -21,3 +21,12 @@ Works on BigQuery too, so I guess less need of adding IFNULLs / COALESCE for saf
 PS This choice of keyword "FROM", together with the one in EXTRACT(HOUR FROM DATETIME '2021-01-01'), feels pretty weird.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [A couple of fun things about NULL in SQL](https://datawise.dev/a-couple-of-fun-things-about-null-in-sql)
+- [Not all NULLS are the same](https://datawise.dev/not-all-nulls-are-the-same)
+- [COALESCE vs IFNULL vs NULLIF in BigQuery](https://datawise.dev/coalesce-vs-ifnull-vs-nullif-in-bigquery)
+- [Controlling ordering of NULL values in the ORDER BY clause](https://datawise.dev/controlling-ordering-of-null-values-in-the-order-by-clause)

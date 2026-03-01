@@ -1,5 +1,7 @@
 ---
 title: "Here's how GROUP BY works differently across SQL dialects"
+seoTitle: "BigQuery GROUP BY Column Alias: How It Differs from SQL Server"
+seoDescription: "BigQuery allows GROUP BY to reference SELECT aliases, unlike SQL Server where column aliases are not permitted in GROUP BY."
 datePublished: Sat Jun 08 2024 16:36:18 GMT+0000 (Coordinated Universal Time)
 cuid: clx6c7s4f00000ala50hmfh0y
 slug: heres-how-group-by-works-differently-across-sql-dialects

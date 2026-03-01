@@ -1,5 +1,7 @@
 ---
 title: "The JSON datatype in BigQuery"
+seoTitle: "BigQuery JSON Data Type: How to Create and Store JSON"
+seoDescription: "BigQuery's native JSON data type is not just a string — it enables structured access via JSON functions and stores heterogeneous data in one column."
 datePublished: Thu May 02 2024 21:30:28 GMT+0000 (Coordinated Universal Time)
 cuid: clvprfk77000008l3fc117zlk
 slug: the-json-datatype-in-bigquery
@@ -30,3 +32,12 @@ Stay tuned for the next posts on this topic.
 ![](https://miro.medium.com/v2/resize:fit:1400/0*JwWzKCzKIjp1_27S align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [JSON datatype vs JSON-like STRING in BigQuery](https://datawise.dev/json-datatype-vs-json-like-string-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
+- [LAX JSON conversion functions in BigQuery](https://datawise.dev/lax-json-conversion-functions-in-bigquery)

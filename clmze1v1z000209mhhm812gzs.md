@@ -1,5 +1,7 @@
 ---
 title: "Python Showdown: Namedtuple vs SimpleNamespace vs DataClass"
+seoTitle: "namedtuple vs SimpleNamespace vs dataclass in Python"
+seoDescription: "Compare Python's three lightweight data containers — namedtuple, SimpleNamespace, and dataclass — on mutability, memory, and verbosity to pick the right..."
 datePublished: Mon Sep 25 2023 21:16:15 GMT+0000 (Coordinated Universal Time)
 cuid: clmze1v1z000209mhhm812gzs
 slug: python-showdown-namedtuple-vs-simplenamespace-vs-dataclass

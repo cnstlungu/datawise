@@ -1,5 +1,7 @@
 ---
 title: "Controlling ordering of NULL values in the ORDER BY clause"
+seoTitle: "BigQuery ORDER BY NULL: NULLS FIRST vs NULLS LAST"
+seoDescription: "Control NULL sort order in BigQuery using NULLS FIRST and NULLS LAST in the ORDER BY clause. By default, ASC sorts NULLs first and DESC sorts NULLs last —..."
 datePublished: Wed Jun 05 2024 21:34:46 GMT+0000 (Coordinated Universal Time)
 cuid: clx2ck23n000009jway3i06lg
 slug: controlling-ordering-of-null-values-in-the-order-by-clause
@@ -20,3 +22,12 @@ While these are entirely optional, they're actually already happening behind the
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717623214381/ff7df3d5-e17f-419b-a60c-129a17c87aa2.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [A couple of fun things about NULL in SQL](https://datawise.dev/a-couple-of-fun-things-about-null-in-sql)
+- [Not all NULLS are the same](https://datawise.dev/not-all-nulls-are-the-same)
+- [COALESCE vs IFNULL vs NULLIF in BigQuery](https://datawise.dev/coalesce-vs-ifnull-vs-nullif-in-bigquery)
+- [Null-safe comparison: IS DISTINCT/NOT DISTINCT FROM](https://datawise.dev/null-safe-comparison-is-distinctnot-distinct-from)

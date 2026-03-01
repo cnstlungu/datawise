@@ -1,5 +1,7 @@
 ---
 title: "Using TUPLES in Python"
+seoTitle: "Python Tuples vs Lists: When Immutability Matters"
+seoDescription: "Compare Python tuples and lists on mutability, memory use, and valid use cases. Covers when to choose tuples as dictionary keys and for protecting data..."
 datePublished: Tue Sep 12 2023 09:27:46 GMT+0000 (Coordinated Universal Time)
 cuid: clmg40otl001209jicbn64aop
 slug: using-tuples-in-python

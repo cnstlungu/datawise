@@ -1,5 +1,7 @@
 ---
 title: "Swapping Partitions in BigQuery"
+seoTitle: "Copy BigQuery Partitions with bq cp Instead of MERGE"
+seoDescription: "Skip costly MERGE jobs by using the bq cp command to swap partitions between a staging table and a target table in BigQuery, with a working bash script..."
 datePublished: Tue Oct 03 2023 12:04:55 GMT+0000 (Coordinated Universal Time)
 cuid: clna9vnqg000909ju7efcgbv3
 slug: swapping-partitions-in-bigquery

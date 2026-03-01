@@ -1,10 +1,12 @@
 ---
 title: "RANGE data type in BigQuery"
+seoTitle: "BigQuery RANGE Data Type for SCD2 and Temporal Tables"
+seoDescription: "BigQuery's RANGE data type stores time intervals in a single column instead of separate valid_from/valid_to fields."
 datePublished: Thu Mar 21 2024 14:52:10 GMT+0000 (Coordinated Universal Time)
 cuid: clu1cpkby00030ajn1zk6dj9q
 slug: range-data-type-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MPOwVcXSVAI/upload/6f672cf1aa2903bc5a1f9c6650427957.jpeg
-tags: analytics, sql, google-cloud-platform, bigquery, data-engineering
+tags: analytics, sql, google-cloud, bigquery, data-engineering
 
 ---
 

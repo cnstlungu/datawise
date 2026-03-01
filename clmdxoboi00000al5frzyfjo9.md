@@ -1,5 +1,7 @@
 ---
 title: "Using SETS in Python"
+seoTitle: "Python Sets: When and How to Use Them Effectively"
+seoDescription: "A concise guide to Python sets covering uniqueness, O(1) membership testing, and set operations. Learn when sets outperform lists and where their..."
 datePublished: Sun Sep 10 2023 20:54:39 GMT+0000 (Coordinated Universal Time)
 cuid: clmdxoboi00000al5frzyfjo9
 slug: using-sets-in-python

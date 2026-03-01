@@ -1,5 +1,7 @@
 ---
 title: "JSON datatype vs JSON-like STRING in BigQuery"
+seoTitle: "BigQuery JSON Type vs JSON-Like STRING: Key Differences"
+seoDescription: "BigQuery JSON functions accept both native JSON type and JSON-formatted strings, but they behave differently. A json-like STRING is not validated —..."
 datePublished: Tue May 07 2024 13:19:46 GMT+0000 (Coordinated Universal Time)
 cuid: clvwf3rsr000b09jthofy0499
 slug: json-datatype-vs-json-like-string-in-bigquery
@@ -23,3 +25,12 @@ In the example below, the json-formatted/json-like string is missing a closing b
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1715087932426/155be5b0-29cf-4d10-ba65-869c3e3b2d97.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [The JSON datatype in BigQuery](https://datawise.dev/the-json-datatype-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
+- [LAX JSON conversion functions in BigQuery](https://datawise.dev/lax-json-conversion-functions-in-bigquery)

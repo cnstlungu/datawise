@@ -1,5 +1,7 @@
 ---
 title: "Using GROUP BY ALL in BigQuery"
+seoTitle: "BigQuery GROUP BY ALL: Skip Listing Non-Aggregated Cols"
+seoDescription: "BigQuery's GROUP BY ALL automatically groups by all non-aggregated columns in your SELECT, eliminating the need to list them manually."
 datePublished: Tue Mar 05 2024 16:13:09 GMT+0000 (Coordinated Universal Time)
 cuid: cltekk2m6000209ld6pj044br
 slug: using-group-by-all-in-bigquery

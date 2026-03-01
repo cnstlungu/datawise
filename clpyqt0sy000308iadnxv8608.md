@@ -1,5 +1,7 @@
 ---
 title: "Using LOGICAL_AND and LOGICAL_OR in BigQuery"
+seoTitle: "LOGICAL_AND and LOGICAL_OR Aggregation in BigQuery"
+seoDescription: "Learn how to use LOGICAL_AND and LOGICAL_OR aggregate functions in BigQuery to evaluate boolean conditions across grouped rows."
 datePublished: Sun Dec 10 2023 00:24:38 GMT+0000 (Coordinated Universal Time)
 cuid: clpyqt0sy000308iadnxv8608
 slug: using-logicaland-and-logicalor-in-bigquery

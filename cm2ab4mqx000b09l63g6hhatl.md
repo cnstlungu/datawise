@@ -40,3 +40,12 @@ The resource consumption varied significantly across runs (so avoid thinking in 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728988379261/ba64bdda-c357-4903-b2e3-17c71f5a673f.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
+- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
+- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
+- [Optimizing storage costs in BigQuery](https://datawise.dev/optimizing-storage-costs-in-bigquery)

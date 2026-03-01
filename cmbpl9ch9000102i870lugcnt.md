@@ -19,3 +19,11 @@ For a refresher on what these constraints are, see [my previous post](https://da
 ![](https://miro.medium.com/v2/resize:fit:700/0*6jgUdm3tK8Kmdvam align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Row-level access security in BigQuery](https://datawise.dev/row-level-access-security-in-bigquery)
+- [Using subqueries with Row Level Security in BigQuery](https://datawise.dev/using-subqueries-with-row-level-security-in-bigquery)
+- [Why basic roles in BigQuery are a bad idea](https://datawise.dev/why-basic-roles-in-bigquery-are-a-bad-idea)

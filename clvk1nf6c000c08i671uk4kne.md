@@ -1,10 +1,12 @@
 ---
 title: "Using FORMAT_DATE in BigQuery"
+seoTitle: "BigQuery FORMAT_DATE: Extract Weekday Name for Joins"
+seoDescription: "FORMAT_DATE in BigQuery extracts formatted date parts like abbreviated weekday names using strftime-style format elements."
 datePublished: Sun Apr 28 2024 21:29:54 GMT+0000 (Coordinated Universal Time)
 cuid: clvk1nf6c000c08i671uk4kne
 slug: using-formatdate-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bwOAixLG0uc/upload/427cf85c9d93246d0c7fa3475a483c0c.jpeg
-tags: databases, google-cloud, sql, bigquery, data-analytics
+tags: databases, google-cloud, sql, bigquery, analytics
 
 ---
 

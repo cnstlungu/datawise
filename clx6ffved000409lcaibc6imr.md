@@ -1,5 +1,7 @@
 ---
 title: "A couple of fun things about NULL in SQL"
+seoTitle: "SQL NULL Behavior: Key Rules Every Data Engineer Must Know"
+seoDescription: "NULL is not zero or empty string — it behaves differently in comparisons, aggregations, joins, and ORDER BY in SQL."
 datePublished: Sat Jun 08 2024 18:06:34 GMT+0000 (Coordinated Universal Time)
 cuid: clx6ffved000409lcaibc6imr
 slug: a-couple-of-fun-things-about-null-in-sql
@@ -28,3 +30,12 @@ You can handle NULLS with:
 ![](https://miro.medium.com/v2/resize:fit:1296/0*2OJE2DjSL3XkI7KH align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Not all NULLS are the same](https://datawise.dev/not-all-nulls-are-the-same)
+- [COALESCE vs IFNULL vs NULLIF in BigQuery](https://datawise.dev/coalesce-vs-ifnull-vs-nullif-in-bigquery)
+- [Null-safe comparison: IS DISTINCT/NOT DISTINCT FROM](https://datawise.dev/null-safe-comparison-is-distinctnot-distinct-from)
+- [Controlling ordering of NULL values in the ORDER BY clause](https://datawise.dev/controlling-ordering-of-null-values-in-the-order-by-clause)

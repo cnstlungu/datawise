@@ -1,5 +1,7 @@
 ---
 title: "Decorators in Python"
+seoTitle: "Python Decorators Explained with a Practical Example"
+seoDescription: "Learn how Python decorators work using the @ pie notation to modify function behavior without changing function structure."
 datePublished: Tue Dec 19 2023 22:38:33 GMT+0000 (Coordinated Universal Time)
 cuid: clqcxf4c5000208jng5jd3kzd
 slug: decorators-in-python

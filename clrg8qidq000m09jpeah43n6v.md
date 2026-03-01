@@ -1,5 +1,7 @@
 ---
 title: "DATETIME vs TIMESTAMP in BigQuery"
+seoTitle: "BigQuery DATETIME vs TIMESTAMP: Key Differences"
+seoDescription: "Clarifies the critical difference between DATETIME and TIMESTAMP types in BigQuery and why mixing them causes errors."
 datePublished: Tue Jan 16 2024 10:58:21 GMT+0000 (Coordinated Universal Time)
 cuid: clrg8qidq000m09jpeah43n6v
 slug: datetime-vs-timestamp-in-bigquery

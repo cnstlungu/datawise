@@ -25,3 +25,12 @@ PS. If we're talking about JSON datatype, you can transform it to JSON-like STRI
 ![](https://miro.medium.com/v2/resize:fit:1400/0*fRHBrsGhHg1b0FjQ align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [The JSON datatype in BigQuery](https://datawise.dev/the-json-datatype-in-bigquery)
+- [JSON datatype vs JSON-like STRING in BigQuery](https://datawise.dev/json-datatype-vs-json-like-string-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)

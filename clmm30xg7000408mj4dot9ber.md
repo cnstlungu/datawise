@@ -1,5 +1,7 @@
 ---
 title: "BigQuery Primary Key & Foreign Key constraints"
+seoTitle: "BigQuery Primary Key & Foreign Key: Do They Help Performance?"
+seoDescription: "BigQuery's unenforced primary and foreign key constraints are not just metadata — this post tests their actual impact on join optimization with real query..."
 datePublished: Sat Sep 16 2023 13:46:35 GMT+0000 (Coordinated Universal Time)
 cuid: clmm30xg7000408mj4dot9ber
 slug: bigquery-primary-key-foreign-key-constraints

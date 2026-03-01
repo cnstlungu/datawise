@@ -1,5 +1,7 @@
 ---
 title: "Building a Business Intelligence suite: revisiting an old idea after six years in the industry"
+seoTitle: "Open-Source BI Stack: dbt, Airflow, PostgreSQL & Superset"
+seoDescription: "A walkthrough of building a containerized Business Intelligence suite using dbt, Airflow, PostgreSQL, and Superset."
 datePublished: Wed Aug 31 2022 22:06:07 GMT+0000 (Coordinated Universal Time)
 cuid: clfmo0hhx00110amdem6f92ch
 slug: building-a-business-intelligence-suite-revisiting-an-old-idea-after-six-years-in-the-industry

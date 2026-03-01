@@ -6,7 +6,7 @@ datePublished: Sun Oct 27 2024 12:25:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm2rkc5q0000309jxhjpu7tby
 slug: not-all-nulls-are-the-same
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/d5a7ab49550c9e19dd49803598e2b5e5.jpeg
-tags: databases, google-cloud, sql, bigquery, data-analytics
+tags: databases, google-cloud, sql, bigquery, analytics
 
 ---
 
@@ -21,3 +21,12 @@ I've also seen that if we specify just the NULL literal, it defaults to INTEGER.
 ![](https://miro.medium.com/v2/resize:fit:1400/0*7XVYCmbQG_Q_vZqA align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [https://www.notjustsql.com](https://www.notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [A couple of fun things about NULL in SQL](https://datawise.dev/a-couple-of-fun-things-about-null-in-sql)
+- [COALESCE vs IFNULL vs NULLIF in BigQuery](https://datawise.dev/coalesce-vs-ifnull-vs-nullif-in-bigquery)
+- [Null-safe comparison: IS DISTINCT/NOT DISTINCT FROM](https://datawise.dev/null-safe-comparison-is-distinctnot-distinct-from)
+- [Controlling ordering of NULL values in the ORDER BY clause](https://datawise.dev/controlling-ordering-of-null-values-in-the-order-by-clause)

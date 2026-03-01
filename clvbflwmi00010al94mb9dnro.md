@@ -1,5 +1,7 @@
 ---
 title: "Using INSTR in BigQuery"
+seoTitle: "BigQuery INSTR: Find Substring Position in a String"
+seoDescription: "BigQuery's INSTR function returns the 1-based index of a substring within a string, returning 0 if not found. You can also specify a start position and..."
 datePublished: Mon Apr 22 2024 20:50:42 GMT+0000 (Coordinated Universal Time)
 cuid: clvbflwmi00010al94mb9dnro
 slug: using-instr-in-bigquery

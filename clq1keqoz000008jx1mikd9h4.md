@@ -1,5 +1,7 @@
 ---
 title: "Using ANY_VALUE()  in BigQUERY"
+seoTitle: "ANY_VALUE() in BigQuery: Non-Deterministic Aggregation"
+seoDescription: "Learn how to use ANY_VALUE in BigQuery, including with HAVING MAX and HAVING MIN to find top or bottom values within a group."
 datePublished: Mon Dec 11 2023 23:48:53 GMT+0000 (Coordinated Universal Time)
 cuid: clq1keqoz000008jx1mikd9h4
 slug: using-anyvalue-in-bigquery

@@ -1,5 +1,7 @@
 ---
 title: "Context Managers in Python"
+seoTitle: "Python Context Managers Explained with the with Statement"
+seoDescription: "Learn what Python context managers do, why data engineers need them for safe resource handling, and how to implement __enter__ and __exit__ in a custom..."
 datePublished: Fri Oct 06 2023 23:35:56 GMT+0000 (Coordinated Universal Time)
 cuid: clnf8vvkw00020al6avtoemkv
 slug: context-managers-in-python
@@ -37,3 +39,12 @@ A class just needs to implement two magical dunder methods: `__enter__()` (which
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696635311466/e443c50e-e21d-4396-bdb2-f7fb4803df18.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Retrying in Python using tenacity](https://datawise.dev/retrying-in-python-using-tenacity)
+- [Using virtual environments in Python](https://datawise.dev/using-virtual-environments-in-python)
+- [Installing Python packages with pip](https://datawise.dev/installing-python-packages-with-pip)
+- [A quick look at the json module in Python](https://datawise.dev/a-quick-look-at-the-json-module-in-python)

@@ -1,5 +1,7 @@
 ---
 title: "A practical exercise working with ARRAYS and correlated subqueries in BigQuery"
+seoTitle: "BigQuery ARRAYS and Correlated Subqueries: Worked Example"
+seoDescription: "A practical BigQuery exercise combining ARRAYS, UNNEST, and correlated subqueries to compute per-customer product diversity scores from order history data."
 datePublished: Sat Jul 06 2024 21:00:29 GMT+0000 (Coordinated Universal Time)
 cuid: clyalzdkd000409jo0q03efvn
 slug: a-practical-exercise-working-with-arrays-and-correlated-subqueries-in-bigquery
@@ -44,3 +46,12 @@ Step 3: We extract the flags from the above `STRUCT` .
 Are there any other ways you would approach this problem?
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)

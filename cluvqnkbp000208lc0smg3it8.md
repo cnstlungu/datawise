@@ -1,5 +1,7 @@
 ---
 title: "Splitting a STRING in BigQuery"
+seoTitle: "BigQuery SPLIT Function: Split Strings into Arrays"
+seoDescription: "BigQuery's SPLIT function splits a string by a delimiter and returns an array, similar to TEXTSPLIT in Excel. Access individual elements using 0-based..."
 datePublished: Thu Apr 11 2024 21:15:36 GMT+0000 (Coordinated Universal Time)
 cuid: cluvqnkbp000208lc0smg3it8
 slug: splitting-a-string-in-bigquery

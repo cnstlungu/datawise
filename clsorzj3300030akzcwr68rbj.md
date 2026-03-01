@@ -1,10 +1,12 @@
 ---
 title: "Watch out when using SAFE_CAST in BigQuery"
+seoTitle: "BigQuery SAFE_CAST Silent NULL Bug with Nanosecond Timestamps"
+seoDescription: "Explains a subtle BigQuery SAFE_CAST pitfall where nanosecond-precision timestamps silently return NULL instead of raising an error."
 datePublished: Fri Feb 16 2024 14:59:06 GMT+0000 (Coordinated Universal Time)
 cuid: clsorzj3300030akzcwr68rbj
 slug: watch-out-when-using-safecast-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Hf7x860ktHc/upload/0bf7ef4cd9b6a191e8ebc88443310215.jpeg
-tags: analytics, databases, sql, bigquery, dataengineering
+tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 

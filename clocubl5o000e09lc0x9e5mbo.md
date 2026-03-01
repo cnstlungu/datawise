@@ -1,5 +1,7 @@
 ---
 title: "Intersect and Except in BigQuery"
+seoTitle: "INTERSECT DISTINCT and EXCEPT DISTINCT in BigQuery"
+seoDescription: "Learn how to use INTERSECT DISTINCT and EXCEPT DISTINCT set operations in BigQuery for data validation and comparison."
 datePublished: Mon Oct 30 2023 11:52:25 GMT+0000 (Coordinated Universal Time)
 cuid: clocubl5o000e09lc0x9e5mbo
 slug: intersect-and-except-in-bigquery

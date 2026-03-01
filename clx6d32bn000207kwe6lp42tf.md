@@ -1,5 +1,7 @@
 ---
 title: "The PARTITIONS view in INFORMATION_SCHEMA"
+seoTitle: "BigQuery INFORMATION_SCHEMA PARTITIONS View Explained"
+seoDescription: "The PARTITIONS view in BigQuery INFORMATION_SCHEMA exposes partition row counts, bytes, storage tier, and last modified time."
 datePublished: Sat Jun 08 2024 17:00:38 GMT+0000 (Coordinated Universal Time)
 cuid: clx6d32bn000207kwe6lp42tf
 slug: the-partitions-view-in-informationschema

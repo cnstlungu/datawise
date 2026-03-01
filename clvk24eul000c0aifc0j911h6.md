@@ -1,5 +1,7 @@
 ---
 title: "Concatenation operator in BigQuery"
+seoTitle: "BigQuery || Concatenation Operator for Strings and Arrays"
+seoDescription: "The || operator in BigQuery is the ANSI SQL standard concatenation operator, equivalent to CONCAT() for strings and ARRAY_CONCAT() for arrays."
 datePublished: Sun Apr 28 2024 21:43:07 GMT+0000 (Coordinated Universal Time)
 cuid: clvk24eul000c0aifc0j911h6
 slug: concatenation-operator-in-bigquery

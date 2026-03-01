@@ -1,5 +1,7 @@
 ---
 title: "Another look at LOGICAL_AND & LOGICAL_OR in BigQuery"
+seoTitle: "BigQuery LOGICAL_AND and LOGICAL_OR: Practical Examples"
+seoDescription: "LOGICAL_AND and LOGICAL_OR in BigQuery aggregate boolean values across GROUP BY buckets or window partitions. Learn how to check if all or any rows meet a..."
 datePublished: Wed Jun 05 2024 21:21:22 GMT+0000 (Coordinated Universal Time)
 cuid: clx2c2tb1000c0al75muh8nbw
 slug: another-look-at-logicaland-logicalor-in-bigquery

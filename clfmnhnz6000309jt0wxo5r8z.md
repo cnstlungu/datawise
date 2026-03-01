@@ -1,5 +1,7 @@
 ---
 title: "6 scenarios I’ve encountered when using SQLAlchemy in my Flask project"
+seoTitle: "SQLAlchemy with Flask: 6 Real-World ORM Scenarios"
+seoDescription: "Covers six practical SQLAlchemy patterns in a Flask app: many-to-many relationships, slug generation, object comparison, event-based seeding, and..."
 datePublished: Mon Mar 23 2020 23:21:35 GMT+0000 (Coordinated Universal Time)
 cuid: clfmnhnz6000309jt0wxo5r8z
 slug: 6-scenarios-ive-encountered-when-using-sqlalchemy-in-my-flask-project

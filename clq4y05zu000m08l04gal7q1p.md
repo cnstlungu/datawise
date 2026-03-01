@@ -1,5 +1,7 @@
 ---
 title: "Approximate Aggregate Functions in BigQuery"
+seoTitle: "Approximate Aggregate Functions in BigQuery Explained"
+seoDescription: "Learn when and how to use APPROX_COUNT_DISTINCT and APPROX_TOP_COUNT in BigQuery to reduce compute cost for exploratory queries on large datasets."
 datePublished: Thu Dec 14 2023 08:32:46 GMT+0000 (Coordinated Universal Time)
 cuid: clq4y05zu000m08l04gal7q1p
 slug: approximate-aggregate-functions-in-bigquery
@@ -43,3 +45,12 @@ You can discover more approximate aggregate functions in the [documentation](htt
 Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
+- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
+- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
+- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)

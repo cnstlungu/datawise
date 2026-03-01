@@ -1,5 +1,7 @@
 ---
 title: "How I set up my first Hadoop / Spark cluster: Preparation"
+seoTitle: "Set Up a Hadoop Spark Cluster on Raspberry Pi"
+seoDescription: "A practical guide to building a Hadoop/Spark cluster on Raspberry Pi hardware, covering OS setup, SSH config, and cluster networking."
 datePublished: Thu Apr 02 2020 22:15:04 GMT+0000 (Coordinated Universal Time)
 cuid: clfmmhr2l000e09mf63lb89jb
 slug: how-i-set-up-my-first-hadoop-spark-cluster-preparation

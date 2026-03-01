@@ -1,5 +1,7 @@
 ---
 title: "Extract all pattern occurrences in BigQuery"
+seoTitle: "BigQuery REGEXP_EXTRACT_ALL: Extract All Pattern Matches"
+seoDescription: "REGEXP_EXTRACT_ALL in BigQuery returns an array of all substrings matching a regular expression pattern. It supports a single capture group and pairs well..."
 datePublished: Thu Apr 04 2024 20:08:12 GMT+0000 (Coordinated Universal Time)
 cuid: clulo5wo4000h08lbd2h38wd2
 slug: extract-all-pattern-occurrences-in-bigquery

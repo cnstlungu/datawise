@@ -1,5 +1,7 @@
 ---
 title: "Does order of expressions in the WHERE clause matter?"
+seoTitle: "Does WHERE Clause Order Affect BigQuery Performance?"
+seoDescription: "Investigates whether the order of filter expressions in a BigQuery WHERE clause impacts query performance, based on a 200M row public dataset test."
 datePublished: Sun Dec 03 2023 16:46:01 GMT+0000 (Coordinated Universal Time)
 cuid: clppps4ib000009l46lf576gk
 slug: does-order-of-expressions-in-the-where-clause-matter
@@ -27,3 +29,12 @@ The results have shown almost no difference between the two approaches (across s
 In any case, I'll keep this in mind next time I'm working with a very big table and check it out again.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [A couple of fun things about NULL in SQL](https://datawise.dev/a-couple-of-fun-things-about-null-in-sql)
+- [Not all NULLS are the same](https://datawise.dev/not-all-nulls-are-the-same)
+- [COALESCE vs IFNULL vs NULLIF in BigQuery](https://datawise.dev/coalesce-vs-ifnull-vs-nullif-in-bigquery)
+- [Null-safe comparison: IS DISTINCT/NOT DISTINCT FROM](https://datawise.dev/null-safe-comparison-is-distinctnot-distinct-from)

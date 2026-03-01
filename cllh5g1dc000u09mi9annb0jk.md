@@ -1,5 +1,7 @@
 ---
 title: "Using ROLLUP in BigQuery"
+seoTitle: "BigQuery ROLLUP: Subtotals and Grand Totals in One Query"
+seoDescription: "Learn how GROUP BY ROLLUP works in BigQuery SQL to compute hierarchical subtotals and grand totals in a single query, with column order explained through..."
 datePublished: Fri Aug 18 2023 22:15:46 GMT+0000 (Coordinated Universal Time)
 cuid: cllh5g1dc000u09mi9annb0jk
 slug: using-rollup-in-bigquery

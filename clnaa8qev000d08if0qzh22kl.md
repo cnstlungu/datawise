@@ -1,5 +1,7 @@
 ---
 title: "Write better SQL queries faster using Mock Data"
+seoTitle: "Use Mock Data CTEs to Write BigQuery SQL Queries Faster"
+seoDescription: "A practical SQL development technique: prototype complex BigQuery queries using inline CTE mock data to iterate quickly, cover edge cases, and reduce..."
 datePublished: Tue Oct 03 2023 12:15:05 GMT+0000 (Coordinated Universal Time)
 cuid: clnaa8qev000d08if0qzh22kl
 slug: write-better-sql-queries-faster-using-mock-data

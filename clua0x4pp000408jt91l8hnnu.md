@@ -1,5 +1,7 @@
 ---
 title: "Boolean data type in BigQuery"
+seoTitle: "BigQuery BOOL Data Type: Write Cleaner SQL Conditions"
+seoDescription: "BigQuery's native BOOL data type lets you write boolean flags directly from comparisons and use them in WHERE without explicit TRUE checks."
 datePublished: Wed Mar 27 2024 16:32:03 GMT+0000 (Coordinated Universal Time)
 cuid: clua0x4pp000408jt91l8hnnu
 slug: boolean-data-type-in-bigquery

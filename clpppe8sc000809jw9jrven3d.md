@@ -1,5 +1,7 @@
 ---
 title: "Filling up missing values with LAST_VALUE"
+seoTitle: "Fill Missing Values in BigQuery with LAST_VALUE IGNORE NULLS"
+seoDescription: "Learn how to forward-fill missing sensor readings in BigQuery using LAST_VALUE with IGNORE NULLS and an unbounded window frame."
 datePublished: Sun Dec 03 2023 16:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: clpppe8sc000809jw9jrven3d
 slug: filling-up-missing-values-with-lastvalue

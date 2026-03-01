@@ -1,11 +1,13 @@
 ---
 title: "Easy with that SELECT DISTINCT!"
+seoTitle: "Stop Using SELECT DISTINCT to Hide SQL Query Bugs"
+seoDescription: "Overusing SELECT DISTINCT masks bad joins, incorrect grain, and unhandled nested data in SQL queries. Learn a systematic debugging approach to find the..."
 datePublished: Sat Jun 08 2024 17:42:55 GMT+0000 (Coordinated Universal Time)
 cuid: clx6elg35000009lc1fhcftcx
 slug: easy-with-that-select-distinct
 canonical: https://www.notjustsql.com/p/easy-with-that-select-distinct
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717869027576/32635a0b-4d29-487a-91c4-3373df54d44b.jpeg
-tags: analytics, databases, sql, data-engineering, data-analytics
+tags: analytics, databases, sql, data-engineering
 
 ---
 
@@ -61,3 +63,12 @@ If you're not familiar with QUALIFY and other ways to de-duplicate, check out th
 Happy querying!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)

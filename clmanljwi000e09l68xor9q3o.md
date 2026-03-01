@@ -1,5 +1,7 @@
 ---
 title: "Dictionary Unpacking in Python"
+seoTitle: "Python Dictionary Unpacking with ** for Cleaner Code"
+seoDescription: "Learn how to use Python's ** operator to unpack dictionaries as function keyword arguments, with a practical API call templating example that keeps config..."
 datePublished: Fri Sep 08 2023 13:49:15 GMT+0000 (Coordinated Universal Time)
 cuid: clmanljwi000e09l68xor9q3o
 slug: dictionary-unpacking-in-python

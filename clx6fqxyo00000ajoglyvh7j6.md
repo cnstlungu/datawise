@@ -1,5 +1,7 @@
 ---
 title: "Why basic roles in BigQuery are a bad idea"
+seoTitle: "BigQuery IAM: Why Owner/Editor Roles Are a Security Risk"
+seoDescription: "Basic IAM roles like Owner and Editor grant thousands of permissions across all BigQuery datasets, violating least privilege."
 datePublished: Sat Jun 08 2024 18:15:11 GMT+0000 (Coordinated Universal Time)
 cuid: clx6fqxyo00000ajoglyvh7j6
 slug: why-basic-roles-in-bigquery-are-a-bad-idea
@@ -42,3 +44,11 @@ They make way for a number of problems:
     
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Row-level access security in BigQuery](https://datawise.dev/row-level-access-security-in-bigquery)
+- [Using subqueries with Row Level Security in BigQuery](https://datawise.dev/using-subqueries-with-row-level-security-in-bigquery)
+- [Cross-dataset foreign key relationships in BigQuery](https://datawise.dev/cross-dataset-foreign-key-relationships-in-bigquery)

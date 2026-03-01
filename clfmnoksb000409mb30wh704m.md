@@ -1,5 +1,7 @@
 ---
 title: "Preparing for the AWS Certified Developer-Associate exam"
+seoTitle: "AWS Certified Developer Associate: Exam Prep Guide"
+seoDescription: "Reviews the best resources for passing the AWS Certified Developer Associate exam, from the official study guide to A Cloud Guru and Tutorials Dojo."
 datePublished: Sat May 09 2020 06:20:41 GMT+0000 (Coordinated Universal Time)
 cuid: clfmnoksb000409mb30wh704m
 slug: preparing-for-the-aws-certified-developer-associate-exam

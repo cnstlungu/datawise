@@ -33,3 +33,12 @@ Things to watch out for:
 ![](https://miro.medium.com/v2/resize:fit:700/0*Wuw8he37UZSOsKiT align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [***notjustsql.com***](https://notjustsql.com/)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
+- [Generating a compact temporal table in BigQuery](https://datawise.dev/generating-a-compact-temporal-table-in-bigquery)
+- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
+- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
