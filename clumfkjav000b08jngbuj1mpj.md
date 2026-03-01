@@ -6,7 +6,6 @@ datePublished: Fri Apr 05 2024 08:55:24 GMT+0000 (Coordinated Universal Time)
 cuid: clumfkjav000b08jngbuj1mpj
 slug: a-portable-data-analytics-stack-using-docker-mage-dbt-core-duckdb-and-superset
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/tjX_sniNzgQ/upload/f62cd5d28270ba6459c3b3d60b6a0834.jpeg
-tags: analytics, docker, dbt, duckdb, apache-superset, mageai
 
 ---
 
