@@ -6,7 +6,6 @@ datePublished: Fri Apr 19 2024 13:59:14 GMT+0000 (Coordinated Universal Time)
 cuid: clv6ql6r1000m0ald2mym54eu
 slug: using-structs-for-quick-analysis-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Vqn2WrfxTQ/upload/afc1d91e252f9be5a2461fe4311e2caf.jpeg
-tags: google-cloud, sql, bigquery, data-engineering, analytics
 
 ---
 
@@ -19,12 +18,3 @@ Not a game changer but makes life a bit easier 😁
 ![](https://miro.medium.com/v2/resize:fit:1400/0*jnxtlXlSrHzQqi6g align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Understanding STRUCTS in BigQuery](https://datawise.dev/understanding-structs-in-bigquery)
-- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
-- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
-- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
