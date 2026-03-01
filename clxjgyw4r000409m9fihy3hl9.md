@@ -6,7 +6,6 @@ datePublished: Mon Jun 17 2024 21:10:22 GMT+0000 (Coordinated Universal Time)
 cuid: clxjgyw4r000409m9fihy3hl9
 slug: anti-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eZas-0yTQqI/upload/8ce0e7ce76da45ecb1191f1b72d4ea29.jpeg
-tags: databases, sql, bigquery
 
 ---
 
@@ -27,12 +26,3 @@ In the example below, we're illustrating a LEFT ANTI JOIN which finds all the pr
 ![](https://miro.medium.com/v2/resize:fit:1308/0*FvwZTexztXSPfKTq align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
-- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
-- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
-- [NATURAL JOIN in SQL](https://datawise.dev/natural-join-in-sql)
