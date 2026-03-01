@@ -6,7 +6,6 @@ datePublished: Sat Jun 08 2024 17:00:38 GMT+0000 (Coordinated Universal Time)
 cuid: clx6d32bn000207kwe6lp42tf
 slug: the-partitions-view-in-informationschema
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rhaS97NhnHg/upload/576d8945cc675bcd814ad30713c0c1ab.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
