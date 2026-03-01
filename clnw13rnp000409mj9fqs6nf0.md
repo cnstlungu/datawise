@@ -6,7 +6,6 @@ datePublished: Wed Oct 18 2023 17:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: clnw13rnp000409mj9fqs6nf0
 slug: combining-structs-with-window-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/P_qvsF7Yodw/upload/fe43c226c0e3d8a6be289a53a6efb097.jpeg
-tags: analytics, data-analysis, google-cloud, sql, bigquery
 
 ---
 
@@ -83,12 +82,3 @@ This way, you can use LEAD or LAG only once, regardless of how many attributes y
 There are of course other interesting use cases for STRUCTs, which we will explore in upcoming posts. Stay tuned!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
-- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
-- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
-- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
