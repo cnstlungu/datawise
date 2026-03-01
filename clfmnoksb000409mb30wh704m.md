@@ -6,7 +6,6 @@ datePublished: Sat May 09 2020 06:20:41 GMT+0000 (Coordinated Universal Time)
 cuid: clfmnoksb000409mb30wh704m
 slug: preparing-for-the-aws-certified-developer-associate-exam
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/88c04750a5a605ff95d7ecb3c623d63d.jpeg
-tags: cloud, aws, cloud-computing, certification
 
 ---
 
