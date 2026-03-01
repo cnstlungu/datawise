@@ -6,7 +6,6 @@ datePublished: Wed Jan 17 2024 14:23:23 GMT+0000 (Coordinated Universal Time)
 cuid: clrhvi1fr000309l2hsg9apg5
 slug: rolling-period-calculation-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/08elrfBZ4A4/upload/b50daf19e0701a8fac083058d0126440.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
@@ -67,12 +66,3 @@ FROM input_data
 ```
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
-- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
-- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
-- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
