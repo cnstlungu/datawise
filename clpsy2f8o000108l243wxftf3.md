@@ -6,7 +6,6 @@ datePublished: Tue Dec 05 2023 23:01:17 GMT+0000 (Coordinated Universal Time)
 cuid: clpsy2f8o000108l243wxftf3
 slug: like-all-and-like-any-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7JX0-bfiuxQ/upload/dbecb45935a86d433879fee746f0f908.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
