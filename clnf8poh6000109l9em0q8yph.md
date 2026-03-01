@@ -6,7 +6,6 @@ datePublished: Fri Oct 06 2023 23:31:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnf8poh6000109l9em0q8yph
 slug: using-gcp-cloud-functions-in-data-engineering
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rqd_19NYsKg/upload/1f7aed9391a4e6c080d111e7e7357afc.jpeg
-tags: serverless, gcp, data-engineering
 
 ---
 
@@ -41,12 +40,3 @@ But overall, it felt like the setup was pretty straightforward and the first tim
 When used properly, a cloud function can be very useful for Real-Time and Batch ETL, automation and API Development, all while being scalable and flexible.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
-- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
-- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
-- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
