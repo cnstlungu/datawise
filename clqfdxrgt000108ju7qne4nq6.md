@@ -6,7 +6,6 @@ datePublished: Thu Dec 21 2023 15:56:29 GMT+0000 (Coordinated Universal Time)
 cuid: clqfdxrgt000108ju7qne4nq6
 slug: optimizing-compute-cost-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SAYzxuS1O3M/upload/41944310c8da03951a83b0eb02c11eb1.jpeg
-tags: google-cloud, bigquery, gcp
 
 ---
 
@@ -29,12 +28,3 @@ Now, they typically correlate, but there might be cases where you pick between a
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703174024097/e78eca78-6f7a-4884-9f97-1a5a5968969b.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
-- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
-- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
-- [Optimizing storage costs in BigQuery](https://datawise.dev/optimizing-storage-costs-in-bigquery)
