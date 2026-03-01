@@ -6,7 +6,6 @@ datePublished: Mon Oct 30 2023 11:52:25 GMT+0000 (Coordinated Universal Time)
 cuid: clocubl5o000e09lc0x9e5mbo
 slug: intersect-and-except-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HHtzGcZkRZY/upload/f56dc9fa833f0f8da3ce31ac2932c9a3.jpeg
-tags: databases, sql, bigquery
 
 ---
 
