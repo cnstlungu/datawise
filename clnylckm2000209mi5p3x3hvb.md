@@ -1,7 +1,7 @@
 ---
 title: "Using BigQuery hashing functions"
-seoTitle: "BigQuery Hashing: FARM_FINGERPRINT for Surrogate Keys & MERGE"
-seoDescription: "How to use BigQuery hash functions like FARM_FINGERPRINT and MD5 to create surrogate keys, detect row-level changes between snapshots, and simplify..."
+seoTitle: "FARM_FINGERPRINT in BigQuery: Hashing for Keys and MERGE"
+seoDescription: "Use FARM_FINGERPRINT in BigQuery to generate surrogate keys, detect row changes between snapshots, and simplify MERGE conditions across many columns."
 datePublished: Fri Oct 20 2023 12:32:28 GMT+0000 (Coordinated Universal Time)
 cuid: clnylckm2000209mi5p3x3hvb
 slug: using-bigquery-hashing-functions

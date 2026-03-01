@@ -1,7 +1,7 @@
 ---
 title: "Search Indexes in BigQuery"
 seoTitle: "BigQuery Search Indexes: Speed Up Text and JSON Queries"
-seoDescription: "BigQuery search indexes accelerate lookups on STRING and JSON columns in large tables using the SEARCH function and operators like STARTS_WITH, IN, and..."
+seoDescription: "BigQuery search indexes speed up queries on STRING and JSON columns in large tables. Create one with CREATE SEARCH INDEX and verify use via Job Information."
 datePublished: Sat Apr 06 2024 22:29:41 GMT+0000 (Coordinated Universal Time)
 cuid: cluoo3k0b000308l3ev5zfzrh
 slug: search-indexes-in-bigquery

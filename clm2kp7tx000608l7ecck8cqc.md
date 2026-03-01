@@ -1,7 +1,7 @@
 ---
 title: "Scheduled queries in BigQuery"
-seoTitle: "BigQuery Scheduled Queries: Setup with UI and Terraform"
-seoDescription: "How to create and manage BigQuery Scheduled Queries via the console UI, Terraform, and the API — covering schedule options, write disposition, backfill,..."
+seoTitle: "BigQuery Scheduled Queries: UI, Terraform, and API Setup"
+seoDescription: "Set up BigQuery Scheduled Queries via the console UI, Terraform, or the API. Covers scheduling options, write disposition, backfill, and viewing run history."
 datePublished: Sat Sep 02 2023 22:05:58 GMT+0000 (Coordinated Universal Time)
 cuid: clm2kp7tx000608l7ecck8cqc
 slug: scheduled-queries-in-bigquery

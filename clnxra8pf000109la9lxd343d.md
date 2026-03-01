@@ -1,7 +1,7 @@
 ---
 title: "Pay attention to this when UNNESTING in BigQuery"
-seoTitle: "BigQuery UNNEST: Comma vs LEFT JOIN and Why It Matters"
-seoDescription: "The difference between comma-based UNNEST (implicit CROSS JOIN) and LEFT JOIN UNNEST in BigQuery SQL — and why it determines whether rows with empty..."
+seoTitle: "BigQuery UNNEST: Comma vs LEFT JOIN UNNEST Explained"
+seoDescription: "A comma before UNNEST acts as a CROSS JOIN and drops rows with empty arrays. LEFT JOIN UNNEST preserves them. See how the syntax choice affects your results."
 datePublished: Thu Oct 19 2023 22:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnxra8pf000109la9lxd343d
 slug: pay-attention-to-this-when-unnesting-in-bigquery

@@ -1,7 +1,7 @@
 ---
 title: "Using ARRAY_AGG in BigQuery"
-seoTitle: "ARRAY_AGG in BigQuery: Aggregate Rows into Arrays"
-seoDescription: "Learn how to use ARRAY_AGG in BigQuery to collapse multiple rows into a single array, including combining it with STRUCT, ORDER BY, DISTINCT, and LIMIT."
+seoTitle: "BigQuery ARRAY_AGG: Collapse Rows into Nested Arrays"
+seoDescription: "ARRAY_AGG groups multiple rows into a single array by a key. Combine it with STRUCT, ORDER BY, DISTINCT, or LIMIT to control the shape of the resulting array."
 datePublished: Tue Nov 07 2023 22:46:08 GMT+0000 (Coordinated Universal Time)
 cuid: cloox73ny000308jn85ee6x4c
 slug: using-array-agg-in-bigquery
