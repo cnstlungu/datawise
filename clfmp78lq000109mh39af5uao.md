@@ -6,7 +6,6 @@ datePublished: Mon Mar 20 2023 13:45:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfmp78lq000109mh39af5uao
 slug: generating-a-compact-temporal-table-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IEiAmhXehwE/upload/e0f890d1c04b87f96c45f08975e17ff3.jpeg
-tags: analytics, sql, bigquery, data-modeling, gcp
 
 ---
 
@@ -167,12 +166,3 @@ Thanks for reading and stay tuned for more Data Engineering content.
 %[https://gist.github.com/cnstlungu/732b9d64367b6eec012727d1d08151e5] 
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
-- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
-- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
-- [Transforming cumulative sums into monthly values](https://datawise.dev/transforming-cumulative-sums-into-monthly-values)
