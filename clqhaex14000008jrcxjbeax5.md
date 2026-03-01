@@ -6,7 +6,6 @@ datePublished: Fri Dec 22 2023 23:53:23 GMT+0000 (Coordinated Universal Time)
 cuid: clqhaex14000008jrcxjbeax5
 slug: optimizing-storage-costs-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NeTPASr-bmQ/upload/60505511ac0d4278a94c41f75c1a6939.jpeg
-tags: google-cloud, bigquery, gcp, finops
 
 ---
 
@@ -43,12 +42,3 @@ Hope these tips are useful!
 ![](https://miro.medium.com/v2/resize:fit:590/0*Utzk5O5rhycnAhVd align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
-- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
-- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
-- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
