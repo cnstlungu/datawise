@@ -6,7 +6,6 @@ datePublished: Tue Dec 19 2023 22:46:25 GMT+0000 (Coordinated Universal Time)
 cuid: clqcxp87e000108jrejscce9g
 slug: leveraging-arrays-in-bigquery-for-query-performance
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VhDgReMsz8w/upload/de24b096bb46c8b5384f6a4c7dd33b98.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -37,12 +36,3 @@ Let's run a quick query to test the performance of these two. In this particular
 I'm definitely not saying this is a "one size fits all" approach, depending of course on data structure, size, querying patterns and other constraints. But whenever you have a challenge like that, it's good to know your options, try out different strategies and pick the one that suits your use case best.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
-
----
-
-*Enjoyed this? Here are some related articles you might find useful:*
-
-- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
-- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
-- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
-- [Enumerating ARRAY elements in BigQuery using WITH OFFSET](https://datawise.dev/enumerating-array-elements-in-bigquery-using-with-offset)
