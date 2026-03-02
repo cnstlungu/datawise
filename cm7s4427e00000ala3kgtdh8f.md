@@ -6,7 +6,6 @@ datePublished: Sun Mar 02 2025 20:57:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm7s4427e00000ala3kgtdh8f
 slug: a-quick-overview-of-bigquery-functions
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cHhbULJbPwM/upload/aff47b5d4d7d6ac7457150c035267f20.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
