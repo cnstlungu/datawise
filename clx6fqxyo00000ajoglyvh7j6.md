@@ -6,6 +6,7 @@ datePublished: Sat Jun 08 2024 18:15:11 GMT+0000 (Coordinated Universal Time)
 cuid: clx6fqxyo00000ajoglyvh7j6
 slug: why-basic-roles-in-bigquery-are-a-bad-idea
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qD5Err_lJ5Y/upload/f0a51805c69113f2164f3c9b29547ac0.jpeg
+tags: security, databases, google-cloud, sql, bigquery
 
 ---
 
