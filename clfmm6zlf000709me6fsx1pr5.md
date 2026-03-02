@@ -6,6 +6,7 @@ datePublished: Sun Apr 26 2020 11:33:50 GMT+0000 (Coordinated Universal Time)
 cuid: clfmm6zlf000709me6fsx1pr5
 slug: 9-issues-ive-encountered-when-setting-up-a-hadoop-spark-cluster-for-the-first-time
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/QJbyG6O0ick/upload/433c1365461908dbc4d0184b4ba36276.jpeg
+tags: hadoop, big-data, spark
 
 ---
 
