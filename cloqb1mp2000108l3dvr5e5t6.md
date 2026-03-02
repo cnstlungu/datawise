@@ -6,7 +6,6 @@ datePublished: Wed Nov 08 2023 22:01:34 GMT+0000 (Coordinated Universal Time)
 cuid: cloqb1mp2000108l3dvr5e5t6
 slug: tidying-up-window-functions-in-bigquery-with-named-windows
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q0aQcZV0oug/upload/347852134efe5bcd4d475525203f5279.jpeg
-tags: analytics, databases, sql, bigquery
 
 ---
 
