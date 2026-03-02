@@ -6,6 +6,7 @@ datePublished: Wed Jun 11 2025 19:22:01 GMT+0000 (Coordinated Universal Time)
 cuid: cmbsc6dgv000202jrcn3p5zee
 slug: aggregating-multiple-scd-2-attribute-timelines-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bnZ8_95Q8NE/upload/885d24ef5d81125139dbf105bc1a6b95.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
