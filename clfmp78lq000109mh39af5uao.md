@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IEiAmhXehwE/up
 
 ---
 
+
 In one of my [previous posts](https://medium.com/p/4eb07ba111e2), we discussed what temporal tables are and how to join multiple such tables into a single one. In this short practical exercise, we’re going to look at how we can generate a compact temporary table given possible redundant values as input.
 
 ### Problem statement
@@ -166,3 +167,12 @@ Thanks for reading and stay tuned for more Data Engineering content.
 %[https://gist.github.com/cnstlungu/732b9d64367b6eec012727d1d08151e5] 
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Joining temporal tables in BigQuery](https://datawise.dev/practical-bigquery-joining-temporal-tables)
+- [Aggregating Multiple SCD-2 Attribute Timelines in BigQuery](https://datawise.dev/aggregating-multiple-scd-2-attribute-timelines-in-bigquery)
+- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
+- [Transforming cumulative sums into monthly values](https://datawise.dev/transforming-cumulative-sums-into-monthly-values)
