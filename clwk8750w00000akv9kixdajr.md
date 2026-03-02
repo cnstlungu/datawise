@@ -6,6 +6,7 @@ datePublished: Fri May 24 2024 05:12:54 GMT+0000 (Coordinated Universal Time)
 cuid: clwk8750w00000akv9kixdajr
 slug: what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_QoAuZGAoPY/upload/7a27e7bad2c1068d2a7313d383160ba3.jpeg
+tags: analytics, google-cloud, bigquery, data-engineering
 
 ---
 
