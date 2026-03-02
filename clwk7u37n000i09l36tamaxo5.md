@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xbEVM6oJ1Fs/up
 
 ---
 
+
 Remember that in additional to the Cloud Console GUI or client libraries, you can also perform BigQuery tasks using the `bq` command-line interface.
 
 It's included with the gcloud SDK and once you have logged in, you can perform a number of operations such as:  
@@ -26,3 +27,12 @@ Any other interesting ways you're using the bq cli tool?
 ![](https://miro.medium.com/v2/resize:fit:1400/0*VvVN8Y1vXzRvhdbN align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using GCP Cloud Functions in Data Engineering](https://datawise.dev/using-gcp-cloud-functions-in-data-engineering)
+- [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
+- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
+- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
