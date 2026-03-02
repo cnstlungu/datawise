@@ -6,6 +6,7 @@ datePublished: Thu Apr 02 2020 22:15:04 GMT+0000 (Coordinated Universal Time)
 cuid: clfmmhr2l000e09mf63lb89jb
 slug: how-i-set-up-my-first-hadoop-spark-cluster-preparation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679563311820/2a7f8c03-11f9-42ee-ad6b-a70eb6769bd2.jpeg
+tags: hadoop, big-data, spark, raspberry-pi
 
 ---
 
