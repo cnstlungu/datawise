@@ -1,12 +1,11 @@
 ---
 title: "LIKE ALL and LIKE ANY in BigQuery"
 seoTitle: "BigQuery LIKE ALL and LIKE ANY: Multi-Pattern Matching"
-seoDescription: "Learn how to use the quantified LIKE ALL, LIKE ANY, and LIKE SOME operators in BigQuery to match against multiple string patterns in one expression."
+seoDescription: "LIKE ANY matches if any pattern matches; LIKE ALL requires all to match. Learn BigQuery's quantified LIKE operators with practical SQL examples and edge cases."
 datePublished: Tue Dec 05 2023 23:01:17 GMT+0000 (Coordinated Universal Time)
 cuid: clpsy2f8o000108l243wxftf3
 slug: like-all-and-like-any-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7JX0-bfiuxQ/upload/dbecb45935a86d433879fee746f0f908.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
