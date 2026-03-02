@@ -6,7 +6,6 @@ datePublished: Fri Apr 19 2024 13:59:14 GMT+0000 (Coordinated Universal Time)
 cuid: clv6ql6r1000m0ald2mym54eu
 slug: using-structs-for-quick-analysis-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Vqn2WrfxTQ/upload/afc1d91e252f9be5a2461fe4311e2caf.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
