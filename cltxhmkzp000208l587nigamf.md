@@ -6,6 +6,7 @@ datePublished: Mon Mar 18 2024 21:58:44 GMT+0000 (Coordinated Universal Time)
 cuid: cltxhmkzp000208l587nigamf
 slug: delete-insert-vs-merge-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HjBcAVWlxnE/upload/b39a3f530bcb117cac1d295d231243bf.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
