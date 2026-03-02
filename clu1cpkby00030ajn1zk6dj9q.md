@@ -6,6 +6,7 @@ datePublished: Thu Mar 21 2024 14:52:10 GMT+0000 (Coordinated Universal Time)
 cuid: clu1cpkby00030ajn1zk6dj9q
 slug: range-data-type-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MPOwVcXSVAI/upload/6f672cf1aa2903bc5a1f9c6650427957.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
