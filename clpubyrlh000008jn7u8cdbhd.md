@@ -6,6 +6,7 @@ datePublished: Wed Dec 06 2023 22:18:07 GMT+0000 (Coordinated Universal Time)
 cuid: clpubyrlh000008jn7u8cdbhd
 slug: comprehensions-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nVqNmnAWz3A/upload/810ea2a007ec5ba0b522c1d4e521bf48.jpeg
+tags: programming-blogs, python, data-engineering, programming-tips
 
 ---
 
