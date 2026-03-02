@@ -6,6 +6,7 @@ datePublished: Tue Oct 03 2023 12:15:05 GMT+0000 (Coordinated Universal Time)
 cuid: clnaa8qev000d08if0qzh22kl
 slug: write-better-sql-queries-faster-using-mock-data
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/uGbG4LnMFMY/upload/5a85ec57b603763fe442ed7b9e1f7fa9.jpeg
+tags: analytics, databases, sql, bigquery
 
 ---
 
