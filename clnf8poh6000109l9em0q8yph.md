@@ -6,6 +6,7 @@ datePublished: Fri Oct 06 2023 23:31:07 GMT+0000 (Coordinated Universal Time)
 cuid: clnf8poh6000109l9em0q8yph
 slug: using-gcp-cloud-functions-in-data-engineering
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rqd_19NYsKg/upload/1f7aed9391a4e6c080d111e7e7357afc.jpeg
+tags: serverless, gcp, data-engineering
 
 ---
 
