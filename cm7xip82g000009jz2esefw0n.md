@@ -6,7 +6,6 @@ datePublished: Thu Mar 06 2025 15:44:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm7xip82g000009jz2esefw0n
 slug: change-history-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5IHz5WhosQE/upload/8e51a5949b7b388bd6a3ae6487e90811.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
