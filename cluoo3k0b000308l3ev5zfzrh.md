@@ -6,7 +6,6 @@ datePublished: Sat Apr 06 2024 22:29:41 GMT+0000 (Coordinated Universal Time)
 cuid: cluoo3k0b000308l3ev5zfzrh
 slug: search-indexes-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q9y3LRuuxmg/upload/cf17cb5eab1966ebde0ef4e9c2d24d06.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
