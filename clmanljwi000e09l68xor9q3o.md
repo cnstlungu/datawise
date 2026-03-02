@@ -6,6 +6,7 @@ datePublished: Fri Sep 08 2023 13:49:15 GMT+0000 (Coordinated Universal Time)
 cuid: clmanljwi000e09l68xor9q3o
 slug: dictionary-unpacking-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GopRYASfsOc/upload/7d3e87c4c16d470c132969f39293a6f9.jpeg
+tags: programming-blogs, python, programming-tips
 
 ---
 
