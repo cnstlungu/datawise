@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VhDgReMsz8w/up
 
 ---
 
+
 Leveraging your platform functionality goes a long way. When developing data pipelines, besides the functional requirements, we try to optimize for some other important variables, such as cost, resources consumed or runtime. While working with big or complex datasets in BigQuery, I always try a test several approaches to see which one yields a better mix from the above.
 
 Take ARRAYs, for example. They allow us to define one-to-many relationships inside tables while saving up on storage and potentially processing power too.
@@ -36,3 +37,12 @@ Let's run a quick query to test the performance of these two. In this particular
 I'm definitely not saying this is a "one size fits all" approach, depending of course on data structure, size, querying patterns and other constraints. But whenever you have a challenge like that, it's good to know your options, try out different strategies and pick the one that suits your use case best.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
+- [Enumerating ARRAY elements in BigQuery using WITH OFFSET](https://datawise.dev/enumerating-array-elements-in-bigquery-using-with-offset)
