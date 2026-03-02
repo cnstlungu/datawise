@@ -6,6 +6,7 @@ datePublished: Tue May 07 2024 13:19:46 GMT+0000 (Coordinated Universal Time)
 cuid: clvwf3rsr000b09jthofy0499
 slug: json-datatype-vs-json-like-string-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0W4XLGITrHg/upload/f0b752b82d9f036b8d853963793ac1f6.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
