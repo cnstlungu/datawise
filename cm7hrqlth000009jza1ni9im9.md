@@ -6,6 +6,7 @@ datePublished: Sun Feb 23 2025 15:13:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm7hrqlth000009jza1ni9im9
 slug: expressing-multiple-repeated-joins-as-a-correlated-subquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GsRaiFdcTY4/upload/53033ddb91c2a6155eb0ade4fda8c8d8.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, gcp, data-engineering
 
 ---
 
