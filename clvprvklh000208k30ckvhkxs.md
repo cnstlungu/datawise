@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9k36QqhA0cU/up
 
 ---
 
+
 Data Engineers do a lot of Data Analysis work, too.
 
 For example: we need to understand why is there a difference between two approaches or data in two source systems.
@@ -28,3 +29,12 @@ This way, we can start our investigation from the biggest differences, regardles
 ![](https://miro.medium.com/v2/resize:fit:1400/0*n_ruvjFtLYWmzSwj align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
