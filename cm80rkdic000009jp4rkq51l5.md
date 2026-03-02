@@ -6,7 +6,6 @@ datePublished: Sat Mar 08 2025 22:16:09 GMT+0000 (Coordinated Universal Time)
 cuid: cm80rkdic000009jp4rkq51l5
 slug: a-quick-walkthrough-bigquery-remote-functions
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vUxSIkqveu8/upload/9ddbbdc1ce0a99d8ab9b0c1e1a933e01.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, gcp
 
 ---
 
