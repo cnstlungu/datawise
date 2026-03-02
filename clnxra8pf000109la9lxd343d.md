@@ -6,7 +6,6 @@ datePublished: Thu Oct 19 2023 22:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnxra8pf000109la9lxd343d
 slug: pay-attention-to-this-when-unnesting-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dnGgAIRNnsE/upload/9049fa6dd2688042be29866312924f1d.jpeg
-tags: google-cloud, sql, bigquery
 
 ---
 
