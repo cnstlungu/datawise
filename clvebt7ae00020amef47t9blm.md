@@ -6,7 +6,6 @@ datePublished: Wed Apr 24 2024 21:27:43 GMT+0000 (Coordinated Universal Time)
 cuid: clvebt7ae00020amef47t9blm
 slug: cleaning-up-strings-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/__ZMnefoI3k/upload/fbb56c2a25b80c649488765f453d4965.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
