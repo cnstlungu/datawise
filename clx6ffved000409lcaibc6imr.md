@@ -6,6 +6,7 @@ datePublished: Sat Jun 08 2024 18:06:34 GMT+0000 (Coordinated Universal Time)
 cuid: clx6ffved000409lcaibc6imr
 slug: a-couple-of-fun-things-about-null-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/8e1160c407fda3b5b40f000a2369760c.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
