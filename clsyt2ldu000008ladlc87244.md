@@ -6,7 +6,6 @@ datePublished: Fri Feb 23 2024 15:27:11 GMT+0000 (Coordinated Universal Time)
 cuid: clsyt2ldu000008ladlc87244
 slug: using-zip-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/plwud_FPvwU/upload/6cf85d119ee0acc0faa4a3048592ffee.jpeg
-tags: programming-blogs, python, developer, programming-languages
 
 ---
 
