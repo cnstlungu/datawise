@@ -1,12 +1,11 @@
 ---
 title: "Calculating the Median in BigQuery"
-seoTitle: "BigQuery Median Calculation Guide"
-seoDescription: "Learn how to calculate the median in BigQuery using available functions like `PERCENTILE_CONT` and `APPROX_QUANTILES`"
+seoTitle: "BigQuery Median: PERCENTILE_CONT vs APPROX_QUANTILES"
+seoDescription: "BigQuery has no native MEDIAN(). Use PERCENTILE_CONT(0.5) for exact results or APPROX_QUANTILES for large datasets. Includes GROUP BY and window examples."
 datePublished: Fri Aug 09 2024 15:00:51 GMT+0000 (Coordinated Universal Time)
 cuid: clzmu3u3100030ams8f76fylo
 slug: calculating-the-median-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ARh8UV5dNxg/upload/bb6ee5ecf20047774843ebc3c83fb19b.jpeg
-tags: analytics, statistics, google-cloud, sql, bigquery
 
 ---
 
