@@ -6,7 +6,6 @@ datePublished: Sat Jul 27 2024 20:56:09 GMT+0000 (Coordinated Universal Time)
 cuid: clz4m2p3j000209la91vzgrs6
 slug: installing-python-packages-with-pip
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pdFMl6enmeo/upload/b49d01d705fec421cb297455f4bea64c.jpeg
-tags: python, data-engineering
 
 ---
 
