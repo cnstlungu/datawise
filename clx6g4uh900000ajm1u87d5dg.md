@@ -6,7 +6,6 @@ datePublished: Sat Jun 08 2024 18:26:00 GMT+0000 (Coordinated Universal Time)
 cuid: clx6g4uh900000ajm1u87d5dg
 slug: the-relationship-between-arrayagg-and-unnest
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VhDgReMsz8w/upload/910ca1350e91fa8b0c28ce16e9acd9c9.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
