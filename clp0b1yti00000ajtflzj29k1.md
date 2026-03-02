@@ -6,7 +6,6 @@ datePublished: Wed Nov 15 2023 21:59:31 GMT+0000 (Coordinated Universal Time)
 cuid: clp0b1yti00000ajtflzj29k1
 slug: comparing-ranking-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NfLZeAN7I6s/upload/86d1c04aabb5592ed41127daf364c2f6.jpeg
-tags: analytics, databases, sql, bigquery
 
 ---
 
