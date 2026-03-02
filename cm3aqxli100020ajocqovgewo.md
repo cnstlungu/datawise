@@ -7,6 +7,7 @@ cuid: cm3aqxli100020ajocqovgewo
 slug: for-quality-work-understand-your-data-grain-first
 canonical: https://www.notjustsql.com/p/for-quality-work-understand-your
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739312164807/e8f1571d-85cc-4d83-8b2a-e9422b28690f.png
+tags: analytics, databases, sql, data-engineering
 
 ---
 
