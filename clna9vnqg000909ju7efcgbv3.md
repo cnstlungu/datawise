@@ -6,6 +6,7 @@ datePublished: Tue Oct 03 2023 12:04:55 GMT+0000 (Coordinated Universal Time)
 cuid: clna9vnqg000909ju7efcgbv3
 slug: swapping-partitions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YEWvMidcKkg/upload/454938cba54f35773d7e049057cb0f56.jpeg
+tags: sql, bigquery, gcp
 
 ---
 
