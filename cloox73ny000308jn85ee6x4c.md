@@ -6,7 +6,6 @@ datePublished: Tue Nov 07 2023 22:46:08 GMT+0000 (Coordinated Universal Time)
 cuid: cloox73ny000308jn85ee6x4c
 slug: using-array-agg-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZzApzgh5lxo/upload/156c530d9ce565177d1e25f446e485e2.jpeg
-tags: analytics, databases, sql, bigquery
 
 ---
 
