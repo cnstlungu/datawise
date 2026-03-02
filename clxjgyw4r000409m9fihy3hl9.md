@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eZas-0yTQqI/up
 
 ---
 
+
 Here's the SQL Anti-Join, another type of join that doesn't have its own keyword but it's very much a thing. You might have used it a lot of times before 😁
 
 So, what does it do?
@@ -26,3 +27,12 @@ In the example below, we're illustrating a LEFT ANTI JOIN which finds all the pr
 ![](https://miro.medium.com/v2/resize:fit:1308/0*FvwZTexztXSPfKTq align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
+- [NATURAL JOIN in SQL](https://datawise.dev/natural-join-in-sql)
