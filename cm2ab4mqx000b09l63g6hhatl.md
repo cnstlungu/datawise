@@ -6,6 +6,7 @@ datePublished: Tue Oct 15 2024 10:35:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ab4mqx000b09l63g6hhatl
 slug: why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7EhAf2dBthg/upload/1a842df01fbbd9b7237a06ac2130b284.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
