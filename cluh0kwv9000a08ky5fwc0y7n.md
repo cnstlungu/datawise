@@ -6,7 +6,6 @@ datePublished: Mon Apr 01 2024 13:56:56 GMT+0000 (Coordinated Universal Time)
 cuid: cluh0kwv9000a08ky5fwc0y7n
 slug: order-by-expressions-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/87hFrPk3V-s/upload/c27effb1cf78e2de3c3ea34c55832f86.jpeg
-tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 
