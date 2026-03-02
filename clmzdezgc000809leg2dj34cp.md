@@ -6,7 +6,6 @@ datePublished: Mon Sep 25 2023 20:58:27 GMT+0000 (Coordinated Universal Time)
 cuid: clmzdezgc000809leg2dj34cp
 slug: hands-on-with-duckdb
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/59yg_LpcvzQ/upload/51309fb68852dcc85703914914f1a3c8.jpeg
-tags: analytics, sql, duckdb
 
 ---
 
