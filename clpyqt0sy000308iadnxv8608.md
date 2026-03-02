@@ -6,6 +6,7 @@ datePublished: Sun Dec 10 2023 00:24:38 GMT+0000 (Coordinated Universal Time)
 cuid: clpyqt0sy000308iadnxv8608
 slug: using-logicaland-and-logicalor-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-SmCKTIcH5E/upload/6f3b03c5f83b1f16d17b271b1008445f.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
