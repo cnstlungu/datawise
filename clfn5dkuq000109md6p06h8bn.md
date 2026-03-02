@@ -6,7 +6,6 @@ datePublished: Mon Aug 26 2019 21:35:08 GMT+0000 (Coordinated Universal Time)
 cuid: clfn5dkuq000109md6p06h8bn
 slug: intro-nlp-sentiment-analysis-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YPgTovTiUv4/upload/acde73dbfcfeb196587934b6ffcf7370.jpeg
-tags: analytics, python, pandas, nlp
 
 ---
 
