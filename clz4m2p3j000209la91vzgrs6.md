@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pdFMl6enmeo/up
 
 ---
 
+
 Here are the basics you need to know about installing Python packages.
 
 Apart from the built-in modules that come by default with the Python installation (the Standard Library), you need to install third-packages packages to be able to use them in your code (and of course import them).
@@ -32,3 +33,12 @@ Here's a quick list of common use cases:
 ![](https://miro.medium.com/v2/resize:fit:1400/0*nyhP6cs6sj5nLpG6 align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Retrying in Python using tenacity](https://datawise.dev/retrying-in-python-using-tenacity)
+- [Using virtual environments in Python](https://datawise.dev/using-virtual-environments-in-python)
+- [A quick look at the json module in Python](https://datawise.dev/a-quick-look-at-the-json-module-in-python)
+- [Using tempfile module in Python](https://datawise.dev/using-tempfile-module-in-python)
