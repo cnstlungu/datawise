@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/up
 
 ---
 
+
 I've previously did a [short intro post about ARRAYS](https://datawise.dev/unnesting-arrays-in-bigquery) in BigQuery, but I do see from time to time people that are just getting started become confused about how are they different from STRUCTS and when should we use them.
 
 Let's clarify this.
@@ -34,3 +35,12 @@ ARRAY of STRUCTS = you have a list of "things" that you know multiple things abo
 Would also be good to store all them addresses a person ever had. `TYPE = RECORD, MODE = REPEATED`
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
+- [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
+- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
+- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
