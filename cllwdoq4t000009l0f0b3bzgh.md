@@ -6,7 +6,6 @@ datePublished: Tue Aug 29 2023 14:03:01 GMT+0000 (Coordinated Universal Time)
 cuid: cllwdoq4t000009l0f0b3bzgh
 slug: row-level-access-security-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5tmItJfHkIc/upload/5fe4e2b9cff1538de866187268de5c9a.jpeg
-tags: analytics, security, google-cloud, bigquery
 
 ---
 
