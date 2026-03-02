@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/G1yhU1Ej-9A/up
 
 ---
 
+
 Let's help BigQuery do less unneeded work!
 
 If you're UNIONING two sources known to have distinct values (and they don't have duplicates), go for UNION ALL instead of UNION DISTINCT (UNION for some other sql dialects) to avoid redundant de-duplication.
@@ -22,3 +23,12 @@ There's no difference indeed for on-demand pricing (same amount of data scanned)
 So use UNION DISTINCT (and any other DISTINCT) sparingly and when you actually need it.
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)
