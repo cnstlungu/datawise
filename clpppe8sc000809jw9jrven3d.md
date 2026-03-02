@@ -6,6 +6,7 @@ datePublished: Sun Dec 03 2023 16:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: clpppe8sc000809jw9jrven3d
 slug: filling-up-missing-values-with-lastvalue
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/5f06fa587a04bdc5c5d0dc8b86ec3ec9.jpeg
+tags: analytics, databases, sql, bigquery
 
 ---
 
