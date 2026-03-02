@@ -1,7 +1,7 @@
 ---
 title: "Why you should care about partition pruning in BigQuery"
 seoTitle: "BigQuery Partition Pruning: Avoid Full Table Scans"
-seoDescription: "Explains how BigQuery partition pruning works and why applying functions to a partition column in WHERE or JOIN conditions can disable it, causing full..."
+seoDescription: "BigQuery skips irrelevant partitions at query time — but wrapping a partition column in a function disables pruning. Learn which WHERE expressions are safe."
 datePublished: Thu Feb 22 2024 10:05:10 GMT+0000 (Coordinated Universal Time)
 cuid: clsx24mzv000208l2anfg1qpb
 slug: why-you-should-care-about-partition-pruning-in-bigquery
