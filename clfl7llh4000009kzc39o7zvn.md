@@ -1,14 +1,14 @@
 ---
 title: "9 tips on writing cleaner SQL"
 seoTitle: "9 tips on writing better SQL"
-seoDescription: "This article provides nine tips for writing cleaner SQL queries. The tips include formatting queries, using meaningful aliases, avoiding SELECT *, using..."
+seoDescription: "This article provides nine tips for writing cleaner SQL queries. The tips include formatting queries, using meaningful aliases, avoiding SELECT *, using com"
 datePublished: Sun Sep 25 2022 21:43:23 GMT+0000 (Coordinated Universal Time)
 cuid: clfl7llh4000009kzc39o7zvn
 slug: 9-tips-on-writing-cleaner-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679582456366/1c751524-8bae-410a-a1ea-d58f7cac96cd.jpeg
-tags: analytics, sql, bigquery, gcp, data-engineering
 
 ---
+
 
 Structured Query Language, widely recognized by its acronym SQL (whether you pronounce it as es-queue-el or sequel), is one of the most widely used languages to retrieve and process data. While it’s been around for already half a century, there’s no indication that it might go away soon. Millions of DBAs, developers, data analysts and data engineers write SQL commands daily.
 
