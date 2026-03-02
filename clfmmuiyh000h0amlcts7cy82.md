@@ -6,6 +6,7 @@ datePublished: Sat Sep 10 2022 21:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: clfmmuiyh000h0amlcts7cy82
 slug: analyzing-reddit-data-using-scala-spark-and-spark-sql-6246c75463c6
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Oaqk7qqNh_c/upload/ab67b9d3b76a96e94895bc366d913542.jpeg
+tags: big-data, spark, scala, reddit, sparksql
 
 ---
 
