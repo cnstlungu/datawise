@@ -1,12 +1,11 @@
 ---
 title: "Using Dynamic SQL in BigQuery"
 seoTitle: "Dynamic SQL in BigQuery: EXECUTE IMMEDIATE with Examples"
-seoDescription: "Learn to build and run dynamic SQL queries in BigQuery using EXECUTE IMMEDIATE, with a practical example that dynamically generates an UNPIVOT query from..."
+seoDescription: "EXECUTE IMMEDIATE in BigQuery runs a dynamically built SQL string at runtime. Use it to generate UNPIVOT queries from metadata, loop over values, or run DDL."
 datePublished: Wed Oct 11 2023 14:14:02 GMT+0000 (Coordinated Universal Time)
 cuid: clnlu0j0z000m08laeovabwmn
 slug: using-dynamic-sql-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/sb7RUrRMaC4/upload/1563e43588c1051160feed8015878114.jpeg
-tags: databases, sql, bigquery
 
 ---
 
