@@ -6,6 +6,7 @@ datePublished: Thu May 16 2024 09:43:45 GMT+0000 (Coordinated Universal Time)
 cuid: clw92cmtw000m09mk8mj0ev4i
 slug: the-not-null-constraint-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/5c0a2b3ff095170686b845efa59d6aec.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
