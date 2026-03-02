@@ -1,7 +1,7 @@
 ---
 title: "Why partitioning tables is not a silver bullet for BigQuery performance"
-seoTitle: "Partitioning Tables: Not Always BigQuery's Cure"
-seoDescription: "Explore why partitioning isn't always the best strategy for BigQuery, and learn when clustering can enhance performance instead"
+seoTitle: "BigQuery Partitioning vs Clustering: When Each Helps"
+seoDescription: "Partitioning helps only when queries filter on the partition column. Learn when clustering outperforms partitioning and when both strategies make sense."
 datePublished: Tue Oct 15 2024 10:35:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ab4mqx000b09l63g6hhatl
 slug: why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance
