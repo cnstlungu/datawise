@@ -7,7 +7,6 @@ cuid: clvbfpwcz000309ju4y4w3p8g
 slug: lessons-from-chernobyl-and-how-it-relates-to-software-engineering
 canonical: https://www.notjustsql.com/p/lessons-from-chernobyl-and-how-it
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3VQ4AfOKCVc/upload/d6d5cdcae37d5443ee5a1d3bc27419b9.jpeg
-tags: software-development, team, software-engineering
 
 ---
 
