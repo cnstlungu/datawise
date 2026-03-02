@@ -7,6 +7,7 @@ cuid: cllqhom9i00050al13s0u9p3m
 slug: a-few-thoughts-about-recent-python-integration-into-excel
 canonical: https://www.notjustsql.com/p/a-few-thoughts-about-recent-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vb-3qEe3rg8/upload/d2fc7a7f86dcdc98902d406fece16ead.jpeg
+tags: analytics, python, excel
 
 ---
 
