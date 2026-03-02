@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rqd_19NYsKg/up
 
 ---
 
+
 Some of the most interesting Data Engineering projects I've worked with leveraged Google Cloud Functions. It's a serverless execution environment that lets you run your code without provisioning or managing servers.
 
 I found it to be very versatile, even more so for Data Processing tasks. Things like ingesting data, developing a lightweight API or consuming data from an endpoint, parsing and transforming a flat file.
@@ -40,3 +41,12 @@ But overall, it felt like the setup was pretty straightforward and the first tim
 When used properly, a cloud function can be very useful for Real-Time and Batch ETL, automation and API Development, all while being scalable and flexible.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
+- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
+- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
+- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
