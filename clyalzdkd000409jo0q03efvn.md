@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ngLt4Y1vI_Q/up
 
 ---
 
+
 Here's an interesting SQL problem, similar to one I had to solve the other day. It involves some of our favourite BigQuery ARRAYS, but also correlated subqueries.
 
 Say we have a table events that represents some events, together with the city and the date they have occurred.
@@ -45,3 +46,12 @@ Step 3: We extract the flags from the above `STRUCT` .
 Are there any other ways you would approach this problem?
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
