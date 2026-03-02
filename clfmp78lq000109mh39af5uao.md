@@ -6,6 +6,7 @@ datePublished: Mon Mar 20 2023 13:45:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfmp78lq000109mh39af5uao
 slug: generating-a-compact-temporal-table-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IEiAmhXehwE/upload/e0f890d1c04b87f96c45f08975e17ff3.jpeg
+tags: analytics, sql, bigquery, data-modeling, gcp
 
 ---
 
