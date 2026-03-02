@@ -6,7 +6,6 @@ datePublished: Thu May 09 2024 21:03:06 GMT+0000 (Coordinated Universal Time)
 cuid: clvzqjbwf000209jx62bvcq6i
 slug: the-order-in-which-you-round-matters-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1Kqc8ymfMKY/upload/d03e3f7f20ed2d5df5ad88b83f899e07.jpeg
-tags: databases, google-cloud, sql, bigquery
 
 ---
 
