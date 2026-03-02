@@ -1,7 +1,7 @@
 ---
 title: "Accessing ARRAY elements in BigQuery"
 seoTitle: "BigQuery Array Access: OFFSET, ORDINAL, and SAFE Variants"
-seoDescription: "BigQuery arrays can be accessed by bracket notation, OFFSET (0-based), or ORDINAL (1-based). Use SAFE_OFFSET or SAFE_ORDINAL to handle missing elements safely."
+seoDescription: "Access BigQuery arrays with OFFSET (0-based) or ORDINAL (1-based). Use SAFE_OFFSET and SAFE_ORDINAL to return NULL instead of erroring on out-of-bounds."
 datePublished: Sun Mar 31 2024 15:41:50 GMT+0000 (Coordinated Universal Time)
 cuid: clufovy9d000108l2bzv3gn9t
 slug: accessing-array-elements-in-bigquery
