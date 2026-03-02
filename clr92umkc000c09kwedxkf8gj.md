@@ -6,7 +6,6 @@ datePublished: Thu Jan 11 2024 10:39:12 GMT+0000 (Coordinated Universal Time)
 cuid: clr92umkc000c09kwedxkf8gj
 slug: using-range-in-window-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jUCQRQeRs3k/upload/5927fa0f6c7e32d62d5b62dfae90a29e.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
