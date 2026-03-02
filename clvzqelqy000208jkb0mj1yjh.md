@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cqvy_cag4gI/up
 
 ---
 
+
 If you're just getting started with SQL, this post is for you. So, it's worth looking at the order of precedence of SQL operators.
 
 One particular case is WHERE vs HAVING, especially if you bind the aggregated column to the same column alias as in the input table.
@@ -28,3 +29,12 @@ Depending what we need, we pick which approach we take, filtering out records be
 ![](https://miro.medium.com/v2/resize:fit:1400/0*xjZr5hk5cnL6Dw-T align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [Why you should use parentheses with AND & OR in SQL](https://datawise.dev/why-you-should-use-parentheses-with-and-or-in-sql)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)
