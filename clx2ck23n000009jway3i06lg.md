@@ -6,6 +6,7 @@ datePublished: Wed Jun 05 2024 21:34:46 GMT+0000 (Coordinated Universal Time)
 cuid: clx2ck23n000009jway3i06lg
 slug: controlling-ordering-of-null-values-in-the-order-by-clause
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IiEFmIXZWSw/upload/cf33eb2852f05f804cd38efaac49be0d.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
