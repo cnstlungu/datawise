@@ -6,6 +6,7 @@ datePublished: Fri Apr 19 2024 13:56:31 GMT+0000 (Coordinated Universal Time)
 cuid: clv6qhpjp000208mlgvmj9305
 slug: understanding-structs-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/upload/08c90aa58436d36e0f3ac228c5f2faec.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
