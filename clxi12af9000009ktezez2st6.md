@@ -6,7 +6,6 @@ datePublished: Sun Jun 16 2024 20:57:20 GMT+0000 (Coordinated Universal Time)
 cuid: clxi12af9000009ktezez2st6
 slug: self-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/betmVWGYcLY/upload/206a37909373c7878881a470d9948bb6.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
