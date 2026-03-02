@@ -6,6 +6,7 @@ datePublished: Mon Sep 25 2023 21:12:57 GMT+0000 (Coordinated Universal Time)
 cuid: clmzdxmwz000009jwb2eo08a9
 slug: understanding-generators-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8jNATlZXhgk/upload/0bb51cdd853a6026a281b1dbced665ab.jpeg
+tags: programming-blogs, python, data-structure-and-algorithms
 
 ---
 
