@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RF5HrKt8pfk/up
 
 ---
 
+
 In a [previous post](https://datawise.dev/unnesting-arrays-in-bigquery) we've covered what ARRAYS are in BigQuery, their use cases and how to flatten them with UNNEST.
 
 Quite important to mention, ARRAYS are ordered collections (like lists in Python) - you set up that order when creating it. By UNNESTING them, the order is no longer guaranteed.
@@ -18,3 +19,12 @@ In order to retrieve the order in which an element was in an array before UNNEST
 ![](https://miro.medium.com/v2/resize:fit:1400/0*C-hkWWzhOcpTLyZk align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using ARRAY_AGG in BigQuery](https://datawise.dev/using-array-agg-in-bigquery)
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
