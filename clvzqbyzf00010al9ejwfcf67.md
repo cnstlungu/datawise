@@ -6,6 +6,7 @@ datePublished: Thu May 09 2024 20:57:23 GMT+0000 (Coordinated Universal Time)
 cuid: clvzqbyzf00010al9ejwfcf67
 slug: transactions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4vMfb8srdTQ/upload/f9b64bbefe819d5a89929fb17c6173a8.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, gcp
 
 ---
 
