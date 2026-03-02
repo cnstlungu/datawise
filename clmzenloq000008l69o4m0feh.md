@@ -1,12 +1,11 @@
 ---
 title: "The power of BigQuery INFORMATION_SCHEMA views"
-seoTitle: "Unlocking BigQuery: Mastering INFORMATION_SCHEMA Views"
-seoDescription: "Dive into BigQuery's INFORMATION_SCHEMA views to analyze datasets, optimize storage costs, and build dynamic queries."
+seoTitle: "BigQuery INFORMATION_SCHEMA: Tables, Jobs, Storage & More"
+seoDescription: "Query INFORMATION_SCHEMA in BigQuery to list tables, monitor job costs, track storage by dataset, and generate dynamic SQL — with ready-to-run examples."
 datePublished: Mon Sep 25 2023 21:33:09 GMT+0000 (Coordinated Universal Time)
 cuid: clmzenloq000008l69o4m0feh
 slug: the-power-of-bigquery-informationschema-views
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FKqxZ58bVjU/upload/2603040576bbbef17a8cdf343895a01e.jpeg
-tags: analytics, sql, bigquery, gcp
 
 ---
 
