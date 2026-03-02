@@ -6,6 +6,7 @@ datePublished: Wed Feb 21 2024 22:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: clswcrxmy000008l801rbgyb5
 slug: calculating-the-mode-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dBI_My696Rk/upload/c7fb8ba8e01bd4af10a95a75b3022cb0.jpeg
+tags: analytics, statistics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
