@@ -6,7 +6,6 @@ datePublished: Thu Jan 11 2024 10:24:33 GMT+0000 (Coordinated Universal Time)
 cuid: clr92brxc000308jx0t1pbdr3
 slug: computing-a-cumulative-sum-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_zsL306fDck/upload/07403402006ef0b113e240736b99fba9.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
