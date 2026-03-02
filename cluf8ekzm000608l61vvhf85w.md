@@ -6,6 +6,7 @@ datePublished: Sun Mar 31 2024 08:00:26 GMT+0000 (Coordinated Universal Time)
 cuid: cluf8ekzm000608l61vvhf85w
 slug: enumerating-array-elements-in-bigquery-using-with-offset
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RF5HrKt8pfk/upload/aa242dd53579b38ce5fa60e37f6155e7.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
