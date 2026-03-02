@@ -6,6 +6,7 @@ datePublished: Thu Feb 22 2024 10:05:10 GMT+0000 (Coordinated Universal Time)
 cuid: clsx24mzv000208l2anfg1qpb
 slug: why-you-should-care-about-partition-pruning-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_E0--SXVjZM/upload/4b25b9c6d3fd2e41a56ee7fa85c7d015.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
