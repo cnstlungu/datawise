@@ -1,12 +1,11 @@
 ---
 title: "Splitting a STRING in BigQuery"
 seoTitle: "BigQuery SPLIT: Split a String by Delimiter into an Array"
-seoDescription: "SPLIT in BigQuery divides a string by a delimiter and returns an array of substrings. Access elements by 0-based index or UNNEST them into individual rows."
+seoDescription: "SPLIT(string, delimiter) returns an array of substrings in BigQuery. Access elements with OFFSET, expand rows with UNNEST, or recombine with STRING_AGG."
 datePublished: Thu Apr 11 2024 21:15:36 GMT+0000 (Coordinated Universal Time)
 cuid: cluvqnkbp000208lc0smg3it8
 slug: splitting-a-string-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GK7v9dePZhY/upload/9c74350ac01fcded3ceea3f8a9197577.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
