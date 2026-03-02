@@ -1,12 +1,11 @@
 ---
 title: "Using Correlated Subqueries in BigQuery"
 seoTitle: "Correlated Subqueries in BigQuery: Use Cases and Pitfalls"
-seoDescription: "Explains how correlated subqueries work in BigQuery, with scalar and filter examples compared against window function alternatives."
+seoDescription: "Correlated subqueries reference outer query values row-by-row. See scalar and filter examples in BigQuery, and learn when to replace them with window functions."
 datePublished: Mon Nov 06 2023 13:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: clomxqd5q000609k1b0za12gd
 slug: using-correlated-subqueries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0GKQfCE-_SU/upload/f8e44c8857b0346493f266f230156ae8.jpeg
-tags: analytics, databases, sql, bigquery
 
 ---
 
