@@ -1,12 +1,11 @@
 ---
 title: "Recursive CTEs in BigQuery"
-seoTitle: "Using Recursive CTE in BigQuery"
-seoDescription: "In this practical BigQuery exercise, we’re going to look at what are recursive CTEs (Common Table Expressions) and how can they be useful in our tool set."
+seoTitle: "Recursive CTEs in BigQuery: WITH RECURSIVE Explained"
+seoDescription: "BigQuery recursive CTEs use WITH RECURSIVE to self-reference. Use them for hierarchies, date sequences, and graph traversal — with syntax and worked examples."
 datePublished: Mon Apr 10 2023 14:39:26 GMT+0000 (Coordinated Universal Time)
 cuid: clgaxwfx8000d0amgaaq13gy9
 slug: recursive-ctes-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2YX8-o3Um5M/upload/8d62f02639c15fbb5d3ec58fcaa984c2.jpeg
-tags: data, data-analysis, sql, bigquery, gcp
 
 ---
 
