@@ -6,9 +6,9 @@ datePublished: Mon Aug 26 2019 21:35:08 GMT+0000 (Coordinated Universal Time)
 cuid: clfn5dkuq000109md6p06h8bn
 slug: intro-nlp-sentiment-analysis-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/YPgTovTiUv4/upload/acde73dbfcfeb196587934b6ffcf7370.jpeg
-tags: analytics, python, pandas, nlp
 
 ---
+
 
 [In the first article of this series](https://hashnode.com/post/clfn50hh2000809mg50geg9hh), we’ve looked at the setup needed to tap into the Twitter APIs, how to search tweets about a certain topic (we picked Brexit given the overwhelming media coverage) and how to pre-process the data to get to a tabular form.
 
