@@ -6,6 +6,7 @@ datePublished: Tue Apr 02 2024 23:12:39 GMT+0000 (Coordinated Universal Time)
 cuid: cluizvew9000008i88ygd6rxj
 slug: why-you-should-use-union-distinct-sparingly
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/G1yhU1Ej-9A/upload/b946f2e1112d2bad3f74d236addedec2.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
