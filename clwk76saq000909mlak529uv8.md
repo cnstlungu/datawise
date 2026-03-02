@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IiEFmIXZWSw/up
 
 ---
 
+
 If you filter the data in SQL with WHERE using multiple logical conditions tied with AND & OR, PLEASE use the parentheses them accordingly.
 
 Because if you don't, your fellow team members are going to have a harder time understanding your intent.
@@ -30,3 +31,12 @@ It should also be noted that for comparison operators parentheses are required i
 ![](https://miro.medium.com/v2/resize:fit:1400/0*XdwEb4cE_w8kHhcb align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [9 tips on writing cleaner SQL](https://datawise.dev/9-tips-on-writing-cleaner-sql)
+- [Order of precedence in SQL: WHERE vs HAVING](https://datawise.dev/order-of-precedence-in-sql-where-vs-having)
+- [Easy with that SELECT DISTINCT!](https://datawise.dev/easy-with-that-select-distinct)
+- [ORDER BY expressions in SQL](https://datawise.dev/order-by-expressions-in-sql)
