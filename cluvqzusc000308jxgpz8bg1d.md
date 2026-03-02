@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8Zt0xOOK4nI/up
 
 ---
 
+
 Does your Data Engineering project use a data-diffing tool?
 
 Say you're preparing to deploy a change to a prod table. You've changed the way some metrics are calculated and twisted some filters. How do you find out what's different between two tables? Identify expected vs unexpected differences?
@@ -24,3 +25,12 @@ You could also leverage a hashing function + TO\_JSON\_ARRAY ([check my previous
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1712870631627/63ae4e6c-09e4-4f51-b7bc-080098fdb352.jpeg align="center")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
