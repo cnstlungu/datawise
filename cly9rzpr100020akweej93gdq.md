@@ -6,6 +6,7 @@ datePublished: Sat Jul 06 2024 07:00:56 GMT+0000 (Coordinated Universal Time)
 cuid: cly9rzpr100020akweej93gdq
 slug: query-parameters-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KFF42HA6Oug/upload/809dea43b89343e97013c4f160372192.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
