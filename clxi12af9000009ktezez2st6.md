@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/betmVWGYcLY/up
 
 ---
 
+
 Let's talk about self-joins in SQL. It's one of the join types that don't have their own keyword, but is more of a concept.
 
 It essentially means you are joining a table with itself to retrieve some result from another row.
@@ -26,3 +27,12 @@ By the way, this particular case can also be solved with a [recursive common-tab
 ![](https://miro.medium.com/v2/resize:fit:1400/0*dcNBdqa93vnwjwPV align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
+- [NATURAL JOIN in SQL](https://datawise.dev/natural-join-in-sql)
