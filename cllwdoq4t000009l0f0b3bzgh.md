@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5tmItJfHkIc/up
 
 ---
 
+
 Whether you're an experienced data engineer or just embarking on your cloud data adventure, prioritizing security is crucial.
 
 Here's a quick tour of BigQuery's row-level security features.
@@ -42,3 +43,11 @@ Thanks for reading!
 🚀 Delving into BigQuery, Google Cloud and Analytics? Stay connected with me for valuable insights, handy tips, and strategies to effortlessly traverse the vast universe of cloud computing and data analytics!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using subqueries with Row Level Security in BigQuery](https://datawise.dev/using-subqueries-with-row-level-security-in-bigquery)
+- [Why basic roles in BigQuery are a bad idea](https://datawise.dev/why-basic-roles-in-bigquery-are-a-bad-idea)
+- [Cross-dataset foreign key relationships in BigQuery](https://datawise.dev/cross-dataset-foreign-key-relationships-in-bigquery)
