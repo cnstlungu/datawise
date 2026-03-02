@@ -7,7 +7,6 @@ cuid: clx6elg35000009lc1fhcftcx
 slug: easy-with-that-select-distinct
 canonical: https://www.notjustsql.com/p/easy-with-that-select-distinct
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717869027576/32635a0b-4d29-487a-91c4-3373df54d44b.jpeg
-tags: analytics, databases, sql, data-engineering
 
 ---
 
