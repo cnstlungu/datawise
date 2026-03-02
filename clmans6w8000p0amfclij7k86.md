@@ -6,7 +6,6 @@ datePublished: Fri Sep 08 2023 13:54:25 GMT+0000 (Coordinated Universal Time)
 cuid: clmans6w8000p0amfclij7k86
 slug: using-maxby-minby-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iLKK0eFTywU/upload/8b848b1e33dbc6099a5bda081ea8066d.jpeg
-tags: google-cloud, sql, bigquery
 
 ---
 
