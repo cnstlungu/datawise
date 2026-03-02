@@ -6,7 +6,6 @@ datePublished: Tue Dec 19 2023 22:38:33 GMT+0000 (Coordinated Universal Time)
 cuid: clqcxf4c5000208jng5jd3kzd
 slug: decorators-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/lHu6SF2Uar0/upload/4fcec339a540aa5539c8e00025d5b6d2.jpeg
-tags: programming-blogs, python, developer, programming-tips
 
 ---
 
