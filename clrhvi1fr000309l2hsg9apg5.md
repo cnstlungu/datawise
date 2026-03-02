@@ -6,7 +6,6 @@ datePublished: Wed Jan 17 2024 14:23:23 GMT+0000 (Coordinated Universal Time)
 cuid: clrhvi1fr000309l2hsg9apg5
 slug: rolling-period-calculation-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/08elrfBZ4A4/upload/b50daf19e0701a8fac083058d0126440.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
