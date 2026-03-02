@@ -6,7 +6,6 @@ datePublished: Wed Nov 13 2024 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6w9gntv000f08l8ahybe642
 slug: extended-data-type-support-for-bigquery-search-indexes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/afW1hht0NSs/upload/4195cb00ad1acf4a11c41976a30c7326.jpeg
-tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 
