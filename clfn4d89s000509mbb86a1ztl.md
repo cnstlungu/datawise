@@ -6,7 +6,6 @@ datePublished: Sat Oct 05 2019 10:18:50 GMT+0000 (Coordinated Universal Time)
 cuid: clfn4d89s000509mbb86a1ztl
 slug: analyzing-twitter-data-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4EajIuUxgAQ/upload/a769d97b567344d792b2fda99061505e.jpeg
-tags: twitter, python, pandas, nlp, nltk
 
 ---
 
