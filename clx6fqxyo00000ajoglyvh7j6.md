@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qD5Err_lJ5Y/up
 
 ---
 
+
 > Paul Atreides: "He who can destroy a thing, controls a thing".
 
 Remember to avoid as much as possible using the basic roles in BigQuery such as Owner, Editor or Viewer.
@@ -43,3 +44,11 @@ They make way for a number of problems:
     
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Row-level access security in BigQuery](https://datawise.dev/row-level-access-security-in-bigquery)
+- [Using subqueries with Row Level Security in BigQuery](https://datawise.dev/using-subqueries-with-row-level-security-in-bigquery)
+- [Cross-dataset foreign key relationships in BigQuery](https://datawise.dev/cross-dataset-foreign-key-relationships-in-bigquery)
