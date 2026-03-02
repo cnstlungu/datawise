@@ -6,7 +6,6 @@ datePublished: Sun Apr 28 2024 21:43:07 GMT+0000 (Coordinated Universal Time)
 cuid: clvk24eul000c0aifc0j911h6
 slug: concatenation-operator-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/BARpgWJDSIA/upload/7daddeb83e4c753acce28c2174fb48be.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
