@@ -6,7 +6,6 @@ datePublished: Fri Nov 01 2024 15:40:11 GMT+0000 (Coordinated Universal Time)
 cuid: cm2ywhzrd000a09kxhhzxayso
 slug: sometimes-you-have-to-use-subqueries
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PkrUN6pvLYM/upload/8bc66d4d0cde961df587fbcf10cff73b.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
