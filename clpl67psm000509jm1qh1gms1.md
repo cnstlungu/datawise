@@ -6,7 +6,6 @@ datePublished: Thu Nov 30 2023 12:27:11 GMT+0000 (Coordinated Universal Time)
 cuid: clpl67psm000509jm1qh1gms1
 slug: using-select-with-except-and-replace
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/G1yhU1Ej-9A/upload/2090cc46a564b319574845af663b4590.jpeg
-tags: analytics, sql, bigquery, data-engineering
 
 ---
 
