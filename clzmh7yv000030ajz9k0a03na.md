@@ -1,7 +1,7 @@
 ---
 title: "Dynamically extracting JSON data in BigQuery"
-seoTitle: "Extract JSON Data in BigQuery"
-seoDescription: "Learn how to dynamically extract key-value pairs from heterogeneous JSON strings in BigQuery using regex techniques"
+seoTitle: "BigQuery Dynamic JSON Extraction: Key-Value Pairs with Regex"
+seoDescription: "Extract dynamic key-value pairs from JSON in BigQuery when the schema varies per row. Uses JSON_EXTRACT and regex to handle heterogeneous JSON structures."
 datePublished: Fri Aug 09 2024 09:00:08 GMT+0000 (Coordinated Universal Time)
 cuid: clzmh7yv000030ajz9k0a03na
 slug: dynamically-extracting-json-data-in-bigquery
