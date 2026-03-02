@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/08elrfBZ4A4/up
 
 ---
 
+
 How to compute a rolling period calculation in BigQuery?
 
 In [one of my previous posts](https://datawise.dev/computing-a-cumulative-sum-in-bigquery), I've showcased using RANGE inside window function declarations in the context of computing a cumulative sum.
@@ -66,3 +67,12 @@ FROM input_data
 ```
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
+- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
