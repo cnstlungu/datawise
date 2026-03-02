@@ -1,7 +1,7 @@
 ---
 title: "Rolling period calculation in BigQuery"
-seoTitle: "Rolling 60-Day SUM in BigQuery Using RANGE Window Frame"
-seoDescription: "Step-by-step guide to computing a rolling period sum in BigQuery using RANGE BETWEEN with UNIX_DATE for correct handling of duplicate and missing dates."
+seoTitle: "Rolling Period SUM in BigQuery Using RANGE Window Frame"
+seoDescription: "Compute a rolling period sum in BigQuery using RANGE BETWEEN with UNIX_DATE. Correctly handles duplicate dates and gaps where ROWS would produce wrong results."
 datePublished: Wed Jan 17 2024 14:23:23 GMT+0000 (Coordinated Universal Time)
 cuid: clrhvi1fr000309l2hsg9apg5
 slug: rolling-period-calculation-in-bigquery
