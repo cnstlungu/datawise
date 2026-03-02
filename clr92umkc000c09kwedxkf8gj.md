@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jUCQRQeRs3k/up
 
 ---
 
+
 On [my previous post about computing a cumulative sum](https://datawise.dev/computing-a-cumulative-sum-in-bigquery) in BigQuery I've got a question regarding the RANGE in the row\_range specification of a window function. I've realized I never used it before. So I've decided to see what it's about.
 
 So how does using RANGE inside an OVER() block differ from using ROWS?
@@ -32,3 +33,12 @@ RANGE comes with a limitation though - you can only order by a single numerical 
 Hope this was interesting!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
+- [Rolling period calculation in BigQuery](https://datawise.dev/rolling-period-calculation-in-bigquery)
