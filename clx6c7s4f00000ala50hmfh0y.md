@@ -6,6 +6,7 @@ datePublished: Sat Jun 08 2024 16:36:18 GMT+0000 (Coordinated Universal Time)
 cuid: clx6c7s4f00000ala50hmfh0y
 slug: heres-how-group-by-works-differently-across-sql-dialects
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/EA4MvInOSy0/upload/9a8183667a253bd19f06a5e2676cd65a.jpeg
+tags: sql-server, databases, google-cloud, sql, bigquery
 
 ---
 
