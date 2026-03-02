@@ -6,6 +6,7 @@ datePublished: Sun Mar 31 2024 15:41:50 GMT+0000 (Coordinated Universal Time)
 cuid: clufovy9d000108l2bzv3gn9t
 slug: accessing-array-elements-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/q1x3cuziBsc/upload/e378680b9668652350058d71c7c48227.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
