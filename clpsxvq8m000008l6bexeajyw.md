@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/up
 
 ---
 
+
 Ever heard about value tables in BigQuery? Well, neither have I, until I've seen them mentioned in the docs. So, while in a normal table, a row is made up of columns, in a value table the row is a STRUCT.
 
 Say you UNNEST `order_lines` AS order\_line. The 'order\_line' here is a value table.
@@ -31,3 +32,12 @@ See below for an illustration of the differences between the two.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701816911706/6e9c6c39-5180-4635-acf7-a01f8cd84984.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Understanding STRUCTS in BigQuery](https://datawise.dev/understanding-structs-in-bigquery)
+- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
+- [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
+- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
