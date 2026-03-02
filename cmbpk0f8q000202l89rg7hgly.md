@@ -6,9 +6,9 @@ datePublished: Mon Jun 09 2025 20:38:02 GMT+0000 (Coordinated Universal Time)
 cuid: cmbpk0f8q000202l89rg7hgly
 slug: compacting-date-intervals-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3cTpEK08lwg/upload/a0447ed619c674a9ef0250a0242bdc10.jpeg
-tags: databases, google-cloud, sql, bigquery, gcp, data-engineering
 
 ---
+
 
 Here's a practical BigQuery SQL exercise that highlights some important concepts as well is an interesting algorithm imho. I've pair programmed this with LLMs, if that's a thing 😎
 
