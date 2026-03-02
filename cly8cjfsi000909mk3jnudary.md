@@ -6,7 +6,6 @@ datePublished: Fri Jul 05 2024 07:00:37 GMT+0000 (Coordinated Universal Time)
 cuid: cly8cjfsi000909mk3jnudary
 slug: system-variables-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HAI-GVIEvSQ/upload/23ba8714f6514d4a0675386a455342ca.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
