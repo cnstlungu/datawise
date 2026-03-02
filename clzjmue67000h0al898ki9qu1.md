@@ -6,9 +6,9 @@ datePublished: Wed Aug 07 2024 09:14:14 GMT+0000 (Coordinated Universal Time)
 cuid: clzjmue67000h0al898ki9qu1
 slug: a-quick-look-at-the-json-module-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fvMeP4ml4bU/upload/0eb0978fef1e70dc2db9b6cded76dbce.jpeg
-tags: python, json, data-engineering
 
 ---
+
 
 If you ever need to work with JSON files in Python, you're going to encounter the module with the same name.
 
