@@ -6,7 +6,6 @@ datePublished: Fri May 24 2024 04:44:38 GMT+0000 (Coordinated Universal Time)
 cuid: clwk76saq000909mlak529uv8
 slug: why-you-should-use-parentheses-with-and-or-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IiEFmIXZWSw/upload/0ca235f390d893093fb44bed2633272f.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
