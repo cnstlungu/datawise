@@ -6,6 +6,7 @@ datePublished: Sun Jun 23 2024 21:00:06 GMT+0000 (Coordinated Universal Time)
 cuid: clxs18t5n00000albai1q38nv
 slug: non-equi-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/3X8a5pxNG4k/upload/434785cdddf318f4e785f33ed3ed20e1.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
