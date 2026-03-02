@@ -6,6 +6,7 @@ datePublished: Fri Dec 22 2023 23:53:23 GMT+0000 (Coordinated Universal Time)
 cuid: clqhaex14000008jrcxjbeax5
 slug: optimizing-storage-costs-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NeTPASr-bmQ/upload/60505511ac0d4278a94c41f75c1a6939.jpeg
+tags: google-cloud, bigquery, gcp, finops
 
 ---
 
