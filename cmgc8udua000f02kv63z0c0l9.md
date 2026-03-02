@@ -6,6 +6,7 @@ datePublished: Sat Oct 04 2025 12:22:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmgc8udua000f02kv63z0c0l9
 slug: table-grain-quick-validation-with-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pcW5bR7gSJ4/upload/1348e2cccae0b01aab2ddf59f016dd1a.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
