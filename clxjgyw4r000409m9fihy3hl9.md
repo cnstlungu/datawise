@@ -6,7 +6,6 @@ datePublished: Mon Jun 17 2024 21:10:22 GMT+0000 (Coordinated Universal Time)
 cuid: clxjgyw4r000409m9fihy3hl9
 slug: anti-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eZas-0yTQqI/upload/8ce0e7ce76da45ecb1191f1b72d4ea29.jpeg
-tags: databases, sql, bigquery
 
 ---
 
