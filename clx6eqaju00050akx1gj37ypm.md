@@ -7,7 +7,6 @@ cuid: clx6eqaju00050akx1gj37ypm
 slug: breaking-free-from-tutorial-hell-tips-for-aspiring-data-professionals
 canonical: https://www.notjustsql.com/p/breaking-free-from-tutorial-hell
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717869058716/194e4d7e-a86c-49ac-880f-4d74924b0cf0.jpeg
-tags: analytics, software-engineering, data-engineering
 
 ---
 
