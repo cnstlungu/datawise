@@ -1,7 +1,7 @@
 ---
 title: "Enumerating ARRAY elements in BigQuery using WITH OFFSET"
 seoTitle: "BigQuery WITH OFFSET: Get Array Element Index After UNNEST"
-seoDescription: "WITH OFFSET in BigQuery retrieves the 0-based position of each element in an array after UNNESTing it. Use it to preserve the original array order when..."
+seoDescription: "WITH OFFSET pairs each array element with its 0-based index after UNNEST. Use it to preserve order, filter by position, or locate specific elements."
 datePublished: Sun Mar 31 2024 08:00:26 GMT+0000 (Coordinated Universal Time)
 cuid: cluf8ekzm000608l61vvhf85w
 slug: enumerating-array-elements-in-bigquery-using-with-offset
