@@ -1,12 +1,11 @@
 ---
 title: "Rounding Timestamps in BigQuery"
-seoTitle: "Rounding Timestamps in BigQuery"
-seoDescription: "Practical exercise on rounding timestamps in BigQuery SQL"
+seoTitle: "BigQuery Timestamp Rounding: TIMESTAMP_TRUNC and DATE_TRUNC"
+seoDescription: "Round timestamps in BigQuery with TIMESTAMP_TRUNC and DATE_TRUNC. Covers hour, day, week, month granularity, time zone handling, and interval arithmetic."
 datePublished: Sun Mar 26 2023 21:09:49 GMT+0000 (Coordinated Universal Time)
 cuid: clfpw8pur000209jy97zpe92c
 slug: rounding-timestamps-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UAvYasdkzq8/upload/38dba26f272d7841f5473765fec670ba.jpeg
-tags: sql, bigquery, gcp
 
 ---
 
