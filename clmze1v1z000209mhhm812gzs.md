@@ -6,6 +6,7 @@ datePublished: Mon Sep 25 2023 21:16:15 GMT+0000 (Coordinated Universal Time)
 cuid: clmze1v1z000209mhhm812gzs
 slug: python-showdown-namedtuple-vs-simplenamespace-vs-dataclass
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/foYl6lptLY8/upload/312b4cfd0c2e12b63953e0c4364b58ae.jpeg
+tags: programming-blogs, python, data-structure-and-algorithms
 
 ---
 
