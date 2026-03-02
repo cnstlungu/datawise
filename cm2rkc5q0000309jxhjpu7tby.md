@@ -6,9 +6,9 @@ datePublished: Sun Oct 27 2024 12:25:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm2rkc5q0000309jxhjpu7tby
 slug: not-all-nulls-are-the-same
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/d5a7ab49550c9e19dd49803598e2b5e5.jpeg
-tags: databases, google-cloud, sql, bigquery, analytics
 
 ---
+
 
 So NULLs are definitely beasts of their own and as Data Engineers we come to learn to take them into account.
 
