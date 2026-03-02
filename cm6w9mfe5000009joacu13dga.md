@@ -6,7 +6,6 @@ datePublished: Sat Feb 08 2025 14:03:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm6w9mfe5000009joacu13dga
 slug: using-exists-with-logicalor-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SVpCSOCcCwA/upload/83787a615dc2b68fbc9761ae0782acf8.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
