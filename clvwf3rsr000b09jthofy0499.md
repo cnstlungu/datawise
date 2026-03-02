@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0W4XLGITrHg/up
 
 ---
 
+
 In [one my previous posts](https://datawise.dev/the-json-datatype-in-bigquery), we've briefly introduced the JSON datatype in BigQuery.
 
 But did anyone notice how most of the JSON functions have signatures for both a JSON-type input and a json-formatted string input?
@@ -24,3 +25,12 @@ In the example below, the json-formatted/json-like string is missing a closing b
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1715087932426/155be5b0-29cf-4d10-ba65-869c3e3b2d97.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [The JSON datatype in BigQuery](https://datawise.dev/the-json-datatype-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
+- [LAX JSON conversion functions in BigQuery](https://datawise.dev/lax-json-conversion-functions-in-bigquery)
