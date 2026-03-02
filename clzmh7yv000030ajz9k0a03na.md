@@ -6,6 +6,7 @@ datePublished: Fri Aug 09 2024 09:00:08 GMT+0000 (Coordinated Universal Time)
 cuid: clzmh7yv000030ajz9k0a03na
 slug: dynamically-extracting-json-data-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/sXiVEKjPcSA/upload/73947919856378d94489009f54baff48.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
