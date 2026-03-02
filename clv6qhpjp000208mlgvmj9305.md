@@ -1,7 +1,7 @@
 ---
 title: "Understanding STRUCTS in BigQuery"
 seoTitle: "BigQuery STRUCT vs ARRAY: Differences and When to Use Each"
-seoDescription: "STRUCTs bundle named fields of different types into one column, while ARRAYs store ordered lists of the same type in BigQuery."
+seoDescription: "BigQuery STRUCTs group named fields of mixed types into one column. Learn to create them with STRUCT(), access nested fields, and UNNEST arrays of STRUCTs."
 datePublished: Fri Apr 19 2024 13:56:31 GMT+0000 (Coordinated Universal Time)
 cuid: clv6qhpjp000208mlgvmj9305
 slug: understanding-structs-in-bigquery
