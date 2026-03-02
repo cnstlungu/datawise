@@ -6,6 +6,7 @@ datePublished: Tue May 07 2024 13:35:13 GMT+0000 (Coordinated Universal Time)
 cuid: clvwfnnes000k09jthan62zys
 slug: where-does-qualify-fit-in-the-order-of-execution-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qodjMu0byZ8/upload/a62ef63e338412e6b36c4769d5663fa8.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
