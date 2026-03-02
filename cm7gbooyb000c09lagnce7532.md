@@ -6,7 +6,6 @@ datePublished: Sat Feb 22 2025 14:56:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm7gbooyb000c09lagnce7532
 slug: revisiting-group-by-rollup-with-a-more-realistic-example
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/PB80D_B4g7c/upload/3acf41a5d990604edcf90a65ed72979e.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
