@@ -9,6 +9,17 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RF5HrKt8pfk/up
 
 ---
 
+---
+title: "Enumerating ARRAY elements in BigQuery using WITH OFFSET"
+seoTitle: "BigQuery WITH OFFSET: Get Array Element Index After UNNEST"
+seoDescription: "WITH OFFSET in BigQuery retrieves the 0-based position of each element in an array after UNNESTing it. Use it to preserve the original array order when..."
+datePublished: Sun Mar 31 2024 08:00:26 GMT+0000 (Coordinated Universal Time)
+cuid: cluf8ekzm000608l61vvhf85w
+slug: enumerating-array-elements-in-bigquery-using-with-offset
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RF5HrKt8pfk/upload/aa242dd53579b38ce5fa60e37f6155e7.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
+
+---
 
 In a [previous post](https://datawise.dev/unnesting-arrays-in-bigquery) we've covered what ARRAYS are in BigQuery, their use cases and how to flatten them with UNNEST.
 
@@ -28,3 +39,4 @@ In order to retrieve the order in which an element was in an array before UNNEST
 - [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
 - [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
 - [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
