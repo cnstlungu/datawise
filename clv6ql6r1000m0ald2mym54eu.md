@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Vqn2WrfxTQ/up
 
 ---
 
+
 I've posted earlier [about STRUCTS in BigQuery](https://hashnode.com/post/clv6qhpjp000208mlgvmj9305), here's how I use it from time to time to help me debug and analyze data a bit faster.
 
 Since changing filter values for different test cases / observations you are interested about can be a headache (especially if you have a lot of columns), you could put them in a tuple of STRUCTS and check the matching records at once.
@@ -18,3 +19,12 @@ Not a game changer but makes life a bit easier 😁
 ![](https://miro.medium.com/v2/resize:fit:1400/0*jnxtlXlSrHzQqi6g align="left")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Understanding STRUCTS in BigQuery](https://datawise.dev/understanding-structs-in-bigquery)
+- [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
+- [Using STRUCTS for Audit Fields in BigQuery](https://datawise.dev/using-structs-for-audit-fields-in-bigquery)
+- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
