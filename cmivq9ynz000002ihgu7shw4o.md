@@ -6,6 +6,7 @@ datePublished: Sun Dec 07 2025 12:57:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmivq9ynz000002ihgu7shw4o
 slug: flattening-json-arrays-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/19tQv51x4-A/upload/cb5db8fd2460224984ae2de7ca2f1bf8.jpeg
+tags: analytics, google-cloud, sql, bigquery
 
 ---
 
