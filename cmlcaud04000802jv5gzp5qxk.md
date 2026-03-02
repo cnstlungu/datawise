@@ -6,7 +6,6 @@ datePublished: Sat Feb 07 2026 12:37:25 GMT+0000 (Coordinated Universal Time)
 cuid: cmlcaud04000802jv5gzp5qxk
 slug: parameters-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/vzbXoo0CuAs/upload/1df97efa0e7dba248f0b2e697e4fe6bf.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
@@ -32,6 +31,6 @@ When values come from user input or external sources, parameters are the safer
 🚅 Performance  
 Parameters may allow the optimizer to reuse execution plans, while variables can sometimes prevent that.
 
-![graphical user interface, application](https://media.licdn.com/dms/image/v2/D4D22AQHmdpgp04Flmg/feedshare-shrink_800/B4DZwoDEhQKwAk-/0/1770198419777?e=1772064000&v=beta&t=ZclYeDaIX5g5ZtdPQK1CKmYAN-KgfR8_yVBnYzniRJY align="left")
+![](https://cdn.hashnode.com/uploads/covers/641c1535429c76261884ecba/587b5764-27e3-4ae9-b1b9-7d9491d2663e.png align="center")
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
