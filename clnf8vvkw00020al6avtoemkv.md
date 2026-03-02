@@ -6,7 +6,6 @@ datePublished: Fri Oct 06 2023 23:35:56 GMT+0000 (Coordinated Universal Time)
 cuid: clnf8vvkw00020al6avtoemkv
 slug: context-managers-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UQ2Fw_9oApU/upload/563fa107027e2d9b7e6a7038fb5dd45e.jpeg
-tags: analytics, programming-blogs, python
 
 ---
 
