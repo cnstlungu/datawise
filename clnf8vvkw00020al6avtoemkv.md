@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UQ2Fw_9oApU/up
 
 ---
 
+
 Ever encountered the `with` statement? I've seen them around lots of times, but once, when asked about Context Managers during an interview, I didn't know what they were! Here's what to know about them, so you won't repeat my mistake.
 
 You might've used it without realizing it, especially while working with files. For instance:
@@ -38,3 +39,12 @@ A class just needs to implement two magical dunder methods: `__enter__()` (which
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696635311466/e443c50e-e21d-4396-bdb2-f7fb4803df18.png align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Retrying in Python using tenacity](https://datawise.dev/retrying-in-python-using-tenacity)
+- [Using virtual environments in Python](https://datawise.dev/using-virtual-environments-in-python)
+- [Installing Python packages with pip](https://datawise.dev/installing-python-packages-with-pip)
+- [A quick look at the json module in Python](https://datawise.dev/a-quick-look-at-the-json-module-in-python)
