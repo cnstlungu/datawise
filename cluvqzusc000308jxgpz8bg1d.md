@@ -6,7 +6,6 @@ datePublished: Thu Apr 11 2024 21:25:10 GMT+0000 (Coordinated Universal Time)
 cuid: cluvqzusc000308jxgpz8bg1d
 slug: comparing-tables-with-full-outer-join
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/8Zt0xOOK4nI/upload/02aea9c2fc3e540836a6d51435c04ff7.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
