@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZzApzgh5lxo/up
 
 ---
 
+
 Almost everybody knows the usual standard SQL aggregation functions like SUM, MAX or AVG. In this short post, we're going to look at ARRAY\_AGG: another useful aggregation function.
 
 So, what does it do?
@@ -50,3 +51,12 @@ Note that ARRAY\_AGG can be combined with:
 Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [UNNESTING ARRAYS in BigQuery](https://datawise.dev/unnesting-arrays-in-bigquery)
+- [Leveraging ARRAYS in BigQuery for query performance](https://datawise.dev/leveraging-arrays-in-bigquery-for-query-performance)
+- [Accessing ARRAY elements in BigQuery](https://datawise.dev/accessing-array-elements-in-bigquery)
+- [Enumerating ARRAY elements in BigQuery using WITH OFFSET](https://datawise.dev/enumerating-array-elements-in-bigquery-using-with-offset)
