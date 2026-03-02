@@ -10,9 +10,10 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5fNmWej4tAA/up
 
 ---
 
+
 Ever wondered how to deepen your understanding of programming and bridge the gap between theoretical knowledge and real-world application? Consider starting a pet project!
 
-**Story time**
+## Story time
 
 Several years ago I was working in a Business Intelligence specialist role, transitioning from previously working with Excel only as a freshly minted graduate with a Finance Bachelor degree. First, it was building dashboards in Domo, a cloud BI tool with some simple SQL-based transformations. Then came a long trial-and-error and learning-by-doing (at work) journey to learn SQL.
 
@@ -46,6 +47,8 @@ While the project is nothing special in itself, akin to thousands of other hobby
     
 
 Now, I might have barely scratched the surface of the above, and some of them might have been taught in a Computer Science Undergraduate program, but for someone with no formal programming acumen, even knowing what these things are and when should we use them was an absolute win. I felt that it gave me a basic understanding of very important things in every developer's toolbox.
+
+## Six reasons to start a pet project
 
 🔑 Here are six reasons why you should start a pet project:
 
