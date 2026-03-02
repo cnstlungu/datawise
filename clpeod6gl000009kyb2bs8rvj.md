@@ -6,6 +6,7 @@ datePublished: Sat Nov 25 2023 23:20:56 GMT+0000 (Coordinated Universal Time)
 cuid: clpeod6gl000009kyb2bs8rvj
 slug: using-structs-for-audit-fields-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rhaS97NhnHg/upload/74a3efd1b76178a09097d1133f264cb1.jpeg
+tags: analytics, databases, sql, bigquery
 
 ---
 
