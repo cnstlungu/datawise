@@ -1,12 +1,11 @@
 ---
 title: "Here's how GROUP BY works differently across SQL dialects"
-seoTitle: "BigQuery GROUP BY Column Alias: How It Differs from SQL Server"
-seoDescription: "BigQuery allows GROUP BY to reference SELECT aliases, unlike SQL Server where column aliases are not permitted in GROUP BY."
+seoTitle: "GROUP BY Across SQL Dialects: BigQuery vs SQL Server"
+seoDescription: "GROUP BY differs across BigQuery, SQL Server, PostgreSQL, and Snowflake — alias support, GROUP BY ALL, and ROLLUP behave differently. Examples for each."
 datePublished: Sat Jun 08 2024 16:36:18 GMT+0000 (Coordinated Universal Time)
 cuid: clx6c7s4f00000ala50hmfh0y
 slug: heres-how-group-by-works-differently-across-sql-dialects
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/EA4MvInOSy0/upload/9a8183667a253bd19f06a5e2676cd65a.jpeg
-tags: sql-server, databases, google-cloud, sql, bigquery
 
 ---
 
