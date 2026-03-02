@@ -6,7 +6,6 @@ datePublished: Tue Jan 16 2024 11:01:59 GMT+0000 (Coordinated Universal Time)
 cuid: clrg8v677000b09jrd2doaq22
 slug: generating-date-intervals-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jqxB3C0YNG0/upload/66860e572b0360846c5f141452fd7d08.jpeg
-tags: analytics, databases, google-cloud, sql, data-engineering
 
 ---
 
