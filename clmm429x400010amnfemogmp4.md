@@ -6,6 +6,7 @@ datePublished: Sat Sep 16 2023 14:15:37 GMT+0000 (Coordinated Universal Time)
 cuid: clmm429x400010amnfemogmp4
 slug: merge-on-false-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IGspc5Np3VM/upload/bceec909eaf0228127afa348908e9b19.jpeg
+tags: analytics, databases, sql, bigquery
 
 ---
 
