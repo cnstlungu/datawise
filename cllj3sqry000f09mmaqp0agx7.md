@@ -6,6 +6,7 @@ datePublished: Sun Aug 20 2023 07:05:12 GMT+0000 (Coordinated Universal Time)
 cuid: cllj3sqry000f09mmaqp0agx7
 slug: optimizing-sql-queries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AChwtt3tBPU/upload/4752c0896e5412eb7d52828f948d8fe4.jpeg
+tags: analytics, sql, bigquery, gcp, query-tuning
 
 ---
 
