@@ -7,6 +7,7 @@ cuid: clv1g3bul000j08l7axa6b486
 slug: why-does-your-data-warehouse-need-to-look-more-like-a-pharmacy-than-a-retail-store
 canonical: https://www.notjustsql.com/p/why-does-your-data-warehouse-need
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/747NDboAWNY/upload/59fed014a139e8073c43347fda8827a5.jpeg
+tags: analytics, data-engineering, business-intelligence
 
 ---
 
