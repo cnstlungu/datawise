@@ -6,6 +6,7 @@ datePublished: Thu May 02 2024 21:30:28 GMT+0000 (Coordinated Universal Time)
 cuid: clvprfk77000008l3fc117zlk
 slug: the-json-datatype-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KgLtFCgfC28/upload/c169391b2491e7b4201eff4266305665.jpeg
+tags: analytics, databases, google-cloud, sql, data-engineering
 
 ---
 
