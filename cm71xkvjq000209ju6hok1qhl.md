@@ -6,6 +6,7 @@ datePublished: Wed Feb 12 2025 13:12:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm71xkvjq000209ju6hok1qhl
 slug: choosing-the-right-ranking-function-why-ties-in-sql-matter
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/M8QfxX2EQXo/upload/274d14c532af72317f6e687291b841f7.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
