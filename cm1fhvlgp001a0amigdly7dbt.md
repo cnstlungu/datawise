@@ -6,7 +6,6 @@ datePublished: Mon Sep 23 2024 21:03:32 GMT+0000 (Coordinated Universal Time)
 cuid: cm1fhvlgp001a0amigdly7dbt
 slug: using-rangebucket-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fp4IgmkX3DU/upload/91b80e979fe18aa446389bb5617b0fd0.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
