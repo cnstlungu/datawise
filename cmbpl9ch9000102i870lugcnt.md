@@ -6,6 +6,7 @@ datePublished: Mon Jun 09 2025 21:12:58 GMT+0000 (Coordinated Universal Time)
 cuid: cmbpl9ch9000102i870lugcnt
 slug: cross-dataset-foreign-key-relationships-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Rm3nWQiDTzg/upload/1af0e7259e348bd4243faad29e2dd788.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
