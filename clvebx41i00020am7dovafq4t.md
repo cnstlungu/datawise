@@ -1,12 +1,11 @@
 ---
 title: "Raising ERRORS in BigQuery"
-seoTitle: "BigQuery ERROR Function: Raise Custom Errors in SQL"
-seoDescription: "BigQuery's ERROR() function lets you raise a custom error message from within a SQL query when unexpected data is encountered."
+seoTitle: "BigQuery ERROR(): Raise Custom Errors in SQL Queries"
+seoDescription: "BigQuery's ERROR() raises a custom message when a SQL condition fails. Use it for data quality assertions and catching unexpected values in pipelines."
 datePublished: Wed Apr 24 2024 21:30:45 GMT+0000 (Coordinated Universal Time)
 cuid: clvebx41i00020am7dovafq4t
 slug: raising-errors-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/OA0qcP6GOw0/upload/3275b62ba32f2ccd2b5df5bd77902e5f.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
