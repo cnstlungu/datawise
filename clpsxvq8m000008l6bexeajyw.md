@@ -6,7 +6,6 @@ datePublished: Tue Dec 05 2023 22:56:05 GMT+0000 (Coordinated Universal Time)
 cuid: clpsxvq8m000008l6bexeajyw
 slug: select-as-struct-and-select-as-value
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oHly4Tu-vQ4/upload/61de6b9184e6bab7863259acadabd212.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
