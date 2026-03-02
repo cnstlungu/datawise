@@ -6,6 +6,7 @@ datePublished: Tue Sep 12 2023 09:27:46 GMT+0000 (Coordinated Universal Time)
 cuid: clmg40otl001209jicbn64aop
 slug: using-tuples-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6jpdeeA2GBU/upload/bd3b3f95d2c90f48624c3b6e3fd168c5.jpeg
+tags: programming-blogs, python, data-structure-and-algorithms
 
 ---
 
