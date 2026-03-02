@@ -7,6 +7,7 @@ cuid: cllbdrmcp000b09mk23xs5txx
 slug: why-having-a-pet-project-can-supercharge-your-programming-learning-journey
 canonical: https://www.notjustsql.com/p/how-a-pet-project-can-supercharge-your-career
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5fNmWej4tAA/upload/03e577207f2c2edb112fff0234b6a690.jpeg
+tags: programming-blogs, python, learning
 
 ---
 
