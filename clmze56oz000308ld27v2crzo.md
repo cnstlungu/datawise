@@ -1,7 +1,7 @@
 ---
 title: "Using Labels in BigQuery"
 seoTitle: "BigQuery Labels: Track Costs and Manage Resources by Tag"
-seoDescription: "How to use BigQuery labels as key-value tags on jobs, tables, and datasets to break down billing by project or team and query usage stats from..."
+seoDescription: "BigQuery labels are key-value tags on jobs, tables, and datasets. Use them to break down billing by team, filter INFORMATION_SCHEMA, and manage via Terraform."
 datePublished: Mon Sep 25 2023 21:18:50 GMT+0000 (Coordinated Universal Time)
 cuid: clmze56oz000308ld27v2crzo
 slug: using-labels-in-bigquery
