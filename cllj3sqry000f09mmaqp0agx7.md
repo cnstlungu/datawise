@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AChwtt3tBPU/up
 
 ---
 
+
 When it comes to tuning a [#SQL](https://www.linkedin.com/feed/hashtag/?keywords=sql&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7098686521628581889) query in [#BigQuery](https://www.linkedin.com/feed/hashtag/?keywords=bigquery&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7098686521628581889) for top performance and cost-efficiency, here's my starting point:
 
 🔍 1. Early Filtering:  
@@ -58,3 +59,12 @@ Make sure to check out [BigQuery Documentation on the best practices](https://cl
 Happy querying! 💼🚀
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
+- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
+- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
+- [Optimizing storage costs in BigQuery](https://datawise.dev/optimizing-storage-costs-in-bigquery)
