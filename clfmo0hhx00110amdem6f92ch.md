@@ -6,7 +6,6 @@ datePublished: Wed Aug 31 2022 22:06:07 GMT+0000 (Coordinated Universal Time)
 cuid: clfmo0hhx00110amdem6f92ch
 slug: building-a-business-intelligence-suite-revisiting-an-old-idea-after-six-years-in-the-industry
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679563485035/e0e6f72b-2467-4df3-b6ed-71617cbdf746.png
-tags: analytics, python, ecommerce, business-intelligence, dbt
 
 ---
 
