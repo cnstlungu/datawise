@@ -6,7 +6,6 @@ datePublished: Sat Sep 02 2023 22:05:58 GMT+0000 (Coordinated Universal Time)
 cuid: clm2kp7tx000608l7ecck8cqc
 slug: scheduled-queries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FoKO4DpXamQ/upload/7d2a2f789ad8906f89fed80dfbbeeb3b.jpeg
-tags: analytics, google-cloud, sql, bigquery
 
 ---
 
