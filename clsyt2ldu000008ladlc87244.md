@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/plwud_FPvwU/up
 
 ---
 
+
 If you haven't encountered it already, note that zip is quite handy in Python.
 
 It allows you to go through multiple iterables (such as lists, sets, tuples etc) at the same time, effectively "zipping" them into an iterator that will produce tuples of elements from each initial collection.
@@ -33,3 +34,12 @@ for pair in zip(integers, letters):
 ```
 
 *Found it useful? Check out to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Retrying in Python using tenacity](https://datawise.dev/retrying-in-python-using-tenacity)
+- [Using virtual environments in Python](https://datawise.dev/using-virtual-environments-in-python)
+- [Installing Python packages with pip](https://datawise.dev/installing-python-packages-with-pip)
+- [A quick look at the json module in Python](https://datawise.dev/a-quick-look-at-the-json-module-in-python)
