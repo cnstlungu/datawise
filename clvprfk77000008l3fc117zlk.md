@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KgLtFCgfC28/up
 
 ---
 
+
 The JSON datatype in BigQuery. This topic has been sitting in my Notion list of post ideas for some time.
 
 So in our beloved BQ it is a native, standalone data type, not just another STRING 😁, although strings can of course hold json-like strings.
@@ -31,3 +32,12 @@ Stay tuned for the next posts on this topic.
 ![](https://miro.medium.com/v2/resize:fit:1400/0*JwWzKCzKIjp1_27S align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [JSON datatype vs JSON-like STRING in BigQuery](https://datawise.dev/json-datatype-vs-json-like-string-in-bigquery)
+- [Flattening JSON arrays in BigQuery](https://datawise.dev/flattening-json-arrays-in-bigquery)
+- [Extracting keys from JSON in BigQuery](https://datawise.dev/extracting-keys-from-json-in-bigquery)
+- [LAX JSON conversion functions in BigQuery](https://datawise.dev/lax-json-conversion-functions-in-bigquery)
