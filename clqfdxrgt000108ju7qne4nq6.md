@@ -6,7 +6,6 @@ datePublished: Thu Dec 21 2023 15:56:29 GMT+0000 (Coordinated Universal Time)
 cuid: clqfdxrgt000108ju7qne4nq6
 slug: optimizing-compute-cost-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SAYzxuS1O3M/upload/41944310c8da03951a83b0eb02c11eb1.jpeg
-tags: google-cloud, bigquery, gcp
 
 ---
 
