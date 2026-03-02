@@ -6,6 +6,7 @@ datePublished: Fri Jun 21 2024 06:00:47 GMT+0000 (Coordinated Universal Time)
 cuid: clxoa8kw6000209jy266offj9
 slug: replicating-datasets-across-regions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/brOOz19UzQg/upload/c42baf17e7c9f6707680fcd792751b2b.jpeg
+tags: analytics, databases, google-cloud, bigquery, data-engineer
 
 ---
 
