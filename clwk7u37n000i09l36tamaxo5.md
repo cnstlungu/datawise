@@ -6,7 +6,6 @@ datePublished: Fri May 24 2024 05:02:45 GMT+0000 (Coordinated Universal Time)
 cuid: clwk7u37n000i09l36tamaxo5
 slug: using-the-bq-cli-utility-with-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xbEVM6oJ1Fs/upload/9f10de7734d244d209aa44dd756b644d.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
