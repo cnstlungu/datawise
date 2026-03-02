@@ -1,7 +1,7 @@
 ---
 title: "Using RANGE in Window Functions in BigQuery"
 seoTitle: "ROWS vs RANGE in BigQuery Window Functions Explained"
-seoDescription: "Explains the difference between ROWS and RANGE window frame clauses in BigQuery, using a peer-group average example to show where RANGE handles ties and..."
+seoDescription: "ROWS counts physical rows from the current row; RANGE includes all peers with the same ORDER BY value. Learn when each frame clause changes your window results."
 datePublished: Thu Jan 11 2024 10:39:12 GMT+0000 (Coordinated Universal Time)
 cuid: clr92umkc000c09kwedxkf8gj
 slug: using-range-in-window-functions-in-bigquery
