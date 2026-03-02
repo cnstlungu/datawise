@@ -6,7 +6,6 @@ datePublished: Thu Mar 27 2025 07:34:24 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r1fn2f000q09jy9kl73vgy
 slug: transforming-cumulative-sums-into-monthly-values
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/eDPAGdaJ-GQ/upload/017e3c48422f8e65dbed45f8e6bfe784.jpeg
-tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 
