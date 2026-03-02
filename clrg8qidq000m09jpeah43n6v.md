@@ -6,6 +6,7 @@ datePublished: Tue Jan 16 2024 10:58:21 GMT+0000 (Coordinated Universal Time)
 cuid: clrg8qidq000m09jpeah43n6v
 slug: datetime-vs-timestamp-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rBPOfVqROzY/upload/d54409a8ff06a9ce2329da99aaedddcb.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
