@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aBgxd8IZ0jo/up
 
 ---
 
+
 Here's a basic thing that can save you a bit of time when analyzing data or validating data transformations.
 
 So I've [previously posted](https://datawise.dev/table-sampling-in-bigquery) about how in BigQuery using LIMIT for query output does not yield any cost saving as it has no effect on amount on data being processed - just how many results are returned to you.
@@ -28,3 +29,12 @@ On a big enough table, one could notice the query execution time difference betw
 P.S. This is not to say that LIMIT is completely irrelevant to performance in BigQuery. Check out [this post](https://datawise.dev/de-duplicating-with-rownumber-vs-arrayagg) for a case where LIMIT does make a difference!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Why partitioning tables is not a silver bullet for BigQuery performance](https://datawise.dev/why-partitioning-tables-is-not-a-silver-bullet-for-bigquery-performance)
+- [Why you should care about partition pruning in BigQuery](https://datawise.dev/why-you-should-care-about-partition-pruning-in-bigquery)
+- [Optimizing SQL queries in BigQuery](https://datawise.dev/optimizing-sql-queries-in-bigquery)
+- [Optimizing compute cost in BigQuery](https://datawise.dev/optimizing-compute-cost-in-bigquery)
