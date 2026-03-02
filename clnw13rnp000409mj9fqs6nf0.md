@@ -6,7 +6,6 @@ datePublished: Wed Oct 18 2023 17:30:12 GMT+0000 (Coordinated Universal Time)
 cuid: clnw13rnp000409mj9fqs6nf0
 slug: combining-structs-with-window-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/P_qvsF7Yodw/upload/fe43c226c0e3d8a6be289a53a6efb097.jpeg
-tags: analytics, data-analysis, google-cloud, sql, bigquery
 
 ---
 
