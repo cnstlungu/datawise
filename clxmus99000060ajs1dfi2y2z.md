@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/D9inTE660po/up
 
 ---
 
+
 Another lesser known JOIN - the natural join. But maybe the NATURAL JOIN is not as obscure after all, since it has its own keyword, at least in a couple of [S](https://www.linkedin.com/feed/hashtag/?keywords=sql&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7205871620790317056)QL dialects - see PostgreSQL portrayed below (sorry, it's not supported in BigQuery, but it does recognize it).
 
 So what's special about it? Well, it joins the tables based on columns that have the same name (and datatype) in the two tables. That is, we don't need to specify any join conditions.
@@ -18,3 +19,12 @@ Watch out because if there are no columns with the same name and datatype, it de
 ![](https://miro.medium.com/v2/resize:fit:1400/0*Zjp2-l66WIDEsIdN align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
