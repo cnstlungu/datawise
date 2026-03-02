@@ -6,7 +6,6 @@ datePublished: Wed Jun 05 2024 21:12:04 GMT+0000 (Coordinated Universal Time)
 cuid: clx2bqv0p000409l53q4he6fr
 slug: the-first-thing-i-do-when-analyzing-a-sql-table
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/afW1hht0NSs/upload/5e1e9e2b86113622df91da988bd5266a.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
