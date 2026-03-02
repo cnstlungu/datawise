@@ -6,7 +6,6 @@ datePublished: Sat Jul 06 2024 21:00:29 GMT+0000 (Coordinated Universal Time)
 cuid: clyalzdkd000409jo0q03efvn
 slug: a-practical-exercise-working-with-arrays-and-correlated-subqueries-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ngLt4Y1vI_Q/upload/8d949b51c772e8461ed1675f4c66ffe9.jpeg
-tags: google-cloud, sql, bigquery, gcp, data-engineering
 
 ---
 
