@@ -1,12 +1,11 @@
 ---
 title: "Intersect and Except in BigQuery"
 seoTitle: "BigQuery INTERSECT and EXCEPT: SQL Set Operations Explained"
-seoDescription: "INTERSECT DISTINCT returns rows common to both queries; EXCEPT DISTINCT returns rows in the first but not the second. Useful for data validation in BigQuery."
+seoDescription: "INTERSECT DISTINCT finds common rows; EXCEPT DISTINCT finds rows missing from one side. Use them in BigQuery for data validation, deduplication, and diffing."
 datePublished: Mon Oct 30 2023 11:52:25 GMT+0000 (Coordinated Universal Time)
 cuid: clocubl5o000e09lc0x9e5mbo
 slug: intersect-and-except-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HHtzGcZkRZY/upload/f56dc9fa833f0f8da3ce31ac2932c9a3.jpeg
-tags: databases, sql, bigquery
 
 ---
 
