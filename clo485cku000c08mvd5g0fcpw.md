@@ -6,7 +6,6 @@ datePublished: Tue Oct 24 2023 11:09:33 GMT+0000 (Coordinated Universal Time)
 cuid: clo485cku000c08mvd5g0fcpw
 slug: importing-google-sheets-into-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TisvwNLLWA4/upload/a19301b4e8f097180c32c1d68080b1c6.jpeg
-tags: google-cloud, google-sheets, bigquery, google-drive
 
 ---
 
