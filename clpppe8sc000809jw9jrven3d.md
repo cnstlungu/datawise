@@ -9,6 +9,18 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/up
 
 ---
 
+---
+title: "Filling up missing values with LAST_VALUE"
+seoTitle: "Fill Missing Values in BigQuery with LAST_VALUE IGNORE NULLS"
+seoDescription: "Learn how to forward-fill missing sensor readings in BigQuery using LAST_VALUE with IGNORE NULLS and an unbounded window frame."
+datePublished: Sun Dec 03 2023 16:35:13 GMT+0000 (Coordinated Universal Time)
+cuid: clpppe8sc000809jw9jrven3d
+slug: filling-up-missing-values-with-lastvalue
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/5f06fa587a04bdc5c5d0dc8b86ec3ec9.jpeg
+tags: analytics, databases, sql, bigquery
+
+---
+
 Window functions are powerful. But they can also help us fill in missing data in BigQuery.
 
 Let's say you have a sensor that records temperature and humidity. Unfortunately, it is quite unreliable, so sometimes it might not send one or both readings. You'd like to retain the last known reading for a measurement.
@@ -52,3 +64,9 @@ P.S. This would not work if you're trying to fill in a STRUCT for example. IGNOR
 Happy querying!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
