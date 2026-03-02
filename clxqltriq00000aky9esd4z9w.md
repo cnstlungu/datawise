@@ -6,6 +6,7 @@ datePublished: Sat Jun 22 2024 21:00:44 GMT+0000 (Coordinated Universal Time)
 cuid: clxqltriq00000aky9esd4z9w
 slug: lax-json-conversion-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cGH4jzeam0E/upload/587a432ae4b3e2e33ebbacf1635996bd.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
