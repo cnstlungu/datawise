@@ -9,6 +9,17 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rhaS97NhnHg/up
 
 ---
 
+---
+title: "Using STRUCTS for Audit Fields in BigQuery"
+seoTitle: "BigQuery STRUCT Columns for Data Pipeline Audit Fields"
+seoDescription: "Shows how to use nested STRUCT columns in BigQuery to store audit metadata without cluttering your schema. Practical pattern for tracking source event IDs..."
+datePublished: Sat Nov 25 2023 23:20:56 GMT+0000 (Coordinated Universal Time)
+cuid: clpeod6gl000009kyb2bs8rvj
+slug: using-structs-for-audit-fields-in-bigquery
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rhaS97NhnHg/upload/74a3efd1b76178a09097d1133f264cb1.jpeg
+tags: analytics, databases, sql, bigquery
+
+---
 
 I use STRUCTS in **#BigQuery** quite a bit. One interesting use case for them is for audit purposes a separate column containing metadata about how the data in that row was sourced.
 
@@ -127,3 +138,4 @@ Thanks for reading and hope this was useful!
 - [Constructing STRUCTS in BigQuery](https://datawise.dev/constructing-structs-in-bigquery)
 - [Using STRUCTS for quick analysis in BigQuery](https://datawise.dev/using-structs-for-quick-analysis-in-bigquery)
 - [Using LAST_VALUE with STRUCTS](https://datawise.dev/using-lastvalue-with-structs)
+- [Change history in BigQuery](https://datawise.dev/change-history-in-bigquery)
