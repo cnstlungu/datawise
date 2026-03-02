@@ -6,6 +6,7 @@ datePublished: Mon Sep 25 2023 21:18:50 GMT+0000 (Coordinated Universal Time)
 cuid: clmze56oz000308ld27v2crzo
 slug: using-labels-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KaeaUITiWnc/upload/2a5bde766e384619270072f2dd9109e3.jpeg
+tags: analytics, sql, bigquery, gcp, datamanagement
 
 ---
 
