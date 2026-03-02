@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_QoAuZGAoPY/up
 
 ---
 
+
 A reminder that you don't necessarily need Airflow / Composer to orchestrate data in and out of BigQuery. If your workflows are not that complex or numerous, take a look at Google Cloud Workflows.  
   
 It's a serverless orchestration engine, with good integration with other GCP services, but you can also call external APIs.  
@@ -25,3 +26,12 @@ I've used it before to load data from Google Cloud Storage into BigQuery tables 
 See [my previous post](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows) for a short walk through showcasing how BQ and Workflows play together.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Using GCP Cloud Functions in Data Engineering](https://datawise.dev/using-gcp-cloud-functions-in-data-engineering)
+- [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
+- [Scheduled queries in BigQuery](https://datawise.dev/scheduled-queries-in-bigquery)
+- [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
