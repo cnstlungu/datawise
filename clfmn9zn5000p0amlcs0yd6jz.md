@@ -6,6 +6,7 @@ datePublished: Tue Oct 04 2022 22:52:23 GMT+0000 (Coordinated Universal Time)
 cuid: clfmn9zn5000p0amlcs0yd6jz
 slug: loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679563240416/b007c020-2a49-4717-bf04-2d25ee490b89.png
+tags: analytics, sql, bigquery, workflows
 
 ---
 
