@@ -6,6 +6,7 @@ datePublished: Sun Dec 03 2023 16:46:01 GMT+0000 (Coordinated Universal Time)
 cuid: clppps4ib000009l46lf576gk
 slug: does-order-of-expressions-in-the-where-clause-matter
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0aqJNZ5tVBc/upload/135a73de748611ac37eb11eb8dfb91c6.jpeg
+tags: analytics, databases, google-cloud, bigquery, data-engineering
 
 ---
 
