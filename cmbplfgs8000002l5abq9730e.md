@@ -7,6 +7,7 @@ cuid: cmbplfgs8000002l5abq9730e
 slug: why-you-should-think-twice-before-unnesting-arrays-or-date-intervals
 canonical: https://www.notjustsql.com/p/why-you-should-think-twice-before
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1749669518998/e83a7529-3787-4993-a114-c30602ad09d0.jpeg
+tags: analytics, databases, sql, bigquery, data-engineering
 
 ---
 
