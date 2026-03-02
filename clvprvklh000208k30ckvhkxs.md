@@ -6,6 +6,7 @@ datePublished: Thu May 02 2024 21:42:55 GMT+0000 (Coordinated Universal Time)
 cuid: clvprvklh000208k30ckvhkxs
 slug: a-simple-data-validation-scenario-using-full-outer-join-order-by
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/9k36QqhA0cU/upload/a6460c47662f78ede53388f470648933.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
