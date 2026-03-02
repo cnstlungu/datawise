@@ -6,6 +6,7 @@ datePublished: Tue May 06 2025 07:32:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmac6yv68000d09hza6gm41ob
 slug: null-safe-comparison-is-distinctnot-distinct-from
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MJAoiige14E/upload/55425a149a5b1659f0fd86d54b53737e.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
