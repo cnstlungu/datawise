@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nShLC-WruxQ/up
 
 ---
 
+
 What's the difference when joining with `ON` vs `USING` clause in BigQuery SQL flavor? I was quite surprised to see USING when moving from SQLServer.  
   
 In short:  
@@ -28,3 +29,12 @@ This helps you a little bit with FULL OUTER JOINS for example. Of course, for ot
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717622804042/b45f4f10-d8ad-4d49-92ea-fe7c557df51a.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Self-joins in SQL](https://datawise.dev/self-joins-in-sql)
+- [Anti-joins in SQL](https://datawise.dev/anti-joins-in-sql)
+- [SEMI-JOINS in SQL](https://datawise.dev/semi-joins-in-sql)
+- [NON-EQUI joins in SQL](https://datawise.dev/non-equi-joins-in-sql)
