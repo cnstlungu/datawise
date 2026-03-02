@@ -6,7 +6,6 @@ datePublished: Wed Jun 05 2024 21:27:56 GMT+0000 (Coordinated Universal Time)
 cuid: clx2cb99n000f0al71yq65b1h
 slug: joining-with-using-vs-on-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nShLC-WruxQ/upload/a18d8d63a4a119d9c8f0da010b93eb74.jpeg
-tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
