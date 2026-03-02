@@ -6,6 +6,7 @@ datePublished: Tue Dec 19 2023 22:46:25 GMT+0000 (Coordinated Universal Time)
 cuid: clqcxp87e000108jrejscce9g
 slug: leveraging-arrays-in-bigquery-for-query-performance
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/VhDgReMsz8w/upload/de24b096bb46c8b5384f6a4c7dd33b98.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
