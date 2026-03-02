@@ -6,6 +6,7 @@ datePublished: Sun Sep 10 2023 20:54:39 GMT+0000 (Coordinated Universal Time)
 cuid: clmdxoboi00000al5frzyfjo9
 slug: using-sets-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/t5YUoHW6zRo/upload/a7a08b8f5e5e00ea1b0176197390ff0b.jpeg
+tags: programming-blogs, python, data-structures
 
 ---
 
