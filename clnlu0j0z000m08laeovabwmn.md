@@ -6,6 +6,7 @@ datePublished: Wed Oct 11 2023 14:14:02 GMT+0000 (Coordinated Universal Time)
 cuid: clnlu0j0z000m08laeovabwmn
 slug: using-dynamic-sql-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/sb7RUrRMaC4/upload/1563e43588c1051160feed8015878114.jpeg
+tags: databases, sql, bigquery
 
 ---
 
