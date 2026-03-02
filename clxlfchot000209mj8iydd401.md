@@ -6,6 +6,7 @@ datePublished: Wed Jun 19 2024 06:00:29 GMT+0000 (Coordinated Universal Time)
 cuid: clxlfchot000209mj8iydd401
 slug: semi-joins-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5E5N49RWtbA/upload/a12b5b107805282f5ac536e46f2547b1.jpeg
+tags: databases, sql, bigquery
 
 ---
 
