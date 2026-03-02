@@ -1,12 +1,11 @@
 ---
 title: "The NOT NULL Constraint in BigQuery"
 seoTitle: "BigQuery NOT NULL Constraint: REQUIRED vs NULLABLE Modes"
-seoDescription: "How to enforce the NOT NULL constraint in BigQuery using column MODE: REQUIRED, NULLABLE, or REPEATED. Setting the right mode at table creation prevents..."
+seoDescription: "BigQuery enforces NOT NULL via REQUIRED column mode. Learn how to set REQUIRED vs NULLABLE at table creation and how it interacts with INSERT and UPDATE."
 datePublished: Thu May 16 2024 09:43:45 GMT+0000 (Coordinated Universal Time)
 cuid: clw92cmtw000m09mk8mj0ev4i
 slug: the-not-null-constraint-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5B0IXL2wAQ0/upload/5c0a2b3ff095170686b845efa59d6aec.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
