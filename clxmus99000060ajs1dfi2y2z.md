@@ -6,7 +6,6 @@ datePublished: Thu Jun 20 2024 06:00:25 GMT+0000 (Coordinated Universal Time)
 cuid: clxmus99000060ajs1dfi2y2z
 slug: natural-join-in-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/D9inTE660po/upload/139a597814d5e2104ad2189b71f3c899.jpeg
-tags: databases, sql, bigquery
 
 ---
 
