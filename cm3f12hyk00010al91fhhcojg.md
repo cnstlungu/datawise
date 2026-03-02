@@ -6,7 +6,6 @@ datePublished: Tue Nov 12 2024 22:32:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm3f12hyk00010al91fhhcojg
 slug: why-you-should-care-about-vs-code-remote-development
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ERL-cQpwb18/upload/7fc48cce5d041bbe3e8e872e89d212b8.jpeg
-tags: vscode, data-engineering, vscode-extensions
 
 ---
 
