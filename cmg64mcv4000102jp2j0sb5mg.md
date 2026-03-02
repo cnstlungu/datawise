@@ -6,7 +6,6 @@ datePublished: Tue Sep 30 2025 05:38:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmg64mcv4000102jp2j0sb5mg
 slug: with-expressions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/GkinCd2enIY/upload/d3a3e22243bdd1ba959be7269ef16ffb.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
