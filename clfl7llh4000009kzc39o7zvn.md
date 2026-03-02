@@ -6,7 +6,6 @@ datePublished: Sun Sep 25 2022 21:43:23 GMT+0000 (Coordinated Universal Time)
 cuid: clfl7llh4000009kzc39o7zvn
 slug: 9-tips-on-writing-cleaner-sql
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679582456366/1c751524-8bae-410a-a1ea-d58f7cac96cd.jpeg
-tags: analytics, sql, bigquery, gcp, data-engineering
 
 ---
 
