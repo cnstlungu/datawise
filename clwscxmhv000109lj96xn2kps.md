@@ -6,6 +6,7 @@ datePublished: Wed May 29 2024 21:47:37 GMT+0000 (Coordinated Universal Time)
 cuid: clwscxmhv000109lj96xn2kps
 slug: combining-anyvalue-with-having-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/inI8GnmS190/upload/18347cec7520991144f016d2260294e2.jpeg
+tags: databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
