@@ -6,7 +6,6 @@ datePublished: Wed Jun 05 2024 21:21:22 GMT+0000 (Coordinated Universal Time)
 cuid: clx2c2tb1000c0al75muh8nbw
 slug: another-look-at-logicaland-logicalor-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/x649mR6yBIs/upload/051479c7af935b4e2a1223d21fcfe237.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
