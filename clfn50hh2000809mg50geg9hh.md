@@ -6,7 +6,6 @@ datePublished: Mon Aug 19 2019 21:17:27 GMT+0000 (Coordinated Universal Time)
 cuid: clfn50hh2000809mg50geg9hh
 slug: extracting-twitter-data-using-python
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/hvSr_CVecVI/upload/659be6eb5aecc60b71f53c014032c1bb.jpeg
-tags: twitter, python, pandas
 
 ---
 
