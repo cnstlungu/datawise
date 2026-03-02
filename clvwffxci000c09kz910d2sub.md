@@ -6,7 +6,6 @@ datePublished: Tue May 07 2024 13:29:13 GMT+0000 (Coordinated Universal Time)
 cuid: clvwffxci000c09kz910d2sub
 slug: using-gapsfill-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/MYKAZlzW6Nw/upload/d86e093d745a4e50f32e93beef26f9f5.jpeg
-tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
