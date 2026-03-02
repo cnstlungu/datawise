@@ -6,7 +6,6 @@ datePublished: Sat Feb 08 2025 14:18:55 GMT+0000 (Coordinated Universal Time)
 cuid: cm6wa6ta2000k08l83bbpaib4
 slug: a-closer-look-at-stringagg-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CNjfgzoY8JU/upload/d0f32c6eaa071f43897255ec6d6cbc3c.jpeg
-tags: analytics, databases, google-cloud, sql, bigquery
 
 ---
 
