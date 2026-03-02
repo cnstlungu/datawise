@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_zsL306fDck/up
 
 ---
 
+
 How do you compute a cumulative SUM in BigQuery?
 
 Today we're going to look at how to compute a cumulative sum in BigQuery, a scenario that pops up now and then and is quite easy to solve using window functions.
@@ -28,3 +29,12 @@ See below for an illustration of how it all works. Happy querying!
 Bonus point: You can also use a [named window declaration](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows) for cleaner code.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
+- [Rolling period calculation in BigQuery](https://datawise.dev/rolling-period-calculation-in-bigquery)
