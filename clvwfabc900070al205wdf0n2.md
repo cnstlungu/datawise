@@ -6,6 +6,7 @@ datePublished: Tue May 07 2024 13:24:51 GMT+0000 (Coordinated Universal Time)
 cuid: clvwfabc900070al205wdf0n2
 slug: time-series-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/LPRrEJU2GbQ/upload/ee8b797625f583e51b1c81bb571ec5ad.jpeg
+tags: analytics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
