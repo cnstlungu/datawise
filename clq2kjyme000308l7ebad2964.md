@@ -6,6 +6,7 @@ datePublished: Tue Dec 12 2023 16:40:42 GMT+0000 (Coordinated Universal Time)
 cuid: clq2kjyme000308l7ebad2964
 slug: using-arrayconcatagg-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/93x6yZautvA/upload/d5ae8f31d0f7ae0e9cc3fe587468f008.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
