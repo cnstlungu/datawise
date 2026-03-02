@@ -10,11 +10,14 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/747NDboAWNY/up
 
 ---
 
+
 I was following a discussion about the “Self-Service paradox”. Then I've seen another LinkedIn post about the random 'one-off' requests.
 
 And then memories just poured in.
 
 When I just started working in Analytics a decade ago, I was pretty hyped up with this idea of data democratization. As an analyst with too much time on my hands, I thought: with the right infra in place, everyone interested can access all data in the org (minus sensitives of course) and uncover some “insights” that will help improve how things work. Data is fair game for everyone.
+
+## The reality of data democratization
 
 Time flies. I’ve picked up SQL and with a couple of years of experience, I was working as a Business Intelligence Developer, working across multiple business areas and industries. The reality struck me.
 
