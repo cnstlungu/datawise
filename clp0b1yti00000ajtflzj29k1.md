@@ -9,6 +9,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NfLZeAN7I6s/up
 
 ---
 
+
 One of the most common sightings in SQL code is using ranking functions. It's simple but we must surely get it right. I use `ROW_NUMBER` very often for de-duplication, also used `DENSE_RANK` a couple of times - but I've never used `RANK`. So how are they different?
 
 \- ROW\_NUMBER - sequential row number, regardless of equal values. If no order is provided, the results might be different every time you run it (aka non-deterministic): 1,2,3,4,5
@@ -38,3 +39,12 @@ WINDOW country_sales AS (PARTITION BY country ORDER BY sales_usd DESC)
 Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Beware of ROW_NUMBER without ORDER BY](https://datawise.dev/beware-of-rownumber-without-order-by)
+- [Tidying up WINDOW functions in BigQuery with named windows](https://datawise.dev/tidying-up-window-functions-in-bigquery-with-named-windows)
+- [Using RANGE in Window Functions in BigQuery](https://datawise.dev/using-range-in-window-functions-in-bigquery)
+- [Computing a cumulative sum in BigQuery](https://datawise.dev/computing-a-cumulative-sum-in-bigquery)
