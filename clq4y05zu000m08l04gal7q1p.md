@@ -6,6 +6,7 @@ datePublished: Thu Dec 14 2023 08:32:46 GMT+0000 (Coordinated Universal Time)
 cuid: clq4y05zu000m08l04gal7q1p
 slug: approximate-aggregate-functions-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/rdbLJFv5odc/upload/137a4e9d4c07e048ad1f65bf8f80caa9.jpeg
+tags: analytics, databases, google-cloud, sql, bigquery, data-engineering
 
 ---
 
