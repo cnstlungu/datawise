@@ -1,12 +1,11 @@
 ---
 title: "Calculating the MODE in BigQuery"
 seoTitle: "Calculate MODE in BigQuery Without a Built-in Function"
-seoDescription: "Shows how to compute the statistical mode (most frequent value) in BigQuery using COUNT, GROUP BY, and QUALIFY with RANK since there is no native MODE..."
+seoDescription: "No native MODE() in BigQuery. Compute the most frequent value with COUNT, GROUP BY, and QUALIFY. Covers ties, multiple modes, and window function approaches."
 datePublished: Wed Feb 21 2024 22:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: clswcrxmy000008l801rbgyb5
 slug: calculating-the-mode-in-bigquery
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dBI_My696Rk/upload/c7fb8ba8e01bd4af10a95a75b3022cb0.jpeg
-tags: analytics, statistics, google-cloud, sql, bigquery, data-engineering
 
 ---
 
