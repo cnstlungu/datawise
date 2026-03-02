@@ -6,6 +6,7 @@ datePublished: Sun Apr 02 2023 13:57:22 GMT+0000 (Coordinated Universal Time)
 cuid: clfzgvj5j000909ldb4sy3b8c
 slug: using-bigquery-time-travel
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/W9jfKmGYb1Q/upload/80070b90ae991df1882328807ba0d6e7.jpeg
+tags: analytics, sql, bigquery, business-intelligence, data-warehousing
 
 ---
 
