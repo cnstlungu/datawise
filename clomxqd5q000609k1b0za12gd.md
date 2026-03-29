@@ -1,7 +1,7 @@
 ---
 title: "Using Correlated Subqueries in BigQuery"
-seoTitle: "Correlated Subqueries in BigQuery: Use Cases and Pitfalls"
-seoDescription: "Correlated subqueries reference outer query values row-by-row. See scalar and filter examples in BigQuery, and learn when to replace them with window functions."
+seoTitle: "BigQuery 'Correlated Subqueries Not Supported' — How to Fix"
+seoDescription: "Fix the BigQuery error: 'correlated subqueries that reference other tables are not supported unless they can be de-correlated'. Rewrite them as joins, lateral joins, or window functions with practical examples."
 datePublished: Mon Nov 06 2023 13:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: clomxqd5q000609k1b0za12gd
 slug: using-correlated-subqueries-in-bigquery
