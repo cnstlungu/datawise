@@ -35,3 +35,9 @@ add them dynamically with little boilerplate.
 🔔 Follow me for more insights on Python and Analytics. Thanks for reading!
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Structural Pattern Matching in Python](https://datawise.dev/structural-pattern-matching-in-python)
