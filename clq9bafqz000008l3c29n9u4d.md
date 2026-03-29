@@ -18,3 +18,9 @@ See below an example of it in action.
 ![](https://miro.medium.com/v2/resize:fit:1400/0*lfaJ85rkRdNSNUvb align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Decorators in Python](https://datawise.dev/decorators-in-python)
