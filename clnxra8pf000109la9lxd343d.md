@@ -1,7 +1,7 @@
 ---
 title: "Pay attention to this when UNNESTING in BigQuery"
-seoTitle: "BigQuery UNNEST: Why Comma JOIN Silently Drops Rows"
-seoDescription: "A comma before UNNEST acts as CROSS JOIN — it silently drops rows with empty arrays. LEFT JOIN UNNEST keeps them. See when each behavior changes your results."
+seoTitle: "BigQuery UNNEST: LEFT JOIN vs Comma — Which Drops Rows?"
+seoDescription: "A comma before UNNEST acts as CROSS JOIN and silently drops rows with empty arrays. LEFT JOIN UNNEST preserves them. Side-by-side examples showing when each behavior changes your results."
 datePublished: Thu Oct 19 2023 22:30:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnxra8pf000109la9lxd343d
 slug: pay-attention-to-this-when-unnesting-in-bigquery
