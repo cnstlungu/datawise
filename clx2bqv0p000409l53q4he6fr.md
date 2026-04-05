@@ -18,3 +18,9 @@ A good way to ensure data quality in a data pipeline is to have a good look at i
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717621805610/46bca7d8-54be-4a46-8daf-96a870193625.jpeg align="center")
 
 *Found it useful? Subscribe to my Analytics newsletter at*[*notjustsql.com*](http://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Table grain quick validation with SQL](https://datawise.dev/table-grain-quick-validation-with-sql)
