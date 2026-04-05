@@ -127,3 +127,4 @@ Thanks for reading!
 - [What are GCP Cloud Workflows and how can they help you as a Data Engineer](https://datawise.dev/what-are-gcp-cloud-workflows-and-how-can-they-help-you-as-a-data-engineer)
 - [Loading data from Google Cloud Storage into BigQuery using Cloud Workflows](https://datawise.dev/loading-data-from-google-cloud-storage-into-bigquery-using-cloud-workflows)
 - [Using the bq CLI utility with BigQuery](https://datawise.dev/using-the-bq-cli-utility-with-bigquery)
+- [Replicating datasets across regions in BigQuery](https://datawise.dev/replicating-datasets-across-regions-in-bigquery)
