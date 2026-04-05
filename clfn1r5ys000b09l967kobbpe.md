@@ -264,3 +264,9 @@ In this practical exercise, we’ve looked at transforming variable-schema event
 Thanks for reading and stay tuned for other interesting posts about Data Engineering.
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://www.notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Compacting date intervals in BigQuery](https://datawise.dev/compacting-date-intervals-in-bigquery)
