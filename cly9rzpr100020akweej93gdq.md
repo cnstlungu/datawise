@@ -27,3 +27,9 @@ But you cannot ❌ :
 ![](https://miro.medium.com/v2/resize:fit:700/0*qu2_npQ8PXWZUXaA align="left")
 
 *Found it useful? Subscribe to my Analytics newsletter at* [*notjustsql.com*](https://notjustsql.com)*.*
+
+---
+
+*Enjoyed this? Here are some related articles you might find useful:*
+
+- [Parameters in BigQuery](https://datawise.dev/parameters-in-bigquery)
