@@ -1,7 +1,7 @@
 ---
 title: "Parameters in BigQuery"
-seoTitle: "Understanding BigQuery Parameters"
-seoDescription: "Learn the difference and uses of parameters and variables in BigQuery SQL, including security and performance implications"
+seoTitle: "BigQuery Parameters vs Variables: What's the Difference?"
+seoDescription: "Parameters and variables both hold typed values in BigQuery, but they solve different problems. Learn when to use query parameters for user input and when variables fit scripting workflows."
 datePublished: Sat Feb 07 2026 12:37:25 GMT+0000 (Coordinated Universal Time)
 cuid: cmlcaud04000802jv5gzp5qxk
 slug: parameters-in-bigquery
