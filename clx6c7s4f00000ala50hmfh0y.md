@@ -1,7 +1,7 @@
 ---
 title: "Here's how GROUP BY works differently across SQL dialects"
-seoTitle: "BigQuery GROUP BY: Can You Use Column Aliases? (Yes)"
-seoDescription: "In BigQuery you can use column aliases in GROUP BY — unlike SQL Server. Covers GROUP BY ALL, alias scoping rules, ROLLUP, and other dialect differences with working examples."
+seoTitle: "Can You Use Column Aliases in GROUP BY in BigQuery?"
+seoDescription: "Yes, BigQuery allows column aliases in GROUP BY. See how this differs from SQL Server and other dialects, with examples and edge cases."
 datePublished: Sat Jun 08 2024 16:36:18 GMT+0000 (Coordinated Universal Time)
 cuid: clx6c7s4f00000ala50hmfh0y
 slug: heres-how-group-by-works-differently-across-sql-dialects
