@@ -1,6 +1,6 @@
 ---
 title: "Using Correlated Subqueries in BigQuery"
-seoTitle: "BigQuery 'Correlated Subqueries Not Supported' — How to Fix"
+seoTitle: "BigQuery 'Correlated Subqueries Not Supported' - How to Fix"
 seoDescription: "Fix the BigQuery error: 'correlated subqueries that reference other tables are not supported unless they can be de-correlated'. Rewrite them as joins, lateral joins, or window functions with practical examples."
 datePublished: Mon Nov 06 2023 13:25:35 GMT+0000 (Coordinated Universal Time)
 cuid: clomxqd5q000609k1b0za12gd
