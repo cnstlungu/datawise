@@ -1,7 +1,7 @@
 ---
 title: "The power of BigQuery INFORMATION_SCHEMA views"
-seoTitle: "BigQuery INFORMATION_SCHEMA: Tables, Jobs, Storage & More"
-seoDescription: "Query INFORMATION_SCHEMA in BigQuery to list tables, monitor job costs, track storage by dataset, and generate dynamic SQL — with ready-to-run examples."
+seoTitle: "BigQuery INFORMATION_SCHEMA: 12 Useful Queries for Tables, Jobs, and Storage"
+seoDescription: "Ready-to-run INFORMATION_SCHEMA queries for BigQuery tables, jobs, partitions, and storage costs. Practical examples you can copy and adapt."
 datePublished: Mon Sep 25 2023 21:33:09 GMT+0000 (Coordinated Universal Time)
 cuid: clmzenloq000008l69o4m0feh
 slug: the-power-of-bigquery-informationschema-views
