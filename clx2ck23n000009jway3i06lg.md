@@ -1,7 +1,7 @@
 ---
 title: "Controlling ordering of NULL values in the ORDER BY clause"
-seoTitle: "BigQuery ORDER BY NULL: NULLS FIRST vs NULLS LAST"
-seoDescription: "Control NULL sort order in BigQuery using NULLS FIRST and NULLS LAST in the ORDER BY clause. By default, ASC sorts NULLs first and DESC sorts NULLs last —..."
+seoTitle: "BigQuery ORDER BY NULLS FIRST or LAST: Default Sort Rules Explained"
+seoDescription: "Learn how BigQuery sorts NULL values by default in ORDER BY, and how to override that behavior with NULLS FIRST and NULLS LAST."
 datePublished: Wed Jun 05 2024 21:34:46 GMT+0000 (Coordinated Universal Time)
 cuid: clx2ck23n000009jway3i06lg
 slug: controlling-ordering-of-null-values-in-the-order-by-clause
