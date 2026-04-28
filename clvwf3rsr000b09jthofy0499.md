@@ -1,7 +1,7 @@
 ---
 title: "JSON datatype vs JSON-like STRING in BigQuery"
-seoTitle: "BigQuery JSON Type vs JSON-Like STRING: Key Differences"
-seoDescription: "BigQuery JSON functions accept both native JSON type and JSON-formatted strings, but they behave differently. A json-like STRING is not validated —..."
+seoTitle: "BigQuery JSON Type vs STRING: What Changes and Why It Matters"
+seoDescription: "BigQuery handles native JSON and JSON-formatted STRING values differently. Learn what changes in validation, parsing, and function behavior."
 datePublished: Tue May 07 2024 13:19:46 GMT+0000 (Coordinated Universal Time)
 cuid: clvwf3rsr000b09jthofy0499
 slug: json-datatype-vs-json-like-string-in-bigquery
