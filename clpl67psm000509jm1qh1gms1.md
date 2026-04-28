@@ -1,7 +1,7 @@
 ---
 title: "Using SELECT * with EXCEPT and REPLACE"
-seoTitle: "BigQuery SELECT * EXCEPT and REPLACE Explained"
-seoDescription: "Learn how to use SELECT * EXCEPT and SELECT * REPLACE in BigQuery to exclude or transform specific columns without listing every field."
+seoTitle: "BigQuery SELECT * EXCEPT and REPLACE: Modify Columns Without Listing All of Them"
+seoDescription: "Use SELECT * EXCEPT and REPLACE in BigQuery to exclude or transform columns without rewriting the full select list. Includes practical examples."
 datePublished: Thu Nov 30 2023 12:27:11 GMT+0000 (Coordinated Universal Time)
 cuid: clpl67psm000509jm1qh1gms1
 slug: using-select-with-except-and-replace
